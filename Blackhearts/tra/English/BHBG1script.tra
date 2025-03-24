@@ -281,7 +281,7 @@
 @415=~I'm not like most mercenaries. It saddens me to see the losses endured by common folk on the Sword Coast during these times. I'd like to help however I can.~
 @416=~You've had it rough. A few compassionate words is the least I can give you.~
 @417=~Well, I'll not spit on such compassion by being useless. I think... there's one thing that I recall that might help you.~
-@418=~Clay. There were reddish-orange clay stains in their tunics. Such clay is common to the Red Canyons. They must have at least gone through that area.~
+@418=~Clay. There were reddish-orange clay stains on their tunics. Such clay is common to the Red Canyons. They must have at least gone through that area.~
 @419=~The Red Canyons? Where is that exactly?~
 @420=~That's it then? Are you sure that's as much as you can recall?~
 @421=~I know the spot. Guess that's where I'll have to start looking. Thank you.~
@@ -1350,7 +1350,7 @@
 @1463=~So we're doing jobs for bandits? I don't think I much care for that.~
 @1464=~Alright, I'm ready to begin.~
 @1465=~They've been hitting caravans with impressive speed and then retreating off before a response can be formed. The last attack was south of Beregost. I'm told a survivor of the raid is currently working to unload goods at the Travenhurst manor on the north side of town. I'd direct any inquiries to him.~
-@1466=~A more proficient bunch than your average hobgoblins marauders. What makes them so effective is that apparently there is a pair of mages among them who enhance the group in battle. Their leader also seems to wield a very wicked-looking blade. Those who have escaped the raid said they were deeply unnerved by just the sight of it.~
+@1466=~A more proficient bunch than your average hobgoblins marauders. What makes them so effective is that apparently there is a pair of mages among them who enhance the group in battle. Their leader also seems to wield a very wicked-looking blade. Those who had escaped the raid said they were deeply unnerved just by the sight of it.~
 @1467=~Four hundred and eighty coins. A significant improvement over your last payout, yes? Still pocket change for a reputable hunter, but I'm sure you'll find it worth the danger.~
 @1468=~Good. Take the hobgoblin leader's sword as proof of the deed. It was distinctive enough, it will serve as all the evidence I need. Happy hunting.~
 @1469=~Is this a social visit? I don't see the sword on you.~
@@ -1363,7 +1363,7 @@
 @1476=~I suppose...~
 @1477=~I am afraid that working for bandits, even tangentally, is not something I will compromise on.~
 @1478=~If it comforts your asinine moral standards, the money has already been paid. You're working for me, not for the Chill. Now, was there anything else?~
-@1479=~That is a symbol to the dead god Bhaal. Maybe the old man was an ex-cultist. You should get rid of it. You would not want another to find it and come to the belief you are associated with such a dark god, even dead, would you?~
+@1479=~That is a symbol to the dead god Bhaal. Maybe the old man was an ex-cultist. You should get rid of it. You would not want another to find it and come to the belief that you are associated with such a dark god, even dead, would you?~
 @1480=~Interesting. So what now?~
 @1481=~Oh now what is this crawling sensation I feel in my skin? Is that the hobgoblin captain's sword? Yes, it must be. I'd recognize a bane enchantment anywhere.~
 @1482=~That is a look I think I might only get when I see a very rich and endowed man wearing pantaloons too tight and a purse too loose.~
@@ -2051,7 +2051,7 @@
 @2158=~And thus your legend grows... So who got to her? Is she still alive?~
 @2159=~She's being held hostage. The man who told me mentioned the name 'Night Knives'. That familiar to you?~
 @2160=~You're always one step ahead, aren't you?~
-@2161=~It isn't the most unsurprising thing I've heard lately. For a spy, she rather lacks in talent or experience.~
+@2161=~It isn't the most unsurprising thing I've heard lately. For a spy, she rather lacks talent or experience.~
 @2162=~Aww, she's tryin' her best. We just gotta give her some pointers is all.~
 @2163=~The man who told me mentioned the name 'Night Knives'. That familiar to you?~
 @2164=~The Night Knives? Well isn't that interesting.~
@@ -2364,7 +2364,7 @@
 @2468=~It's not... it's not like that. I'm here because I want ta help <CHARNAME>. I'm here ta protect <PRO_HIMHER>.~
 @2469=~Your voice quivers. Does this life disgust you? Or does it touch something inside of you that you are afraid of?~
 @2470=~Disgust, fear, whatever you want to call it. I just don't like it. But I'm stickin' with <CHARNAME>, as long as it takes.~
-@2471=~After that, wouldn't mind settlin' down and enjoyin' a long rest. Gods know we deserved one.~
+@2471=~After that, wouldn't mind settlin' down and enjoyin' a long rest. Gods know we deserve one.~
 @2472=~We still have a ways to go before then, Imoen.~
 @2473=~Why don't we close out tonight with a toast? To the adventuring life.~
 @2474=~The point of life isn't the destination. It's what fulfills you in the moment. I just can't imagine being fulfilled by anything else. And I think we're more similar in that way than you realize.~
