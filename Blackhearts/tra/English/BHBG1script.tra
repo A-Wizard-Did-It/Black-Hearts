@@ -123,12 +123,12 @@
 @269=~I don't want to 'challenge' him. I want to kill him.~
 @270=~Are we done here? I'm tired of talk. It's time to die, witch.~
 @271=~A Bhaalspawn? That... I see. He was a fool to underestimate you. I suppose it was inevitable that others like him would rise to challenge him.~
-@272=~Oh child. We are too tied to fate to decide our own. Like you both, I am also ensnared in the machinations of the Dead Lord. Although, where Sarevok would inherit his father's legacy, I seek to simply survive it.~
+@272=~Oh child. We are too tied to fate to decide our own. Like you both, I am also ensnared in the machinations of the Dead Lord. Although, where Sarevok would inherit his father's legacy, I seek to simply survive and profit from it.~
 @273=~I'll never hold it against a woman for just trying to live to see another day, but you really did mess this one up by drawing our attention.~
 @274=~You don't mean that you're also a child of Bhaal, are you?~
 @275=~Spoken as your father would. Like you and your brother, I am also ensnared in the machinations of a dead god. Although where he seeks to inherit his father's legacy, I seek to simply survive it.~
-@276=~No. But the dead god's taint does not follow only his children. We who planted the seeds in preparation for his death share that inheritance. Yes, I am a former member of the Deathstalker cult.~
-@277=~But while each 'faithful servant' supplicated themselves with their right hand out, they kept their left hidden, plotting and scheming for Bhaal's death to serve their own ends above all others.~
+@276=~No. But the dead god's taint does not follow only his children. We who planted the seeds in preparation for his death share that inheritance. Yes, I am a former member of the Deathstalker cult... and was to be the High Priest when his last one disappeared.~
+@277=~I was among many who vied for the position, who would ensure the rise of the Lord again. While each 'faithful servant' supplicated themselves with their right hand out, they kept their left hidden, plotting and scheming for Bhaal's death to serve their own ends above all others.~
 @278=~As well they should. No master is worth serving unless they can become a stepping off point to grow our own power.~
 @279=~Speak plainly. What are you insinuating and why should I care?~
 @280=~Is someone's hunting you? Someone that was from within Bhaal's own cult?~
@@ -136,13 +136,13 @@
 @282=~I am saying that someone is systematically destroying every last shred of Bhaal's former cult. Eliminating the 'competition', for whatever endgame Bhaal had envisioned.~
 @283=~What she is saying... tis t-troubling. I have heard reports from other Harpers of many disappearances of cultists that were being t-tracked. I always attributed it t-to good fortune, but perhaps tis not so...~
 @284=~And you as a former member of the cult are now being targeted?~
-@285=~Bhaal's mortal body had hardly lay still on Boareskyr Bridge before Deathstalkers began to die in droves. Some attributed the death of so many assassins to some divine connection they had to Bhaal. I knew better. Someone from within was acting against us.~
-@286=~I fled early, knowing I could not trust any of my former 'allies', for one of them had to be the reason. For a time, Thay seemed like a suitable haven. Yet even there I knew I would not be safe forever. I bid my time, bowing before the Zulkirs while I gathered my power.~
-@287=~And now I have come back to the Sword Coast. I will hide no longer. I have made my wager and I will see it through to the end. But now we come back to the issue of you. You may have not been sent here to kill me, but your presence is an unacceptable risk either way.~
+@285=~Bhaal's cult was crippled during the Time of Troubles as all of our most powerful assessins fell dead. Those of us left tried to assemble to fulfill the prophecy that would allow our Lord to rise again, but we were sabotaged at every turn. I would have become High Priest to ensure his rise, yet some dark presence hunted us from within.~
+@286=~There was no opportunity to accrue power in that viper's nest, so I left. Thay seemed like a suitable haven, and place to hone my magical talents. Yet even there I knew I would not be safe forever. I bid my time, bowing before the Zulkirs while I gathered my power.~
+@287=~And now I have come back to the Sword Coast. A new Lord of Murder rises in Sarevok Anchev, one who can grant me the power Bhaal never could. I have made my wager and I will see it through to the end. But now we come back to the issue of you. You may have not been sent here to kill me, but your presence is an unacceptable risk either way.~
 @288=~I don't suppose there is going to be any talking you into a surrender, is there? I have mercy, even for a former Bhaal cultist.~
 @289=~I had no illusions this could go either way. Prepare yourself.~
 @290=~You won't live long enough to see Sarevok fall, old crone cultist.~
-@291=~Surrender? Oh, what a quaint notion. No. There can be no surrender. If you came to me, it will not be long before the Blackheart follows.~
+@291=~Surrender? Oh, what a quaint notion. You think you have me cornered? You've stepped into the domain of an archmage, commanding power that I've cultivated for years! I will render you into dust!~
 @292=~I cannot decide if you are yet another puppet pulled by invisible strings, or strangely overlooked anomaly of your father's legacy. You should give some consideration to that question as well, with what few moments of life you have left.~
 @293=~Silmivya! Dannimus! Hold nothing back!~
 
@@ -248,7 +248,7 @@
 @385=~Though the leaves have a shade darker hue to them. But I think they look lovely still. We were ever so grateful for her to gift a part of herself to us.~
 @386=~Bad sister! We are still rejuvinating, you know we should not do such things. Please, ignore my sister's forwardness.~
 @387=~Run away <RACE>, before my sister's charms snare you!~
-@388=~You are welcome to rest under our tree if you wish. I will make sure my sister does not try anything while you sleep *giggles*~
+@388=~You are welcome to rest under our tree if you wish. I will make sure my sister does not behave rudely while you sleep *giggles*~
 
 // Elenair
 
@@ -401,7 +401,7 @@
 @526=~I do appreciate the courtesy, but it's hard to take your words at face value when you're robbing travelers like a common brigand.~
 @527=~They provided no reason, yet look upon me and ask yourself if the answer is so hard to fathom.~
 @528=~Yeah, pretty sure in all our time growin' up in Candlekeep, weren't any ogres or other monster-types around. Uh, no offense.~
-@529=~I take no offense, but your casual manner only makes it more obvious.~
+@529=~I take no offense, but your casual manner only illustrates the problem more clearly.~
 @530=~You have to understand that your kind is considered dangerous here, and not without merit. It's unreasonable to just demand entrance.~
 @531=~I suppose I could try to argue your point for you at the gate. I grew up in Candlekeep, I might be able to sway them.~
 @532=~There are many libraries, but I do not come to this land for just any tome. I come for a very specific tome, and in all my research, I could only find one location which had a copy. Candlekeep.~
@@ -549,7 +549,7 @@
 @665=~I sense evil in you.~
 @666=~And I sense... perfume on you? It’s a sickly scent, I know you’re trying to cover up the smell of sweat in that tin suit you wear, but consider a lighter application.~
 @667=~I will not fall for your distraction. I beg you, reconsider the path you walk! There’s chance for redemption yet.~
-@668=~It was not a distraction, it was an honest suggestion. If only you could provide me practical advice in return instead of useless preaching.~
+@668=~It was not a distraction, it was an honest suggestion. It would only be polite if you could offer me practical advice in return instead of useless preaching.~
 @669=~And it's you again. Wonderful.~
 @670=~Would you not at least consider doing your work in service to a lawful organization? The church has need of agents that operate more subtly and root out evil where paladins cannot easily find it.~
 @671=~The only thing that makes a lawful organization such is the power for them to say so.~
@@ -1386,7 +1386,7 @@
 @1499=~Have to admit, it's been enjoyable so far. I hope you have another one lined up.~
 @1500=~Why, are you looking to get out of the hunting profession already? Of course that is not it. No, another contract just came in while you were out hobgoblin hunting.~
 @1501=~I am glad to hear it. The hunting life seems to suit you so far. But yes, another contract just came in while you were out hobgoblin hunting.~ 
-@1502=~While you may have cleaned out the Nashkel mines of the kobolds who infested it, it seems another man named Sazazir has decided that locale would make for an excellent lair. Deep, damp holes in the ground attract a certain type of megalomaniac.~
+@1502=~While you may have cleaned out the Nashkel mines of the kobolds who infested it, it seems another man named Sazazir has decided that locale would make for an excellent lair. Deep, damp holes in the ground attract a certain breed of megalomaniac.~
 @1503=~In this case though, I can see why Sazazir would value the arrangement. All those not-quite fresh bodies from the miners killed during the kobold occupation are a veritable army to be exploited by someone with an inclination for the darker arts.~
 @1504=~Was it too much to hope that our travels would not return us to that darkened hole? I suppose even just this sliver of hope was too much to ask for.~
 @1505=~The fiend! Capitalizing on one emergency to create another! And with foul magics no less.~
@@ -1403,7 +1403,7 @@
 @1516=~What's the pay?~
 @1517=~Mmph. Yes, Necromancy is so... classless.~
 @1518=~*laughs* Yes, perhaps you should invest in a clip to pinch your nose shut? Necromancers will always have the advantage when they can use their stench against you.~
-@1519=~They are. Though you may have a working relationship established with the mayor, you'll still be working through me on this one. They want to keep this one quiet. The fact that the depths of the mines are occupied again is being kept quiet, so don't go bumbling about talking about it. Not even the miners and guards in the upper levels have been made aware of it.~
+@1519=~They are. Though you may have a working relationship established with the mayor, you'll still be working through me on this one. They want the fact that the depths of the mines are occupied again is being kept quiet, so don't go bumbling about talking about it. Not even the miners and guards in the upper levels have been made aware of it.~
 @1520=~This mayor, Ghastkill, wants to avoid a bloodbath. And he's shrewd enough to know that sending in barely trained soldiers against a necromancer is essentially just gift wrapping them an army. So once again, it is up to a few more highly skilled individuals to save the day.~
 @1521=~Highly skilled? Watch it Illasera, I might think you're starting to get fond of me.~
 @1522=~That's all I need to know.~
@@ -1460,7 +1460,7 @@
 @1573=~I don't believe he's physically attacked any of the travelers he has stolen from. He simply stops them and demands their tome. None have dared refuse.~
 @1574=~Most uncommon for an Ogre to only steal from travelers but leave them unharmed. They are usually vile things, compelled to kill.~
 @1575=~Perhaps he can be talked to then if he has been nonviolent up to this point.~
-@1576=~That would be atypical. Oni are far more capable than the brutish oafs they're falsely thought to be cousins of, but that does not change the fact that they have little but enmity towards others not of their kind. The preferable outcome would be for his body to be cold in the ground and the book in your hand. Death solves more problems long term, trust me.~
+@1576=~That would be atypical. Oni are far more capable than the brutish oafs they're thought to be cousins of, but that does not change the fact that they have little but enmity towards others not of their kind. The preferable outcome would be for his body to be cold in the ground and the book in your hand. Death solves more problems long term, trust me.~
 @1577=~Just the same, I'd rather try. You said the client specifically wanted the ogre removed, not killed?~
 @1578=~*sigh* Yes, the contract specifies removal and not death, though I think the spirit of the contract is fairly implicit, if not the letter. If you want to have tea with an oni and try to win him over with rhetoric, be my guest. Just make sure someone in your group survives to report back to me so I can have a laugh about hearing how it all went wrong.~
 @1579=~A few. He calls himself 'The Gentleman', if you can believe it. Perhaps he has adopted an air of civility to better deal with his victims. Or it could all just be mockery. Oni are not unclever. I can't say what or why he's doing this, besides perhaps as an easy way to try and obtain some magical tomes. If there's one thing you can always depend on, it's that an ogre mage's motivation is growing their own power and knowledge.~
@@ -1512,7 +1512,7 @@
 @1625=~As for the group themself, a competent mercenary band with both divine and arcane might on their side. Be especially wary of the leader, Adogeon Sharpgrin. He puts on the air of a fool but was an assassin before he joined the group. If you encounter the group and do not see him, it is likely because he is about to sink a blade into your back.~ 
 @1626=~That would be the smart move, yes. But this morning I heard a caravan rush into town, saying that they had seen a group of madmen screaming up at the sun as it rose from the horizon. Some of the descriptions did curiously match our Happy Companions. It seems they've abandoned sanity in more ways than one.~
 @1627=~More proof then that something happened in the tomb that ensnared them by a darker power. Unless this is some absurd surfacer ritual I have yet to learn of.~
-@1628=~It does sound like they've been afflicted by -something-, that is certain. It would be prudent to bring along some measure of divine magic with you, just in case.~
+@1628=~It does sound like they've been afflicted by -something-, that is certain. It would be prudent to bring along some measure of clerical magic with you, just in case.~
 @1629=~Nine hundred and sixty gold. I am sure that will be worth a short trip up the road? I will not lie to you, this particular mercenary group will make you work for your earnings, if you are able to catch and attempt to dispose them.~
 @1630=~I am glad to hear it. Go north, dispose of this band of madmen, and retrieve the relic. Good hunting, <CHARNAME>.~
 @1631=~It is always a pleasure to see you. But I would not want social visits to interfere with your hunting. Go on, time is wasting.~
@@ -1638,7 +1638,7 @@
 @1748=~It’s true, I despise this place. But it is a necessary evil. I cannot achieve my goals without making forays into cities and towns that would be better given back to the land.~
 @1749=~I've always found that your type make exceptional hunters when it comes to beasts and monsters. It's always more difficult when it comes to the matter of hunting people though. Do you also draw such a line between monsters and men?~
 @1750=~Men and monster are not the same as you say. Every man is born with the potential for good, even if life eventually twists them on the wrong path. The same cannot be said for monsters.~
-@1751=~Good or evil, the dividing line comes down to power. Men are weak and preyed upon and so I do so in turn to those who would prey on them. If a group of peaceful orcs were attacked on their lands by humans, I might be inclined to protect the orcs.~
+@1751=~Good or evil, the dividing line comes down to power. Where men are weak and preyed upon, I become their protector. If a group of peaceful orcs were attacked on their lands by humans, I might be inclined to protect the orcs.~
 @1752=~There is some truth to what you say. Men can behave rather monstrously. I make that decision in the moment, when my conscience demands.~
 @1753=~A strange affliction. I've heard of some mountain hermits claiming the spirits speak to them, but always just assumed they were kooks and charlatans. So you just, obey what the voices in your head tell you to?~
 @1754=~Not always. It's like a conversation, or debate. There are good spirits and there are bad spirits. Then there are other spirits beyond any conception of morality. I mediate and compromise between them.~
@@ -1725,7 +1725,7 @@
 @1835=~Indeed. But I would prefer our topic changes to something that isn't art criticism.~
 @1836=~You were about to tell me how you know all that about me.~
 @1837=~I guess it's not surprising that you know where I come from.~
-@1838=~*sips* Is it truly such a surprise? The bounty was issued to every low life, assassin, and illicit hunter in the region, likely before the morning after your escape had even dawned. Of course it was floated by me as well. When you came into this bar, I recognized you. The description on the contract leaves little confusion.~
+@1838=~*sips* Is it truly such a surprise? The bounty was issued to every low life, assassin, and illicit hunter in the region by the time the sun rose after the night of your escape. Of course it was floated by me as well. When you came into this bar, I recognized you. The description on the contract leaves little confusion.~
 @1839=~And yet, you did not take on the bounty. Why?~
 @1840=~I suppose I should thank you for not trying to collect on it.~
 @1841=~*chuckles* Pup, the original bounty was for two-hundred gold. Imagine, Illasera the Quick, getting out of bed for such a paltry sum.~
@@ -1772,7 +1772,7 @@
 @1882=~Expelled? So you were a bit of a hellion as a child?~
 @1883=~Mmm yes, well, you could say I had a mentor-figure myself, growing up. Not quite like Gorion, to be sure. Sir Cormysh. He was a retired knight I was 'adopted by' as a child after being expelled from the orphanage.~
 @1884=~Remember it dearly; it may be the last time you hear anything of the sort from these lips again.~
-@1885=~My mother was quite insane and my father is... well, let us just say that he was not available. I was sent to an orphanage early in life. It seems our kind don't get to have the luxury of loving families.~
+@1885=~My mother was quite insane and my father is... well, it's better not to speak of him. I was sent to an orphanage early in life. It seems our kind don't get to have the luxury of loving families.~
 @1886=~Our kind?~
 @1887=~I'm sorry to hear that. So tell me about him.~
 @1888=~I bet he was a real bastard, huh?~
@@ -1827,7 +1827,7 @@
 @1937=~Huh.~
 @1938=~Interesting.~
 @1939=~She tried drowning me in a bath tub when I was eight summers of age. She had always accused me of being tainted by darkness, cursed, demon-spawn, abomination... the list goes on. As for how doing it made me feel...~
-@1940=~I don’t even really remember my life before then. They’re like someone else’s memories, so distant that I recall the events but cannot conjure a single emotion to associate with them. No, my life started when I felt the spray of her blood on my face, the feel of it flowing down over my arm from where it gushed from the nail file I had stuck in her neck.~
+@1940=~I don’t even really remember my life before then. They’re like someone else’s memories, so distant and muted. Colorless. I can conjure not a single emotion to associate with them. No, my life started when pierced her neck with that nail file. The hot spray of blood on my face, the slow creep of it flowing down my arm.~
 @1941=~It's like I awoke then, and suddenly the world was rendered in sharp clarity around me.~
 @1942=~I don't know what to say.~
 @1943=~By the gods, that is dark.~
@@ -1842,7 +1842,7 @@
 @1952=~To Baldur's Gate. My quarries continue there. I expect you'll find your way there as well. Until then, good hunting. Be sure not to die.~
 @1953=~It wasn't, despite my reservations about you at first. I will be heading to Baldur's Gate now. My quarries continue there. I expect you'll find your way there as well. Until then, good hunting. Be sure not to die.~
 @1954=~The idea does not sound offensive to me. I will be heading to Baldur's Gate now. My quarries continue there. I expect you'll find your way there as well. Until then, good hunting. Be sure not to die.~
-@1955=~Pup, I am the last person to ask that question of.~
+@1955=~Pup, I am the last person to pose that question to.~
 @1956=~How about you? What was your first?~
 @1957=~I guess it's just something I'll have to come to terms with.~
 @1958=~Candlekeep seems like a perfectly dull place to have a childhood. How did you come out of that place with a personality to speak of?~
@@ -1992,7 +1992,7 @@
 @2099=~Yeah that sounds like a Harper alright. I'll head that way and see what she knows.~
 @2100=~True. But reason enough, given the options you have available to you. Unless you have a better place in mind to look, I think your direction is clear.~ 
 @2101=~Go look into this Nerys and see if she can point you in the right direction. I will remain here, if you have other questions.~
-@2102=~A Harper. If a Harper is in the area, then I believe our best lead is to find another Harper who might be aware of their movements. Since this Riezen doesn't seem to be the type of Harper that would stalk the cities.~
+@2102=~A Harper. If a Harper is in the area, then I believe our best lead is to find another Harper who might be aware of their movements. Since this Riezen doesn't seem to be the type that would stalk the cities.~
 @2103=~I suspected that might be the nature of the magic, but it's good to have confirmation. Well then, it seems like you have a trip to Cloakwood ahead of you.~
 @2104=~Ah, about that... I didn't exactly leave the Shadow Druids on good terms when I passed through there the first time. They may not be an option.~
 @2105=~I doubt they'll be forthcoming with Jaheira among us. There has to be another option.~
@@ -2111,12 +2111,12 @@
 @2218=~*sigh* No, I am too close to my goal, I'll not let my personal feelings get in the way of things. Be assured my actions will only serve to aid in your deposing the Iron Throne. That is all that is necessary.~
 @2219=~I arrived to see that Cherise was keeping her beasts in a pacified state. A clever way to keep them in line until she was ready to hand them off for whatever the Iron Throne has planned, but it also rendered them completely vulnerable inside.~
 @2220=~I began to kill them in their slumbering condition, one at a time. It would have been short work, but I was interrupted by Cherise herself. While I had veiled myself from magical detection, it seems that killing her creatures had triggered an alarm.~
-@2221=~We engaged in a magical battle. You should consider yourself lucky I diverted her away from you. Her magical prowess was quite considerable.~
+@2221=~We engaged in a battle. You should consider yourself lucky I diverted her away from you. Her magical prowess was quite considerable.~
 @2222=~Of course, she is a Red Wizard. Even though not a natural born Thay, if her talents purchased her a place among my kin, they must be quite proficient.~
 @2223=~But you were able to keep up with her?~
 @2224=~I expect you had some tricks up your sleeve.~
 @2225=~Of course. In terms of raw magical prowess, she may have exceeded my own abilities. But I had set several warding traps beforehand as a precaution and made certain that several of my arrows were enchanted to unravel magical protections.~
-@2226=~In an act of desperation, she dispelled the hold she had placed over her creatures, freeing them all at once. That turned the tides against me. Regrettably, I had to hasten a retreat.~
+@2226=~As she realized that I had the better of her, she dispelled the hold she had placed over her creatures, freeing them all at once. An act of desperation that turned the tides against me. Regrettably, I had to hasten a retreat.~
 @2227=~Can you just imagine the dramatic interpretation done in a play?! There'd be so many costumes, so many props and effects! Oh, I need to commit this to page now before I forget any of it!~
 @2228=~I'm glad you got out when you could. That could have turned deadly very fast.~
 @2229=~Unfortunate that you weren't able to take care of her. Can we follow up with another attack?~
@@ -2239,7 +2239,7 @@
 @2343=~Do you prefer adventuring or hunting?~
 @2344=~True, though my own adventures tended to garner less attention than yours have. I've raided a few tombs and delved a few dungeons before, however.~
 @2345=~My adventures? Hm. Let me think.~
-@2346=~Please. I just don't feel the need to broadcast my achievements so obviously. Perhaps you need an example? Let me think~
+@2346=~Please. I just don't feel the need to shout out my achievements so obviously. Perhaps you need an example? Let me think~
 @2347=~Hunting, by and large. I'm simply more adept at the craft of it. Though, there have been a few adventures I've had of note. Hrm. Let me think.~
 @2348=~There was this one adventure, a rescue mission, to save the scion of a noble family from imprisonment.~
 @2349=~Not a typical prison break. For this mission, I had to delve into the depths of Tartarus itself to free him.~
@@ -2261,13 +2261,13 @@
 @2365=~The alliance was a trick, used to lure the other family's into a hopeless battle that slaughtered them all. Yet this cross was compounded by the trickery of the third family who abducted the scion. They paid a powerful mage to banish him to Tartarus. Betrayal on top of betrayal, not so uncommon in Sembian politics.~
 @2366=~They knew his father, the Duke, would stop at nothing to retrieve his son, even if it meant the bankruptcy his estate. Indeed, the cost of funding our team and the magical artifacts needed to conduct the rescue mission ensured the future dissolution of his nobility.~
 @2367=~A sordid state of affairs. What convinced you to take on a job so dangerous?~
-@2368=~It wasn't the coin that convinced me. It was the challenge and... something else. A calling I felt, perhaps. In truth, I had been going through a bit of an existential crisis then as well, taking on jobs more dangerous than a prudent hunter would risk. Anything that brought me close enough to death to feel it's cold breath on my neck.~
+@2368=~It wasn't the coin that convinced me. It was the challenge and... something else. A calling I felt, perhaps. In truth, I had been going through a bit of an existential crisis then as well, taking on jobs more dangerous than a prudent hunter would risk. Anything that brought me close enough to death to feel its cold breath on my neck.~
 @2369=~It was no small significant amount of coin on offer though. That certainly didn't hurt my decision to go.~
 @2370=~In experience, I was roughly where you are now; seasoned on a few delves and hunts, but with much further room for growth.~
 @2371=~So how did this man end up in the outer planes of all places?~
 @2372=~It wasn't the coin that convinced me. It was the challenge and... something else. A calling I felt, perhaps. In truth, I had been going through a bit of an existential crisis then as well, taking on jobs more dangerous than a prudent hunter would risk. Anything that brought me close enough to death to feel it's cold breath on my neck.~
 @2373=~So you were motivated to go. What then?~
-@2374=~There were six of us called onto the mission. We were each given a Golden Band, which when activated would transport the wearer back to Faerun after we had secured our target. We formulated a plan and then the portal was opened.~
+@2374=~There were six of us called onto the mission. We were each given a Golden Band, which when activated would transport the wearer back to Toril after we had secured our target. We formulated a plan and then the portal was opened.~
 @2375=~I have no poet's voice to describe Carceri. It was strange and unsettling, a pitch black sky save for the glowing red orb of another world hanging precipitously overhead, like a guillotine ready to fall.~
 @2376=~The only light came from the ground itself, which cast an eerie red glow upwards. Besides that, it was a twisted reflection of the world around you. All mountains were sheer jagged cliffs, all plants were lined with thorns that cut like razors, and every shadow around us seemed to conceal a predator.~
 @2377=~Fascinating. I would have enjoyed seeing such a fantastic sight, even despite the danger.~
@@ -2283,7 +2283,7 @@
 @2387=~What could be done? There was no trace of her for us to track and the field of grass she'd been lost in spanned a dozen leagues. Was it worth putting the rest of our lives at risk? We could only continue on.~
 @2388=~I hope you don't take that optimism with you to games of card and dice <CHARNAME>.~
 @2389=~Twice we were attacked by Demodands, natives of the plane, but they seemed to expect weak prey. They would scare off after only one or two of their number were felled. We evaded the stronger fiends, ducking out of sight when we noticed them flying overhead.~
-@2390=~We continued on, though I noticed soon that the plane itself seemed to be effecting me. Whenever I would make small talk, I would speak a dozen little lies without meaning to. I knew my companions were doing the same. Each time they looked at me, I could feel them sizing me up, as if to gauge how they might dispatch me. I didn't know then how much my paranoia was my own, or just the plane's effect on me.~
+@2390=~We continued on, though I noticed soon that the plane itself seemed to be affecting me. Whenever I would make small talk, I would speak a dozen little lies without meaning to. I knew my companions were doing the same. Each time they looked at me, I could feel them sizing me up, as if to gauge how they might dispatch me. I didn't know then how much my paranoia was my own, or just the plane's effect on me.~
 @2391=~One of our number, a silverhaired priest of Malar, stopped us suddenly with a scream. He pointed his sword at our burglar, a weaselly sharp-nosed man with a jeweled dagger, claiming that he had caught him attempting to steal his band.~
 @2392=~He became erratic, unreasonable, and then lunged forward. The barbarian in our group, a man half again my height and armed with an obsidian bladed axe, swung to intercept. Our priest was split apart. The strike had also damaged his golden band beyond use. Now we were four.~
 @2393=~What a vile place that it could turn you against one another like that.~
@@ -2484,7 +2484,7 @@
 @2585=~You're right, what was I thinking? Forget that I said anything. Live however you want, it's of no consequence to me.~
 @2586=~<CHARNAME>, I'm hurt. And here I thought by now we'd have come to a non-judgmental understanding with each other.~
 @2587=~Now is where we part ways, I think. I wish to examine this realm further, see if there are any secrets still to discover. Know that I wish you the best, however. I doubt you need my wishes, though. You were born for this.~
-@2588=~Do you wish for me to send you back to the Material plane now? Make sure you've taken your just rewards from Cherise and her lackies first. If not, I'll just be helping myself. If your allies have anything to share with me before you leave, now is the time.~
+@2588=~Do you wish for me to send you back to the Material plane now? Make sure you've taken your just rewards from Cherise and her lackies first. If not, I'll just be helping myself. (She looks to your allies. If you remain for now, she may have some last things to say to them)~
 @2589=~I'm ready to go. Send us back now.~
 @2590=~Give me a moment. I think we might have missed something.~
 @2591=~Go and confront Sarevok, foil whatever schemes he has planned. I wish you skill and cunning, young wolf. It has been an unexpected pleasure to work with you.~
@@ -2534,7 +2534,7 @@
 @2632=~It’s an interesting organization. They were founded in the Eastern Heartlands, with a heavy presence in Sembia where I am from. They rose to prominence mostly through the trade of arms. While they present a front of being a legitimate mercantile group, they’ve been accused of ruthless and non-competitive business practices. They also have their fingers in some very shady corners of the criminal underground. They were recently barred from doing business in Cormyr.~
 @2633=~The decision to expand to the Sword Coast is the pet project of Reiltar Anchev. He is a shrewd businessman with a rather murky background. I understand he may have assumed other identities in the past, or “Reiltar” itself may be yet another facade. By all reports, he has a cordial front facing personality, but behind closed doors is a heartless man. He arrived in Baldur’s Gate with a son, I believe, who helps operate the day to day of the business with him.~
 @2634=~The Red Wizards are the ruling class of the magocracy of Thay, a country to the far east that is roundly reviled by every other nation on the continent. Thay has never been satisfied with their own dry plateau, so attempt to expand their influence throughout Faerun through coercion, conspiracy, and invasion.~
-@2635=~Individually, they’re haughty, ambitious, and unpleasant. They’re unfortunately by and large also very good spellcasters. So make sure to prepare your magical defenses if you expect to engage them.~
+@2635=~They’re haughty, ambitious, and unpleasant. They’re also some of the best spellcasters among all the Realms. So make sure to prepare your magical defenses if you expect to engage them.~
 
 // Illasera Projected Image
 
@@ -2597,12 +2597,12 @@
 @2689=~I remember him. He didn’t seem unattractive. Maybe he has some good inner qualities as well.~
 @2690=~You should have taken her up on it! Could have been fun.~
 @2691=~Not like you could do better.~
-@2692=~Yeah, she looked too sweet ta be all mean about it. I'm sure there's someone out there for that dope. Just, definitely not me. Imagine, Imoen settlin' down with a random shopkeeper guy. Ha! As if.~
+@2692=~Yeah, she looked too sweet ta be all mean about it. I'm sure there's someone out there for that guy. Just, definitely not me. Imagine, settlin' down with a random shopkeeper guy. Ha! As if.~
 @2693=~Now you’re just makin’ me feel all superficial. It’s not that, I’m sure he’s a perfectly nice guy. Just not what I’m lookin’ for. I wanna find someone who’s fun and adventurous! Imagine, Imoen settlin' down with a random shopkeeper guy. Ha! As if.~
 @2694=~Pff, nah I might like a good prank now n' then, but goin' out with a guy just as a joke is just mean. Nothin' funny about that. Imagine, Imoen settlin' down with a random shopkeeper guy. Ha! As if.~
 @2695=~What's got yer pantaloons twisted? I’m sure he’s a perfectly nice guy. Just not what I’m lookin’ for. I wanna find someone who’s fun and adventurous. Imagine, Imoen settlin' down with a random shopkeeper guy. Ha! As if.~
-@2696=~No, the one for me is gonna be an elegant courtly mage, sensitive and carin', but with a sharp sense of humor. They’ll laugh at all my jokes and I’ll learn about magic from 'em. We’ll wear the most extravagant and colorful dresses for the royal ball but then hang out in the kitchen and garden, enjoyin’ the company of the small folk. Way more interesting than carousin' with stuffy nobles. We’ll travel all across the Realms, making our own adventures as we go... *wistful sigh*~
-@2697=~Well sure, I guess I have. Nothin’ wrong with a little fantasy and romance. What about you? C'mon Illasera, you're not all ice water are ya?~
+@2696=~No, the one for me is gonna be an elegant courtly mage, sensitive and carin', but with a sharp sense of humor. They’ll laugh at all my jokes and I’ll learn about magic from 'em. We’ll wear the most extravagant and colorful dresses for the royal ball but then hang out in the kitchen and garden, enjoyin’ the company of the common folk. Way more interesting than carousin' with stuffy nobles. We’ll travel all across the Realms, making our own adventures as we go... *wistful sigh*~
+@2697=~Well sure, I guess I have. The roads are long so it leaves ya with a lot of time ta fantasize. What about you? C'mon Illasera, you're not all ice water are ya?~
 @2698=~Really? Ya don’t have any room for even a little bit of love in ya life? No one ta share the road with? Sounds like a miserable and lonely way ta be.~
 @2699=~What about more uh, brief romantic encounters? I’ve seen ya eye a few people in the tavern while we’ve been passing through. Not that I've been payin' especially close attention to ya or nothin'.~
 @2700=~Ya sound like such a generous lover.~
@@ -2632,7 +2632,7 @@
 @2724=~Well, I think there might be something developing with Shar-Teel. It's early but promising.~
 @2725=~Things are going well between Shar-Teel and I.~
 @2726=~Oh c'moooon. Who am I supposed ta live through vicariously if not for you? Or are you just afraid I'll tease you?~
-@2727=~*sigh* I suppose ya interests always did tend ta be elsewhere. That's ok. More for me. You'll just have ta watch as I assemble a harem of the hotties you pass by!~
+@2727=~*sigh* I suppose ya interests always did tend ta be elsewhere. That's ok. More for me. You'll just have ta watch as I pick up on all the cute ones you pass on by.~
 @2728=~Tell me about it, *sigh*. This is why we gotta stop and take a break soon! There's gotta be dozens of chances at love just slippin' through our fingers!~
 @2729=~Ha! I knew it! I'm so gonna ask for details when we set up camp. Don't try to avoid me, I need to live vicariously through -someone- here.~
 @2730=~Aww! See, now this is the kinda high quality gossip I can't wait ta share with the others. Kiddin'! It'll be our secret.~
@@ -2716,7 +2716,7 @@
 @2808=~You'll find them at the docks, in the southern most warehouse. They occupied it only very recently, so if you'd been there before, you would not have seen them. I assure you however that it is where they are now. Do not mention that I told you this to anyone.~
 @2809=~Glad I am to hear it. I hear she doesn't get out from the Silvershield Estate much. Oh, and make sure it is the authentic necklace from Brilla. No other Laerel's Tear will do.~
 @2810=~Do be careful. They keep a retinue of guards within the home. I trust in your abilities in the matter.~
-@2811=~Yes, yes, I do believe that is the real deal. A fantastic job, <CHARNAME>. Now, if I may, I'll just be taking that necklace of your person. With that job completed, I would be more than happy to illuminate the dealings of our Night Knife friends for you.~
+@2811=~Yes, yes, I do believe that is the real deal. A fantastic job, <CHARNAME>. Now, if I may, I'll just be taking that necklace off your person. With that job completed, I would be more than happy to illuminate the dealings of our Night Knife friends for you.~
 @2812=~Actually, I was wondering if you could help me out with something. I'm looking into an organization of thieves operating in your city. The Night Knives. Do you know about them?~
 @2813=~Actually, I was wondering if you could help me out with something. I'm looking into an organization of thieves operating in your city. The Night Knives. Do you know about them?~
 @2814=~I was wondering if you could help me out with something. I'm looking into an organization of thieves operating in your city. The Night Knives. Do you know about them?~
@@ -2827,9 +2827,9 @@
 @2907=~Why bother listening? Just walk up and kill them already!~
 @2908=~Huh?~
 @2909=~*watch silently*~
-@2910=~*whispers loudly* Ahah! Finally! After all this time! I'll be able to report this criminal ring and bust 'em for good! It's gonna be some kinda magical bomb or mystical plague or somethin, I just know it! The bosses are gonna be -so happy- heee! It's going to be the best day of my entire LIFE.~
+@2910=~*whispers loudly* Ahah! Finally! I've been tracking this criminal ring for days. Is it some kind of magical bomb or mystical plague or somethin? Ohhh whatever it is, finally, a chance to prove myself!~
 @2911=~...~
-@2912=~*whispers* C'mon, c'mon, open it. Show momma what's in the package...~
+@2912=~*whispers* C'mon, c'mon, open it. What's in the package..?~
 @2913=~*whispers* Ugh, hurry up already. Jeez, my great grandmother opens parcels faster, and she's got no hands!~
 @2914=~What in the nine hells...~
 @2915=~WAIT WAIT WAIT HOLD UP. You mean I kept tabs on the both of you in agonizing detail for three weeks, playing in crappy bars and expending valuable gold to track that package, and it had BABY CLOTHES IN IT???~
@@ -2922,8 +2922,8 @@
 @3002=~Well, he's a druid, but you knew that. His skills as a spy were well respected. He could see through the eyes of animals, which meant nobody could hide secrets from him. Seems like his time in Underdark gave him an affinity for spiders. Ew. Erratic personality though. Or, actually it says here he wasn't always like that. He was dedicated and loyal to the Harper cause. Guess just something happened to him.~
 @3003=~Guess it's true what they say about people who chase monsters. The line between them gets thinner as the years go by. As for weaknesses, nothing really here. Affinity for spiders probably means bring along any kind of anti-spider equipment you can get if you plan to fight him.~
 @3004=~That means anti-toxins and ways to free one from webbing should anyone blunder into it.~
-@3005=~Uhh... no. He's been such a recluse for so long, it's impossible to say where he might be. The Harpers didn't seem to really have much of a clue, or else they would have gone after him.~
-@3006=~Oh, but wait. Here, there's a reference to a nearby gorge that used to be a hideout for Harpers on the run. Hasn't been used for a while, so much so that it's been overgrown and not even they seem to know where it is. Might be a perfect hideout, if he was nearby. Yeah. I think that's our best bet. If only we could find it.~
+@3005=~Hmm... oh here, something promising. A reference to a nearby gorge that was used as a hideout for Harpers on the run. But it was abandoned after a Zhent raid.~
+@3006=~Has been out of use for a while. Might be a perfect hideout, if he was nearby. Yeah. I think that's our best bet. If only we could find it.~
 @3007=~Oh Gond damn it, there's nothing in here to narrow down the location. I don't kn-~
 @3008=~Woah! A projected image? *low whistle* Who's your friend packing the major mojo, <CHARNAME>?~
 @3009=~I'm coming too! I know I might not have been the most help this time, but I know I can be of use to you! Please!~ 
@@ -3131,11 +3131,11 @@
 @3199=~My name is Artin, sir. It is good to see one of House Odesseiron in this savage land. I hope your own mission here has been fruitful.~
 @3200=~(It has been too long since I have met one who was properly subservient to his superiors.) Yes yes, do continue. Tell us what you know.~
 @3201=~You are correct. It seems that the reputation of my kind precedes me. My name is Artin. I am a mere novitiate, but yes, I am a member of that esteemed order.~
-@3202=~You are <CHARNAME>? I have heard mention of your name. The Iron Throne seems to be quite invested in your demise. I came here with a contingent of other Red Wizards. The truth is, the Iron Throne's operations are part of a far larger conspiracy.~
+@3202=~You are <CHARNAME>? I have heard mention of your name. The Iron Throne seems to be quite invested in your demise. I came here with a contingent of other Red Wizards. The truth is, the Iron Throne has made contacts even among our enlightened order.~
 @3203=~The Red Wizards, here? Tis most dire news. Their schemes ever run deep.~
 @3204=~Worry not my witch! Minsc will be your shield while Boo's keen eyes hold watch. No wizard tricks will stop us!~
 @3205=~Great, so the Red Wizards are involved in this as well?~
-@3206=~A bigger conspiracy than what is already happening? I swear, this plot is like an onion.~
+@3206=~So there's a bigger conspiracy at play here than tainted iron and bandit attacks? This is starting to get confusing.~
 @3207=~First, allow me to be honest with you and tell you that I am a Red Wizard of Thay. A novitiate yet, but I only say so because there are many who distrust our order. I would not want to foster further distrust by hiding this from you.~
 @3208=~Please, I beg civility. Allow me to be honest with you and tell you that I am a Red Wizard, of Thay. A novitiate yet, but I only say so because there are many who distrust our order. I would not want to foster further distrust by hiding this from you.~
 @3209=~Not directly with the Iron Throne. The leader of our group has some history with an advisor to one of the leaders of the Throne. She brought us here to meet him. We all came, thinking we might find some power or profit from this but... what I heard. I could not remain with them after learning their plan.~
@@ -3159,7 +3159,7 @@
 @3224=~Free these poor men at once. I'll not allow you to torture them further.~
 @3225=~I don't appreciate attempts on my life. Tell me what I want, and I may spare you.~
 @3226=~This obviously is only ending one way, and I would prefer we just skip the chatter. Time to die.~
-@3227=~I could share a few words, certainly. But it will change nothing about how this meeting must end. We stand at odds with one another, and only death awaits us at the end.~
+@3227=~I could share a few words, certainly. But it will change nothing about how this meeting must end. We stand at odds with one another, and death awaits one of us when it is over.~
 @3228=~This cur begs us to split him open. I say we skip the jabbering and grant his wish!~
 @3229=~You were a Harper, surely that still means something to you. Why not help me?~
 @3230=~I was meeting with a Red Wizard defector. You killed him. Why?~
@@ -3306,11 +3306,11 @@
 
 // WICHERI2.baf 
 
-@5033 = ~Did you really think the Red Wizards wouldn't interfere?~
+@5033 = ~Do you think that this has truly stopped Sarevok? He *will* become the new Lord of Murder, and your meddling a small footnote in his rise to power!~
 
 // WINIGKNI.d
 
-@5034 = ~Because ye don't know who' watchin' inta shadow...~
+@5034 = ~Because ye don't know who's watchin in ta shadows...~
 
 // WINERYSOD
 
@@ -3412,7 +3412,7 @@
 @6095=~Yes, this will not take much of your time. And I think you will be interested by what I have to say.~
 @6096=~You do me more honor than I deserve. I do not know if I accept these words, but it is no matter.  I think you will be interested in what I have to say.~
 @6097=~Down this path, you will find the way to Boareskyr Bridge. You know this already of course. It is the place where your father was slain by Cyric, and a site of profane significance. It may seem a strange twist of fate that has brought you this way, but more and more I question just how much our fates are guided by the hands of mortal and divine alike.~
-@6098=~You surely have many questions about your lineage, do you not? Nearby the bridge, within the Forest of Wyrms, is a hidden temple. Within this temple, I ask you to search for the deepest chambers which might hold a tome or relics related to the ritual of Deathbringer ascension. It was the unique power that Sarevok was granted, and I believe that this rite may reveal much about your lineage. For myself, I only wish to see it and to discern some knowledge of the fate that seems to hold us captivated and drives us forward into the dark and uncertain future.~
+@6098=~You are headed to the bridge, are you not? Nearby, within the Forest of Wyrms, is a hidden temple that was of great importance to the cult of Bhaal. I ask you to search for the deepest chambers which might hold a tome or relics, anything related to the 'Deathbringer' ascension. It was the unique power that Sarevok was granted, and I believe he may have discovered the secrets of it there. I believe in that ritual contains some clue as to the fate that seems to hold us captivated and drives us forward into the dark and uncertain future.~
 @6099=~I do have many questions about my birthright. If this will shed some light on it, I will do this.~
 @6100=~I find it hard to believe that you seek nothing from this for yourself.~
 @6101=~I have no interest in my birthright or anything to do with Bhaal.~
@@ -3462,9 +3462,9 @@
 @6143=~You’re a cleric aren’t you? What god do you worship to get your power from?~
 @6144=~What happened to you after our encounter in the Undercity?~
 @6145=~I am curious about you. How did you come to the Sword Coast and come into Sarevok’s service in the first place?~
-@6146=~I cannot tell you what the Deathbringer ritual is, but I can tell you what it did. After Sarevok became a Deathbringer, his will to murder became as potent and physical as the blade he wielded. When he willed for someone to die, the mechanics of what followed seemed simply automatic, like he had made it an inevitability. You were the only person I had ever seen him fail to kill, and that is simply because his effort was expended on felling Gorion, who was a great mage in his own right. Sarevok was always a talented fighter, but what he learned shaped him into something beyond talent.~
-@6147=~I am afraid I do not. When Sarevok traveled to the temple, he did so alone and would say nothing of what transpired there. He was a very private man in the final years. All I know is what I have discerned from what scattered documents Winski had, and my own deduction. The Temple is underground, hidden from sight. There is one detail that might serve to help… it can be accessed from a cave atop a hill. Which may be occupied by a dragon. It is called the Forest of Wyrms, afterall.~
-@6148=~I... truthfully am still attempting to put words to it. There are just too many peculiar unknowns, things that not I, nor Sarevok, truly understood. Bhaal sowed seeds to prevent his undoing, yet none seem to understand an ultimate purpose to it, or what the Bhaalspawn are intended to do. It is this dark forest we wander in that is a conundrum to me. Speak to me later on it, and I will elaborate on each question as I see it.~
+@6146=~I cannot tell you what the Deathbringer ritual is, but I can tell you what it did. After Sarevok became a Deathbringer, his will to murder became as potent and physical as the blade he wielded. When he willed for someone to die, the mechanics of what followed seemed simply automatic, like he had made it an inevitability. You saw even as Gorion, a mighty mage in his own right, fell so quickly to his will. Sarevok was always a talented fighter, but what he learned shaped him into something beyond talent.~
+@6147=~I am afraid I do not. When Sarevok traveled to the temple, he did so alone and would say nothing of what transpired there. He was a very private man in the final years. All I know is what I have discerned from what scattered documents Winski had, and my own deduction. The Temple is underground, hidden from sight. There is one detail that might serve to help... it can be accessed from a cave atop a hill. Beware of nesting dragons.~
+@6148=~I... truthfully am still attempting to put words to it. There are just too many peculiar unknowns, things that not I, nor Sarevok, truly understood. Bhaal sowed his seeds with a plan for his renewal, yet can any of us tell all that has transpired has still gone to his plan, or if they spiraled beyond his control and have been taken by meddling hands for their own purpose? It is this dark forest we wander in that is a conundrum to me.~
 @6149=~No god.~
 @6150=~No god? That doesn't make sense.~
 @6151=~Were you not a cleric then?~
@@ -3472,14 +3472,14 @@
 @6153=~I was unmade.~
 @6154=~What do you mean?~
 @6155=~That’s a bit dramatic, isn’t it?~
-@6156=~I… will not say. Please understand that recalling the past is to live in it, and for me this is more painful than wrapping myself in thorned vines.~
+@6156=~I... will not say. Please understand that recalling the past is to live in it, and for me this is more painful than wrapping myself in thorned vines.~
 @6157=~Fine, whatever you say.~
 @6158=~Are you so sure? I know it can be frightful, but sometimes reliving your past is the only way to overcome it. Or else you will be bound by those vines forever.~
 @6159=~Well, if you decide otherwise, I would like to listen.~
 @6160=~No, it does not. And it is one of the many great mysteries that has troubled me. I worshipped only Sarevok himself, and was untroubled when such devotion granted me powers. What greater proof could there be that Sarevok was a god in the flesh and that his destiny as divinity was assured? Yet... that was not the case, was it? Sarevok died as a mortal, revealing the truth of him. How did I hold power in his service then?. Of all my wonders, this is the most strange to me.~
-@6161=~No, I *was* a cleric as you would think of it. It is one of the many great mysteries that has troubled me. I worshipped only Sarevok himself, and was untroubled when such devotion granted me powers. What greater proof could there be that Sarevok was a god in the flesh and that his destiny as divinity was assured? Yet... that was not the case, was it? Sarevok died as a mortal, revealing the truth of him. How did I hold power in his service then?. Of all my wonders, this is the most strange to me.~
+@6161=~I was a cleric as you would think of it. It is one of the many great mysteries that has troubled me. I worshipped only Sarevok himself yet received such divine power. What greater proof could there be that Sarevok was a god in the flesh and that his destiny as divinity was assured? Yet... that was not the case, was it? Sarevok died as a mortal, revealing the truth of him. How did I hold power in his service then? Of all my wonders, this is the most strange to me.~
 @6162=~I have considered that point as well. But when I prayed each night and morning, reaching out for that divinity that would allow me to better serve my Lord, I felt some... hand granting them to me, and never more strongly than when I was by Sarevok's side. What greater proof could there be that Sarevok was a god in the flesh and that his destiny as divinity was assured? Yet that was not the case, was it? Sarevok died as a mortal, revealing the truth of him. How did I hold power in his service then?. Of all my wonders, this is the most strange to me.~
-@6163=~Whatever powers I could draw from faded when you slayed him. I am a priest no longer. Further proof that some aspect of my devotion was responsible for my powers? Or did the entity which granted them to me have use for me no longer?~
+@6163=~Whatever powers I could draw from faded when you slayed him. I am a priest no longer.~
 @6164=~I had made my purpose to serve Sarevok. I had cut away all else from my being, destroying the woman I once was to become his most pure weapon. Perfectly honed, never questioning our path or wavering in my devotion. Or so I thought. In the end, I had left behind one imperfection, something I was too weak to cast aside. The memories that we once shared.~
 @6165=~My actions in the end were a foolish attempt to will those memories back into the present, as if anything would ever undo all that had happened and return to a time that had slipped out from my grasp. I destroyed my perfect devotion for something that could never be, and cutting that away found that there was nothing left.~
 @6166=~This is a little too pretentious for me. Forget it.~
@@ -3497,7 +3497,7 @@
 @6178=~Why did you do that?~
 @6179=~I won't shed a tear. The bastard deserved it after all he had done.~
 @6180=~Like me, he was left in the wake of Sarevok’s fall empty, his purpose unmade. Unlike me, a spark of ambition still glowed inside of him. There were other Bhaalspawn he said, they could achieve greatness as Sarevok had failed to. I could not allow such ambitions to remain. They should have perished in the Undercity, even if we did not.~
-@6181=~I think he agreed with me in his last moments. He was not surprised, and he did not struggle. One last kind act to let it all slip away, and content himself with a pauper’s burial, unmarked and soon forgotten.~
+@6181=~I think he agreed with me in his last moments. He was not surprised, and he did not struggle as I sunk the blade into his neck. One last kind act to let it all slip away, and content himself with a pauper’s burial, unmarked and soon forgotten.~
 @6182=~It is sometimes the greatest kindness to the world to let yourself pass on from it. Winski was not a good man, but his last moments were... perhaps his way of making some small atonement for his sins.~
 @6183=~Eventually I realized the answers to my ponderings would never come to me sequestered alone with my thoughts and Winski's last notes. To know what truly happened required walking Sarevok's path. So I set out, and it seems was guided by fate or circumstance to you.~
 @6184=~Would you consider traveling with me?~
@@ -3598,8 +3598,8 @@
 @6283=~Well now that we've cleared that up, I won't fall for that same trick twice. Stand aside or die.~
 @6284=~You don't know how I am? But <CHARNAME>, I know so much about you. Oh, Sarevok confided so many times his frustrations with you, how he just couldn't seem to crush you like the cockroach you are. I have... more than a few scars from other ways he took those frustrations out on me. In his most intimate moments, his mind was still with you rather than I. I despise you for it. I am Cythandria, Sarevok's paramour in darkness.~
 @6285=~Then you can join him with the rest of his allies I've slaughtered!~
-@6286=~Trying to find answers, the same as you I expect. Or did you bumble into Bhaal's only temple in the region on accident, like you so often seem to?~
-@6287=~It was at this altar that Sarevok came to years ago. Did he bow his head in reverence and offer sacrifices to that dead god? No, probably not. It wasn't his way to owe fealty to a higher power, false or otherwise. He would have been amused at the prospect, so above it all. He would have studied it, tried to find out how to use it to further his own pursuit of power. Never stoop to some failure god's ambitions when he could use their corpse as a stepping stone to greater power.~
+@6286=~Trying to find answers, the same as you I expect. Or did you bumble your way into Bhaal's only temple in the region on accident?~
+@6287=~Sarevok came here before us. Did he bow his head in reverence and offer sacrifices to that dead god? Ha! Imagine. It wasn't his way to owe fealty to a higher power, false or otherwise. He would have been amused at the prospect, so above it all. Oh, he would have studied it, tried to find out how to use it to further his own pursuit of power. Never stoop to some failure god's ambitions when he could use their corpse as a stepping stone to greater power.~
 @6288=~But now he's gone... and those who once stood by him scattered to the wind or naught but dust. Except for me.~
 @6289=~And what is it you've found here?~
 @6290=~Nothing is here besides evil.~
@@ -3611,14 +3611,14 @@
 @6296=~Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.~
 @6297=~*bitter laughter* You think I would give away everything I learned? You may not even know it, but you took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.~
 @6298=~Send me to the hells after Sarevok or I'll send you to meet him first! My thralls, come to me!~
-@6299=~*bitter laughter* So self righteous. You may not even know it, but you took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.~
-@6300=~*bitter laughter* I am pathetic, aren't I? I know it, it matters not. You took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.~
+@6299=~Oh so self righteous. You may not even know it, but you took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.~
+@6300=~Heh... I am pathetic, aren't I? I know it, it matters not. You took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.~
 @6301=~As I've thrown everything else away! Come forward and kill me if you think I'll give it so easy!~
 @6302=~Damn my pride, you're right. I won't apologize for it, but I should not be acting in such haste to appease that pitiful anger that still animates me. I... agree to a truce.~
 @6303=~Good. Now perhaps you'll tell me what you've learned?~
 @6304=~Just kidding, I think I'll kill you anyway.~
 @6305=~I have not been here for terribly long myself. A spell of invisibility to sneak past those Cyric madmen, then tried to push lower to where I guessed Sarevok may have gone to. I found this Ossuary, which I believe to be the heart of the rituals conducted in this temple when it was active.~
-@6306=~Sarevok was here, I can feel it. It's not a deduction but an instinct. However, there is no power to be gained here. I've searched high and low for any kind of signature of magic or divinity and it is... empty. And it has been since shortly after Bhaal's death. I suspect Sarevok met the same disappointment here that I have. But... there's one thing.~
+@6306=~Sarevok was here, I can feel it. But, there is no power to be gained here. I've searched high and low for any kind of signature of magic or divinity and it is... empty. There's only one thing.~
 @6307=~There is a book among the bones here that would have been used by the High Priests conducting sacrifices and other rites. But its more interesting contents are veiled by some sort of magic I have yet to glean. Perhaps he was able to discern its writing and it revealed something important to him. I was never skilled at the divination arts.~
 @6308=~May I have that book?~
 @6309=~I'll be taking that book.~
@@ -3672,11 +3672,11 @@
 @6354=~I have learned much, most particularly of the rituals and rites by which Bhaal’s servants could ascend to his most elite and feared agents. The Deathbringers are the most profane and unholy of his servants, Blackguards who serve Bhaal by killing without mercy. It was a rare position to obtain. I suspect Sarevok was the first to rise since Bhaal's death, and the last.~
 @6355=~What did the rite entail?~
 @6356=~Go on then.~
-@6357=~To become a Deathbringer required Bhaal's own tainted blood, drinking from a spilled vein from his Avatar-form. For one of Bhaal's spawn, they were considered doubly blessed, and the greatest of all Deathbringers, but an imbibing of black blood was still necessary. It also required one to be a kin-killer, to have slain their sibling, parent, or child. One final ritual would be conducted after all other steps were finished, though I have yet to fully translate and understand this last ceremony.~
+@6357=~To become a Deathbringer required Bhaal's own tainted blood, often by drinking from a spilled vein from his Avatar-form. It also required one to be a kin-killer, to have slain their sibling, parent, or child. One final ritual would be conducted after all other steps were finished, and while I still work to translate its particular purpose, it seems to be one of... control.~
 @6358=~His progeny? How many progeny did Bhaal have?~
 @6359=~How could Sarevok have obtained that blood?~
 @6360=~You said a High Deathstalker? Are any still around?~
-@6361=~Through history? Many. Ah, I see your confusion. Bhaal has always frequented the Realms and indulged in his lascivious appetite, inflicting darkest suffering among those unfortunate women who attracted his eye. In a way, his actions prior to the Time of Troubles were no different than before, he only... devoted himself to the task with particular fervor, and with new purpose.~
+@6361=~Through history? Many. Ah, I see your confusion. Bhaal has frequented the Realms for many centuries to indulge in his lascivious appetites, inflicting darkest suffering among those unfortunate women who attracted his eye.~
 @6362=~That would be quite a mystery. But the last pages of the tome were written after Bhaal's death. Listen to this.~
 @6363=~“Our Lord is dead, and thus he cannot answer our prayers nor bestow his power unto us. Yet we, the last of his faithful, have found that his blood and flesh has seeped into the Winding Water. Within an underground cave among its tributaries, we labor in its deepest recesses, pooling his essence together so we might remake some physical manifestation of our Lord. If we are successful, we still may yet extract the power we are owed for our devotions.”~
 @6364=~It seems that after Bhaal's death, his priests attempted to bring back some physical embodiment of Bhaal to draw power from. There is a further note on the direction to this cave. I can place it on your map. I suggest that you take time to travel here while you are this far up north.~
@@ -3695,7 +3695,7 @@
 @6377=~Yes, there are still powerful forces out there, and walking in ignorance of their intentions for you is akin to being disarmed. But do not dismiss the Bhaal priest's intentions to concentrate their Lord's essence for power. We should investigate that as well. In either case, whenever you set out to either location, I will meet you there.~
 @6378=~Such a thing would likely defile the land in time, even without a will to take power from it. But do not ignore the matter of the Harper Records as well. Continuing in ignorance of the role the powers of the Realms have planned for you is akin to being disarmed. In either case, when you set out to either location, I will meet you there.~
 @6379=~It would contain some vestige of Bhaal's divinity, if the priests were successful. But do not ignore the matter of the Harper Records as well. Continuing in ignorance of the role the powers of the Realms have planned for you is akin to being disarmed. In either case, when you set out to either location, I will meet you there.~
-@6380=~I believe that your coalition forces may benefit from some time to establish their position before you push forward into Caelar's Crusade. Forgive me to suggest it, but your birthright cannot wait. Who can say if you will have a chance to investigate later, once the tide of the assault has begun to carry you. If you do choose to heed my words, I will meet you at either location.~
+@6380=~I believe that your coalition forces may benefit from some time to establish their position before you push forward into Caelar's Crusade. Forgive me to suggest it, but your birthright cannot wait. Who can say if you will have a chance to investigate later, once the tide of the assault has begun to carry you? If you do choose to heed my words, I will meet you at either location.~
 @6381=~Was there anything else that you wished of me?~
 @6382=~Which of the two leads do you think would be better to pursue first?~
 @6383=~Could you tell me about Kara-Tur?~
@@ -3703,17 +3703,17 @@
 @6385=~What do you think about Caelar Argent and her Crusade?~
 @6386=~Nothing more for now.~
 @6387=~The efforts of the Bhaal priests to collect his essence in the Winding Waters has me most concerned. While I wish to investigate the Harper records greatly, this seems the greater pressing matter.~
-@6388=~I... very well. I do not speak of such often, but you have graciously allowed my presence this far. I suppose you deserve some answers. I was born on the island of Mikedono in Kozakura and given by my father to a clan of assassins with my sisters, for he only desired a son to raise. There I was turned into a weapon to use against political opponents or those hired by the clan.~
-@6389=~I gave little thought to my situation or life, serving as was my duty until I was tasked with dispatching a powerful wu jen. He felt me in the shadows and turned them against me as I attempted to strike him down, defeating me with ease. He left me with the shame of my failure instead of taking my life. It may seem strange to you, but this was considered a far worse outcome than if he had killed me.~
+@6388=~I... very well. I do not speak of such often, but you have graciously allowed my presence so far. If satisfying such curiosity is the price of your tolerance, I will tell you. I was born on the island of Mikedono in Kozakura and given by my father to a clan of assassins with my sisters, for he only desired a son to raise. There I was turned into a weapon to use against political opponents or those hired by the clan.~
+@6389=~I gave little thought to my situation or life, serving as was my duty until I was tasked with dispatching a powerful wu jen. He felt me in the shadows and turned them against me as I attempted to strike him down, defeating me with ease. He left me with the shame of my failure instead of taking my life. It was a worse fate than death would have been.~
 @6390=~I was unable to carry my failure with me and report it back to my clan. Instead I left, taking the ship that would take me the furthest from home. It brought me here, to the Sword Coast. For what came next... no, I am sorry, it is too much for me to say now. I hope that what I told you suffices; I cannot say any more.~
-@6391=~I did not know my homeland so well as you might think. I was raised in seclusion and traveled outside of my clan's grounds very little, almost only to fulfill a contract. The sense of... independence is strangest I think. Many are predisposed to do whatever their passions dictate, rather than owe their actions to a master. Even after years among them, I cannot tell if it is admirable or foolish.~
-@6392=~For a woman to gather such a disparate force around her, honed to a single purpose? It is incredible. She must be an charismatic figure indeed. But I do not believe her purpose is so selfless as she claims.~
+@6391=~I did not know my homeland so well as you might think. I was raised in seclusion and traveled outside of my clan's grounds very little, almost only to fulfill a contract. The sense of... independence is strangest I think. Many act only as their passions dictate, rather than owe them to a master. Even after years among them, I cannot tell if it is admirable or foolish.~
+@6392=~For a woman to gather such a disparate force around her, honed to a single purpose? It is incredible. She must be an charismatic figure indeed. But I do not believe her purpose is so selfless as she claims. Those who shine the brightest cast the deepest shadows.~
 @6464=~Ah, you return. Just in time. I have finished my study, and I have much to share with you. The cipher was blood, and with a few drops of my own, I have unlocked its secrets.~
-@6463=~It is that purpose I still yet wonder at. He never sired children before with intention, that was the byproduct of those women who survived his desires. Yet now these children were meant to bring about his return? Sarevok believed by simply emulating his actions, but that does not seem correct to me now.~
+@6463=~Perhaps he knew of his death long before the Time of Troubles would transpire and planted such seeds in the centuries before. Or perhaps he merely reveled in the suffering that act inflicted, for few would be the women who would give themselves willingly to his lusts. As the Time of Troubles grew closer however, the number of spawn he spired rose considerably. He must have known his time was coming.~
 @6468=~Not a question, but while I was there I met a spirit that gave me visions of Sarevok. When he was in the temple, he spoke to someone.~
 @6469=~Most curious. Do you know who this figure could have been?~
-@6470=~No, only that it was a woman and seemed to know who he was, that she'd been watching him. They went off together, she said she was going to 'show him' something.~
-@6471=~Perhaps as we continue, you will get more visions. That would provide much clarity. Was there anything else you wished to discuss?~
+@6470=~No, only that it was a woman and seemed to know who he was, that she'd been watching him.~
+@6471=~Most curious. You are connected to Sarevok more closely than I had suspected. Perhaps as we continue, you will get more visions.~
 @6497=~Very well. I will meet you again here, or at one of the locations we have discussed.~
 
 // Coalition Camp Intro Winski
@@ -3780,7 +3780,7 @@
 @6448=~I just worry that this brush with death might have left you soft. I hope you still have what it takes to do when the time comes.~
 @6449=~Trust me, I will not falter. I may be old, but I have begun to see a future before me once again.~
 @6450=~So, when exactly did your heart falter for your 'lord'? When did you decide to stab us all in the back?~
-@6451=~Ughh! I never did betray him! I carved Sarevok deep into my heart and there is name is still writ on it.~
+@6451=~Ughh! I never did betray him! I carved Sarevok deep into my heart.~
 @6452=~Duplicitous bitch. I heard how you came to <CHARNAME>. Were you on your hands and knees? What did you do to buy their trust?~
 @6453=~It was you who betrayed him! All of you! You indulged his murderous fantasies! You fed into his every whim. I only wanted what was best for him. You only wanted his power! Power that was always destined to destroy him! Yes, I tried to pull him away from his path when it was too late, and to point a weapon at him that might shake him free his madness. But it was not to undo him, it was to save him.~
 @6454=~Hmph. So you believe. Sarevok was always the man he was, he all knew what that was. We accepted it, furthered it. It was only you who wanted him to be something else.~
@@ -3812,11 +3812,11 @@
 @6489=~Then you will do so or I will cut you down where you stand. I have no patience for having my time wasted with cryptic nonsense.~
 @6490=~It takes more than wearing the visage of your father while bellowing so fiercely to claim the power latent in your blood. However, you have potential. Sarevok Anchev, heir to the Iron Throne on the Sword Coast.~
 @6491=~Hmph. You know much.~
-@6492=~I have been watching. Bhaal's children are of interest to me. My interests could serve you as well.~
+@6492=~I have been watching. Bhaal's children are of interest to me. That interests could serve you well.~
 @6493=~And how would you 'serve' me, exactly?~
 @6494=~To hone you into an instrument of Death itself.~
 @6495=~It is a start.~
-@6496=~Your ambition will serve you well. Come with me, we cannot speak so openly in the house of the mad god. I have something I should show you.~
+@6496=~Your ambition will serve you well. Come to the altar. I have something I must show you.~
 
 // Echo 2
 @6498=~This place... it smells of...~
@@ -3827,27 +3827,27 @@
 @6503=~And here is a source of power unclaimed. Do you object to wading into the waste of your father's failure to take what it left of him for yourself? Do you think yourself above it? Or do you fear what you'll find?~
 @6504=~Hmph. You've made your point.~
 @6505=~The more power you accumulate, the more will flow naturally towards you. It is like gravity.~
-@6509=~I do not need an education on power. My foster father taught those lessons quite comprehensively. He taught me how power does not flow from nothing. it must be taken from those who cannot hold theirs, or are undeserving of it. One must eliminate from themselves all weakness, or else it will be a crack to be exploited. And action should be taken decisively against any who could rival you, without mercy or hesitation.~
-@6510=~Wise lessons. Your father's essence has spread especially thin. You must never let even a shred of it pass between your fingers. Even these lowly dregs here.~
+@6509=~I do not need an education on power. My foster father taught those lessons well. Power is not free, it must be taken or else given by those who would surrender theirs to you. Each weakness in you is a crack, and the more power you obtain, the more each crack is stressed by its weight. Only by eliminating all weakness can the truly powerful remain so for long. And of course, all rivals to your power must be destroyed without mercy.~
+@6510=~Wise lessons. While you have your father's essence within you, it is thin. You must strenghten it. These lowly dregs here should suffice.~
 @6511=~What dangers can I expect?~
 @6512=~The corrupted remains of those who thought that they were cultivating a seed. They should prove little challenge for you, if you are as mighty as you claim.~
 @6513=~After this, I expect to have answers.~
-@6514=~They will come. For now, you have your task. Take your pound of flesh. I will meet you at the glade.~
+@6514=~They will come. For now, you have your task. We will meet again in the ancient glade I spoke of on the way here.~
 @6506=~The stench coming from this runoff of the Winding Water is particularly foul. You feel your stomach lurch as its odor invades your nostrils like some festering malignant force.~
 
 // Blackblood Glade dialogue
-@6515=~*heavy breathing* Good, you have arrived. I tried to investigate the cave and was attacked by this... thing.~
+@6515=~Ah... ah... Good, you have arrived. I tried to investigate the cave and was attacked by this... thing.~
 @6516=~Are you ok? You look injured.~
 @6517=~Seems you still have some fight in you.~
 @6518=~What is it? It smells even more awful than the rest of this place.~
-@6519=~A few cuts, but they are superficial. I will recover. It is strange... I had thought my magic had left me, but it came back to me in my moment of need. I feel a connection here. It is concerning.~
+@6519=~A few cuts, but they are superficial. I will recover. But it is strange. My magic has been gone since Sarevok fell, except now it has returned to me here in this moment of need. There is something here that is... connecting to me.~
 @6520=~What *is* this thing?~
 @6521=~It is strange... I had thought my magic had left me, but it came back to me in my moment of need. I feel a connection here. It is concerning.~
-@6522=~He is wearing a cultist of a Bhaal priest. But his body has been defiled and corrupted. Hmph. This could not be the power the priest's sought, when he attacked he did so without reason, like an animal.~
+@6522=~He is wearing the blood red robes of a Bhaal priest. But his body has been defiled and corrupted. Hmph. This could not be the power the priest's sought, when he attacked he did so without reason, like an animal.~
 @6523=~Take care when you venture deeper. There could be others down there, or even worse things. I will remain behind and follow after once you have cleared the way deeper. Good luck.~
 @6524=~I urge you to take great care while you explore. If you need to retreat and rest, I can remain on watch.~
 
-@6525=~*heavy, pained breathing* Ah, your arrival is timely. I sought to investigate the cave and was attacked by this... thing.~
+@6525=~*hiss* Mmpff. Ah, your arrival is timely. I sought to investigate the cave and was attacked by this... thing.~
 @6526=~Just a bit of lingering pain from my existing injuries. I had the foresight to cast some basic defensive spells before I stuck my nose in there.~
 @6527=~I had the foresight to cast some basic defensive spells before I stuck my nose in there. It took every last spell I had prepared to defeat it.~
 @6528=~Exactly what I wonder. See that it wears the robes of a Bhaal Cultist? But its body is... defiled by something. Black and ichorous. He attacked me without reason, like an animal.~
@@ -3871,13 +3871,13 @@
 @6549=~It is repugnant. Twisted flesh and... decay. No soul, no thought. Rotting and stinking... pathetic. This is what... this is what...~
 @6550=~What is it?~
 @6551=~Is there a point to all this?~
-@6552=~I apologize my lapse of composure. I have struggled with the divinity that was granted to me in my service to him. To Sarevok. I lost that power when Sarevok perished, and now I feel it again now, in the presence of this thing. I believe... I believe that this must be the source.~
+@6552=~I apologize for my lapse of composure. I have struggled with the divinity that was granted to me in my service to him. To Sarevok. I lost that power when Sarevok perished, and now I feel it again now, in the presence of this thing. I believe... I believe that this must be the source.~
 @6553=~How is that possible? It doesn't even look alive.~
 @6554=~Disgusting. You couldn't tell you were worshipping some unliving abomination?~
 @6555=~I'm sorry. This must be difficult.~
 @6556=~This... this is it... what I felt. All that time I prayed and labored, thinking it was to something greater. Something pure and perfect. I thought the powers came from something miraculous.~
 @6557=~It is alive but... without life. Whatever divinity that was in Bhaal's blood must have coalesced into... this. Perhaps even a dead god is able to grant some measure of grace, but to see it before me. There is no grace in this.~
-@6558=~My desperation to serve my lord blinded me. The power did not feel so foul when it came to me. But it seems that I was ignorant in even more ways than I suspected.~
+@6558=~My desperation to serve my lord blinded me. I rationalized that it could not be so foul, even as it destroyed my... ah, it seems that I was ignorant in even more ways than I suspected.~
 @6559=~So what now?~
 @6560=~It should hurt more, but I had already forsaken my pride when I turned my back on my lord. Still, I do feel some tinge of disappointment.~
 @6561=~Hm. Tell me, have you been receiving more visions? What have they been of?~
@@ -3910,8 +3910,8 @@
 @6589=~I feel fine. Is this all that can be gained?~
 @6590=~I feel like I've become a little bit more of a monster...~
 @6591=~Unfortunately, I believe others may find you more unnerving to be around. But such power always comes at a cost. You seem physically well, at least. Whatever ill effects you feel should fade with some rest.~
-@6592=~It seems that with this, the last power of Bhaal's spilled blood has been drained, and this discarded flesh now may be burned clean. I will remain to finish this task. Continue on, and I will meet you back in the siege camp.~
-@6595=~It is done. I will remain behind for a while. I must... consider some matters in private. Continue on, and I will meet you back in the siege camp.~
+@6592=~With this, the flesh will rot away in time with no further power to sustain it. There is nothing left here. I must... consider matters on the road back. Please, return to me at the Siege Camp.~
+@6595=~It is done. I must... consider matters on the road back. Please, return to me at the Siege Camp.~
 @6729=~Fascinating. It would appear that the blood of the winding water has congealed into a shape closely approximating that of Bhaal's divine avatar, the Slayer.~
 @6596=~Have you thought it through. What do you wish?~
 @6597=~You have set it to blaze and burned away whatever remained of it. Perhaps in time the Winding Water will heal. There is nothing left for us here. Thank you for bringing me here. It has given me much to think about. I will remain here for a while, then return to the siege camp.~
@@ -3929,7 +3929,7 @@
 @6609=~I suppose it could be interesting to see how it develops in the future. Will it continue to grow, some a god's body without a soul? I wish I'd be alive to see it.~
 @6610=~Yes. The power of it has consolidated deep inside, into what is left of its heart. Tear it out and I will employ a spell I learned from the Bhaalist tome to cleanse it of the excess corruption so that it may be consumed safely. It will likely be a small fraction of what power Sarevok gained, but you will certainly find yourself enhanced from it.~
 @6611=~A bit more loathsome, but  such is the price of power. Pay it no mind. I can see in you a burgeoning power.~
-@6612=~We have drained what left remained of the dead god's body. Fitting for it to at least be absorbed by one of his children. Ah, I must rest for a while before I can make the long trek back. Continue on, and I will meet you back in the siege camp.~
+@6612=~We have drained what left remained of the dead god's body. Fitting for it to at least be absorbed by one of his children. Well, then there's nothing left here. I will make the trek back to the siege camp.~
 @6730=~*When you hold it, it seems at first like a hunk of coal. Closer inspection reveals that it's in the rudimentary shape of a heart. As you hold it in your hand, you hear Winksi's voice chanting nearby. His spell invokes a brief surge of light, then all at once the coal in your hand is set alight. It glows fiercely and you barely even cast a thought to it before opening your lips and taking into your mouth.*~
 @6731=~*You look down at your hands. Your skin seems paler and your veins have an oily dark hue that they didn't before. But as your fingers close, you feel the power in that grasp, greater than before. Your senses as well seem sharper. You see Winski staring at you, his grey eyes appraising the effect on you.~
 
@@ -3951,13 +3951,13 @@
 @6625=~Do you think you'll ever return to your homeland?~
 @6626=~So you two both were involved with Sarevok at the same time?~
 @6627=~The search of knowledge does not always result in comforting Truths, but it is better to exist in Truth than to exist in a Lie. This journey has given me perspective and... I feel less empty than I once was. There are still more answers to find, and the idea of finding them now seems less like duty and more like a quest.~
-@6628=~No. That is a different world to me now, and there is nothing there for me. Well... perhaps except for one silly man who called me sister. If fate brings us together once again, so be it.~
+@6628=~No. That is a different world to me now, and there is nothing there for me. Well... mmm perhaps except for one silly man who called me sister. If fate should bring us together once again, so be it. But I hope he has found happiness in our homeland without me.~
 @6629=~Ah. I suppose that... you have earned the right to ask after doing what you have for me. I am uncertain where to even begin.~
 @6630=~You do not need for me to tell you how Sarevok was in his final days. In following him, you must have learned much about him. Yet the person you saw was much different from the one I loved.~
 @6631=~How do you mean?~
 @6632=~I can't imagine how anyone could fall in love with that monster.~
 @6633=~I don't need the particulars of your relationship. I just wondered about him.~
-@6634=~I first met Sarevok as I wandered up the Sword Coast, a desperate and lonely woman. It was in Beregost, he was on business with his father. I suspect he was drawn in by my exotic looks to speak to me, and because his father urged him to stay away from me. He was... rebellious in those times.~
+@6634=~I first met Sarevok as I wandered up the Sword Coast, a desperate and lonely woman. It was in Beregost, he was on business with his foster father. I suspect he was drawn in by my exotic looks to speak to me, and because his father urged him to stay away from me. He was... rebellious in those times.~
 @6635=~He bought me food and water, and asked of my life. He was... sensitive, if firm. Confident. Despite my poor ability at the common tongue here, he was patient with me. He listened to my story, asked me some questions about my homeland, and then offered to take me to Baldur's Gate and provide shelter and food.~
 @6636=~A monster he became, yes. But in his early days... he was a far different man.~
 @6637=~My perspective of him is forever tied to our history. If you wish not to hear it, then I can tell you little you do not already know. Do you wish to hear it or shall we speak of other matters?~
@@ -3970,22 +3970,22 @@
 @6644=~Sarevok came not long after to check on me. He did not force his company on me... in fact, I believe he was even shy to show he wished to spend time with me. His visits were at first brief, his manner respectful. He joined me for meals once each day, or sometimes evening where we would play games of tactics and war. And that was how I first came to know him. A man of fierce intelligence and will, a man who was courageous and confident, and yes even sensitive and patient when it came to those who cared for. ~
 @6645=~But of course there was darkness too. Spite and violence. He did not like the world as it was, and spoke often of how he would change it, the ways he would destroy those corrupt and decadent who ruled the city. These aspects as well I thought alluring. It was not long before his visits became more than innocent meetings. After a month I felt in love, and he felt the same. We became close confidants and lovers, and I began to be involved in his work for the Iron Throne.~
 @6646=~If Reiltar had known, he likely would have had me killed and disposed of. Sarevok knew well when he was being watched and how to evade sight of those who reported to his father. So I did take his offer. He arranged a carriage ride for me separate for his own convoy to hide it from his father. I arrived to Baldur's Gate the next day and was brought to an inn where I had the first hot meal and bath I had enjoyed in over a year.~
-@6647=~You are not... wholly incorrect. Yet he still presented the choice and did not force me. It was a risk, but I did take his offer. He arranged a carriage ride for me separate for his own convoy to hide it from his father. I arrived to Baldur's Gate the next day and was brought to an inn where I had the first hot meal and bath I had enjoyed in over a year.~
+@6647=~You are not incorrect. Yet he still presented the choice and did not force me. It was a risk, but I did take his offer. He arranged a carriage ride for me separate for his own convoy to hide it from his father. I arrived to Baldur's Gate the next day and was brought to an inn where I had the first hot meal and bath I had enjoyed in over a year.~
 @6648=~I can see why you might have fallen for him.~
 @6649=~Destroy the corrupt and decadent? Sounds like my kind of man. Why couldn't I have met *this* Sarevok?~
 @6650=~An evil man can still act for the good of those he selfishly values. How do you know he wasn't just using you?~
-@6651=~My words are poor at describing what I felt. He became my everything. I impressed Reiltar with my skills at assassination, employing them to kill a rival of his in a most secretive manner. From that point on, he encouraged our partnership, though I think he did so because it would make me a tool he could use to manipulate Sarevok if he needed. He did not suspect how we plotted against him. All of our plans for the Sword Coast started with his death.~
-@6652=~This time was... indescribable. For the first time in my life, I felt like I belonged, like I had a purpose. Each day brought new triumphs, new joys to share. For a year we worked our way up the ranks of the Iron Throne, proving to those in the organization that Sarevok was not only a boy being uplifted by his father, but a man who merited a role in the highest echelons. ~
-@6653=~It was then that Sarevok's dreams began to become unbearable for him. Ah, I had forgotten to speak about those. He had always suffered from disturbing dreams. Each time he awoke he would confide in me the darkness of them. Always of blood and death. Yet he never shied away from any detail, even those dreams in which he killed me. You... you have suffered with these dreams as well, I assume?~
+@6651=~My words are poor at describing what I felt. He became my everything. I impressed Reiltar with my skills at assassination, employing them to kill a rival of his in a most secretive manner. From that point on, he encouraged our partnership, though I think he did so because it would make me a tool he could use to manipulate Sarevok if he needed. He would never realize the depths of our plots against him. All of our plans for the Sword Coast started with his death.~
+@6652=~This time was indescribable. For the first time in my life, I felt like I belonged, like I had a purpose. Each day brought new triumphs, new joys to share. For a year we worked our way up the ranks of the Iron Throne, proving to those in the organization that Sarevok was not only a boy being uplifted by his father, but a man who merited a role in the highest echelons. ~
+@6653=~It was then that Sarevok's dreams began to become unbearable for him. Ah, I had forgotten to speak about those. He had always suffered from disturbing dreams. Each time he awoke he would confide in me the darkness of them. Always of blood and death. Yet he never shied away from any detail, even when they involved my own death. You... you have suffered with these dreams as well, I assume?~
 @6654=~Exciting, yes? For a girl who had been taught all her life to obey and honor the law, it was as if a new world had been opened to me. I impressed Reiltar with my skills at assassination, employing them to kill a rival of his in a most secretive manner. From that point on, he encouraged our partnership, though I think he did so because it would make me a tool he could use to manipulate Sarevok if he needed. He did not suspect how we plotted against him. All of our plans for the Sword Coast started with his death.~
 @6655=~You were not present. You did not see the passion in his heart as I did. Was he a good man? I do not know, I am the last to judge what qualifies as virtue. Regardless, I impressed Reiltar with my skills at assassination, employing them to kill a rival of his in a most secretive manner. From that point on, he encouraged our partnership, though I think he did so because it would make me a tool he could use to manipulate Sarevok if he needed. He did not suspect how we plotted against him. All of our plans for the Sword Coast started with his death.~
 @6656=~Yes. Seems us Bhaalspawn are cursed with those dreadful nightmares.~
 @6657=~Mmhm. I've lost an irritating amount of sleep to them.~
 @6658=~I do. I am often tantalized by the visions they show me.~
 @6659=~[Lie] Dreams? No, I don't know what you mean.~
-@6660=~Those dreams... those damn dreams. Each time he awoke from them, I could see a little more of the warmth he had for me, for the world, drain away. We thought they may have been a curse at first. It was pure happenstance that a lost bhaal cultist fell upon Sarevok in the street and revealed his lineage. Once that happened... everything changed. What greater way to change the world than to become a new god in it? Was death so bad a domain if it was simply exercised on the correct people?~
+@6660=~Those dreams... those damn dreams. Each time he awoke from them, I could see a little more of the warmth he had for me, for the world, drain away. We thought they may have been a curse at first. It was strange coincidence that a lost bhaal cultist fell upon Sarevok in the street and revealed his lineage. Once that happened... everything changed. What greater way to change the world than to become a new god in it? Was death so bad a domain if it was simply exercised on the correct people?~
 @6661=~It all seemed like fate from that point. And the Sarevok I had fallen in love with slipped away day by day. And as I committed to his path, I slipped further away from myself.~
-@6662=~*heavy breath* I wonder now. Knowing all this, what do you think of Sarevok?~
+@6662=~I wonder now. Knowing all this, what do you think of Sarevok?~
 @6663=~It doesn't matter what I think about him.~
 @6664=~What he did was unforgivable. His past doesn't matter when faced with his actions in the end.~
 @6665=~Somewhere under his ambitions, maybe there was still someone there who could have been helped.~
@@ -4017,9 +4017,9 @@
 @6690=~Aha! Yet he stayed his hand. I've seen men gutted for less.~
 @6691=~Ah, in this case it was my word that saved him. A small turn of phrase and I took his disgrace to make a joke of it. The leaders all laughed at the misfortune.~
 @6692=~Why bother to save him? If you'd heard the things I'd heard him say about you, an evisceration would be too kind.~
-@6693=~He was still an asset to our plans. And from that point on he knew not to mistake my silence for simplicity. Beside, it gave me great joy to watch the bootlicking he did to earn back Sarevok's favor. You recall when he was tasked with personally polishing our lord's armor?~
+@6693=~He was still an asset to our plans. I would not throw away a valuable tool for my own vindication. From that point on he knew not to mistake my silence for simplicity. And I... admit it did give me some joy to watch the groveling he did to earn back Sarevok's favor. You recall when he was tasked with personally polishing our lord's armor?~
 @6694=~*ahem*~
-@6695=~Ah. It is so easy to sleep into habit. Sarevok, not our lord. It is difficult to... correct my speech.~
+@6695=~Ah. It is so easy to slip into habit. Sarevok, not our lord. It is difficult to... correct my speech.~
 @6696=~That bastard. To think... for so long I thought only of him. His favor was so... intoxicating. An addiction. We're both lucky to shake it.~
 @6697=~You are strong enough to rise above. You are sharp and resourceful. I think I am jealous of how well you see and seize opportunity.~
 @6698=~I must confess, I was not fair to you Tamoko. It is difficult to admit when I have erred, but I did not give credit enough. ~
@@ -4182,7 +4182,7 @@
 @6883=~No, I am unfamiliar with that one.~
 @6884=~Yes, just so. The story as it is told is simplified, suitable for a child to understand and enjoy. For such beings of dark disposition, the true event must have been far more violent and full of jealousy.~
 @6885=~To give the shortest version, it is the story of how Bane, Myrkul, and Bhaal went to the Grey Waste to wrest godly power from the ancient god Jergal, but tired of his position gave it to them freely... but only if they split it among one another. The popular story tells that they decided such power through a game of knucklebones. I find this preposterous, but a game of chance was perhaps involved.~
-@6886=~We may presume that the Three were never happy with having to split such power among one another. Myrkul I believe was the most satisfied, and it was he who allied with Bane in the event that started the Time of Troubles. But Bhaal was apart from them both, and Bane was always a jealous god. Hmm.~
+@6886=~We may presume that the Three were never happy with having to split such power among one another. Myrkul and Bane were allied together during the Time of Troubles, yet Bhaal was not a part of their plans. Bane is known to be a jealous god.~
 @6887=~Perhaps it was Bane that was the agent of Bhaal's downfall. In destroying his assassins, he not only spelled Bhaal's doom, but would surely interrupt whatever process of resurrection he had planned. Perhaps enough for Bane to take over his portfolio for himself.~
 @6888=~It's not unreasonable. We can always count on the dark gods to act selfishly and put their own gain first among all others.~
 @6889=~It seems like a dangerous gambit when his own power was also in question. But I wouldn't put it beneath him.~
@@ -4231,7 +4231,7 @@
 @6932=~It is something you should well be worried of. Sarevok sought to start a war to cause enough deaths to bring back Bhaal's power, if not the god himself. Can you honestly say you've slain less than an army?~
 @6933=~<CHARNAME>, that is... that is brilliant! Yes yes, that would thread both the Alaundo's prophecy and the actions of Bhaal's cult perfectly. You truly are your father's <PRO_SONDAUGHTER>. Ah, that is to say, Gorion's.~
 @6934=~Yet that makes for a trouble revelation. When you slew Sarevok, you may have been bringing Bhaal one step closer to his return. It would make the life of every Bhaalspawn critical. Oh, I do not like this at all.~
-@6935=~It troubles me as well. I don't like my life being tied to some doomsday trigger.~
+@6935=~It troubles me as well. I don't like my life being tied to some catastrophic event.~
 @6936=~So I don't have to worry about Bhaal ever coming back so long as I live? Sounds like someone else's problem.~
 @6937=~Then maybe Sarevok was onto something. Kill enough and stay alive, and dear old daddy's power might come to me instead of back to him.~
 @6938=~If it offers relief, this is all simply speculation. We still do not know for sure. But it is reason enough to take care with your life.~
@@ -4250,7 +4250,7 @@
 @6951=~Perhaps her Lord's favor gave her sway beyond their self-serving natures? Or she may have commanded some other compulsion over them. It is difficult to say, but it is an impressive however it was done.~
 @6952=~I do not know if this sheds any light on our current situation, but it is... interesting to ponder over. Thank you.~
 @6953=~Another disturbing revelation. This would indicate Alaundo's prophecy is approaching soon... and I do not accept that it is by coincidence that moves them closer. Yet still we are no closer to understanding who is responsible.~
-@6954=~Ah, I am familiar with this. It is by this interpretation of the prophecy that Sarevok devised his plan. He was utterly convinced of its truth.~
+@6954=~Ah, I am familiar with this. It is by this interpretation of the prophecy that Sarevok devised his plan. He was utterly convinced of its truth. There is little more I think I can discern from it now.~
 @6955=~This version of the prophecy... hm, it puts far more emphasis on fratricide. If it is true, it means that it is not enough for one Bhaalspawn to rise above the others by their actions, they must also ensure only one of all remains.~
 @6956=~I refuse to accept that. I won't kill my brothers and sisters if I can avoid it.~
 @6957=~So then killing Sarevok was just the first step towards my own power.~
@@ -4322,7 +4322,7 @@
 @7028=~Very well. I will see you there.~
 @7029=~I feel in my heart that it is the last destination that Sarevok visited. We will find our last answers there, if there are any to be had at all. I will see you there.~
 @7030=~Before you go... <CHARNAME>, Tamoko, I will be taking my leave from this camp. I've had my fill of living among an army.~
-@7031=~I thought you were here to learn more about Sarevok's quest. Are you giving up on that?~
+@7031=~I thought you were here to learn more about Sarevok's power. Are you giving up on that?~
 @7032=~If that is what you'd like.~
 @7033=~I am. I had thought that learning of the power Sarevok sought... it might give things meaning. But I see now how little my loyalty to him and his ideals has earned me. Perspective is such a bitch. I'll not follow in Sarevok's coat tails any longer. It's time for me to forge my own path once again.~
 @7034=~It is. The recent days have left me longing for something different. I'll not follow in Sarevok's coat tails any longer. It's time for me to forge my own path once again.~
@@ -4345,7 +4345,7 @@
 @7051=~This statue… a place of importance to my ‘Father’?~
 @7052=~No. It predates him. This shrine belonged to some other god, worshipped by a tribe of men that died out and faded into obscurity beyond any mortal memory, unrecorded in any tome. Forgotten before Nethril was young. The fate of all gods and men, no matter how fearsome they were in their time.~
 @7053=~I did not come for a history lesson.~
-@7054=~Very well. You have consumed the essence?~
+@7054=~You would do better to find the wisdom in that lesson. But fine, have you consumed the essence?~
 @7055=~Hmph. Foul as it felt, yes. My senses feel... sharp. But I do not feel differently as I would think.~
 @7056=~Did you expect to grow horns? To double in size?~
 @7057=~Do not mock me, witch.~
@@ -4353,7 +4353,7 @@
 @7059=~I am listening.~
 @7060=~When you return home, inquire about one of the recent additions to the Flaming Fist. A young man who rouses his fellow recruits with the terrifying dreams that awaken him in the night. You will no doubt find this familiar?~
 @7061=~A dear brother.~
-@7062=~Kill him. With this last act, I will be able to transform you. Whenever you look upon another, your soul will sing to you the ways best to slaughter them. Those who see you in battle will glimpse a reflection of their demise and shrink in terror.~
+@7062=~Kill him. With this last act, I will be able to complete the ritual. Whenever you look upon another, your soul will sing to you the ways best to slaughter them. Those who see you in battle will glimpse a reflection of their demise and shrink in terror.~
 @7063=~I will make you into the Deathbringer. Murderer of hope, the bloodthirst that cannot be quenched, great destroyer of life.~
 @7064=~Hm. If that woman knows of the Bhaalspawn and would seek to use us, others will as well. And of course, any other brothers or sisters I have will be enemies in time if they are not dealt with before they realize the great prize meant for only one of us.~
 @7065=~I do not think so. I will be taking what power and knowledge I have gained these past days and achieve godhood without your "assistance".~
@@ -4361,7 +4361,7 @@
 @7067=~What? The ritual is only partially complete! You would forgo this power? Spurn the gifts your father could offer you?~
 @7068=~I am no fool to trust your 'interests'. You speak in half-truths, lighting a path only you know a few steps in advance. You knew me before I met you, and offer gifts while hiding the cost. Your manipulations are obvious. Meddle further in my affairs and I will destroy you with utmost pleasure.~
 @7069=~Tsch. As is your wish. Achieve your godhood however you see fit. However I leave you with one last warning. Each of your kin is a rival to your father's throne and dilutes your own divinity. End them, or they are destined to destroy you first.~
-@7070=~I... *sniffle* <CHARNAME>. H-hello. Oh...~
+@7070=~I... *snff* <CHARNAME>. H-hello. Oh...~
 @7071=~You've been crying. Is something wrong?~
 @7072=~Is this a bad time?~
 @7073=~Wipe away your tears. You're no little girl.~
@@ -4431,3 +4431,7 @@
 @7145=~I do not fear death.~
 @7146=~There are things I can do that would make death seem a sweet dream.~
 @7147=~You provided such loyal assistance to one Bhaalspawn. Perhaps it is time that you serve another.~
+
+@3410=~(Illasera glances towards your companions. It looks like she might have something to say to them if they talk to her)~
+@3411=~Hey, you here about the "job"? C'mere.~
+@3412=~(Illasera glances towards your companions. She may have more to say to them now that you've spent some time away.)~

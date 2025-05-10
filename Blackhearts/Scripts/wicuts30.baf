@@ -3,6 +3,7 @@ IF
 THEN
   RESPONSE #100
 	CutSceneId(Player1)
+	MoveViewPoint([571.451],VERY_FAST)
 	MoveToPoint([550.440])
 	ActionOverride("WIBH2TAM",MoveToPoint([609.470]))
 	Wait(3)

@@ -5,4 +5,6 @@ THEN
 	RESPONSE #100
 		CreateCreature("WIGUARD2",[1417.456],N)
 		SetGlobal("BHBG1Quest3spawn3","%NashkelMines_L1%",1)
+		Wait(2)
+		DisplayStringHead("WIGUARD2",@3411) // Hey, you here about the "job"? C'mere.~
 END

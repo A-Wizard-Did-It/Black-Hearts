@@ -632,7 +632,7 @@ EXTERN WIBH2TAM tam4.22
 
 CHAIN WIBH2TAM tam4.22
 	@6592 // It seems that with this, the last power of Bhaal's spilled blood has been drained, and this discarded flesh now may be burned clean. I will remain to finish this task. Continue on, and I will meet you back in the siege camp.
-DO ~SetGlobal("BH2Quest1","GLOBAL",1) AddJournalEntry(@6593,QUEST)~ EXIT
+DO ~SetGlobal("BH2Quest1","GLOBAL",1) AddJournalEntry(@6593,QUEST) EscapeArea()~ EXIT
 
 CHAIN IF ~AreaCheck("WIBH17") Global("BH2Quest1","GLOBAL",0)~ THEN WIBH2TAM tam4.23
 	@6596 // Have you thought it through. What do you wish?
@@ -644,7 +644,7 @@ END
 		
 CHAIN IF ~AreaCheck("WIBH17") Global("BH2Quest1","GLOBAL",1)~ THEN WIBH2TAM tam4.23
 	@6595 // It is done. I will remain behind for a while. I must... consider some matters personally. Continue on, and I will meet you back in the siege camp.
-EXIT
+DO ~EscapeArea()~ EXIT
 
 CHAIN IF ~Global("BH2Quest","GLOBAL",4) AreaCheck("BD3000") Global("BH2Quest1","GLOBAL",1) Global("BH2Quest2","GLOBAL",2)~ THEN WIBH2TAM tam5.01
 	@7048 // Hello, <CHARNAME>. When you have a moment, I have finished reviewing my notes regarding the glade with the kin killer statue.
