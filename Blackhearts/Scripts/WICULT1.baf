@@ -1,0 +1,15 @@
+IF
+	AreaCheck("WIBH13")
+	Global("BHWinskiState","GLOBAL",1)
+THEN
+	RESPONSE #100
+		Kill(myself)
+END
+
+IF
+	AreaCheck("WIBH13")
+	Global("BHTamokoState","GLOBAL",1)
+THEN
+	RESPONSE #100
+		Kill(myself)
+END

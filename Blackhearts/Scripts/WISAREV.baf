@@ -1,0 +1,57 @@
+IF
+	AreaCheck("WIBH11")
+THEN
+	RESPONSE #100
+		Wait(1)
+		MoveToPointNoInterrupt([323.853])
+		Wait(1)
+		MoveToPointNoInterrupt([1158.393])
+		SmallWait(3)
+		DestroySelf()
+END
+
+IF
+	AreaCheck("WIBH12")
+	Global("WIECHO1","GLOBAL",1)
+THEN
+	RESPONSE #100
+		Wait(1)
+		DestroySelf()
+END
+
+IF
+	AreaCheck("WIBH13")
+	Global("WIECHO1","GLOBAL",2)
+THEN
+	RESPONSE #100
+		MoveToPointNoInterrupt([623.572])
+		Wait(1)
+		DestroySelf()
+END
+
+IF
+	AreaCheck("WIBH17")
+	Global("WIECHO1","GLOBAL",2)
+THEN
+	RESPONSE #100
+		Wait(1)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	AreaCheck("WIBH17")
+	Global("WIECHO1","GLOBAL",3)
+THEN
+	RESPONSE #100
+		MoveToPointNoInterrupt([544.447])
+		Wait(1)
+		DestroySelf()
+END
+
+IF
+	Global("WIECHO1","GLOBAL",4)
+THEN
+	RESPONSE #100
+		Wait(2)
+		StartDialogueNoSet(Player1)
+END

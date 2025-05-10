@@ -1,0 +1,46 @@
+IF
+	Global("BHSODNPC1spawn","WIBH17",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","WIBH17",1)
+	CreateCreature("WISAREV",[546.689],N)
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH17",0)
+	Global("BHTamokoState","GLOBAL",1)
+	OR(2)
+	Global("BH2Quest","GLOBAL",4)
+	Global("BH2Quest","GLOBAL",5)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH17",1)
+	CreateCreature("WIBH2TAM",[368.983],S) 
+	Wait(1)
+	ActionOverride("WIBH2TAM",MoveToPointNoInterrupt([624.723])
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH17",0)
+	Global("BHWinskiState","GLOBAL",1)
+	Global("BHTamokoState","GLOBAL",0)
+	OR(2)
+	Global("BH2Quest","GLOBAL",4)
+	Global("BH2Quest","GLOBAL",5)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH17",1)
+	CreateCreature("WIBH2WIN",[368.983],S)
+	Wait(1)
+	ActionOverride("WIBH2WIN",MoveToPointNoInterrupt([624.723])
+END
+
+IF
+	Global("BH2Quest1","GLOBAL",0)
+	Dead("WISLAYER")
+THEN
+RESPONSE #100
+	SetGlobal("BH2Quest1","GLOBAL",1)
+	AddJournalEntry(@6594,QUEST)
+END

@@ -1,0 +1,21 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+	CutSceneId(Player1)
+	MoveToPoint([550.440])
+	ActionOverride("WIBH2TAM",MoveToPoint([609.470]))
+	Wait(3)
+	AttackOneRound("WISLAYER")
+	Wait(3)
+	ActionOverride("WIBH2TAM",ForceSpell("WISLAYER",WIZARD_FLAME_ARROW))
+	Wait(2)
+	ActionOverride("WISLAYER",Kill(myself))
+	ForceSpell(Myself,HELL_GAIN_STR)
+	ForceSpell(Myself,HELL_GAIN_INT)
+	ForceSpell(Myself,WICHADE)
+	DisplayStringHead(Myself,@6598 /* You have gained 1 Strength and Intelligence, but lost 2 Charisma */)
+	Wait(3)
+	EndCutSceneMode()	
+	ActionOverride("WIBH2TAM",StartDialogueNoSet(Player1))
+END

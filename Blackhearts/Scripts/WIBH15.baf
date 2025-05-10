@@ -1,0 +1,54 @@
+IF
+	Global("BHSODNPC1spawn","WIBH15",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","WIBH15",1)
+	CreateCreature("WISAREV",[722.669],N)
+	CreateCreature("WIREDWOM",[804.708],N)
+	Wait(1)
+	ActionOverride("WISAREV",StartDialogueNoSet(Player1))
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH15",0)
+	Global("BHTamokoState","GLOBAL",1)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH15",1)
+	CreateCreature("WIBH2TAM",[961.490],S) 
+END
+
+IF
+	Global("BHSODNPC4spawn","WIBH15",0)
+	Global("BHCythanState","GLOBAL",9)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC4spawn","WIBH15",1)
+	CreateCreature("WICYNTHA",[961.490],S)
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH15",0)
+	Global("BHWinskiState","GLOBAL",1)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH15",1)
+	CreateCreature("WIBH2WI2",[786.419],E)
+	ActionOverride("WIBH2WIN",Kill(Myself))
+END
+
+IF 
+	Global("BHSODNPC3spawn","WIBH15",0)
+	Global("BHCythanState","GLOBAL",10)
+THEN
+	RESPONSE #100
+		SetGlobal("BHSODNPC3spawn","WIBH15",1)
+		CreateCreature("ARGHH",[780.513],SW)
+		CreateCreature("UGHH",[868.580],S)
+		CreateCreature("WIOGRE02",[1025.615],SE)
+		CreateCreature("WICONSC3",[445.432],SE)
+		CreateCreature("WICONSC3",[1267.743],SE)
+		CreateCreature("WICONSC3",[455.422],SE)
+		CreateCreature("WICONSC3",[1277.733],SE)		
+END

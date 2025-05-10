@@ -1,0 +1,28 @@
+IF
+	Global("BHSODNPC1spawn1","WIBH14",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn1","WIBH14",1)
+	CreateCreature("WINERSOD",[1338.734],SE) 
+	
+END
+
+IF
+	Global("BHSODNPC1spawn2","WIBH14",0)
+	Global("BHTamokoState","GLOBAL",1)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn2","WIBH14",1)
+	CreateCreature("WIBH2TAM",[1508.856],SE) 
+END
+
+IF
+	Global("BHSODNPC1spawn3","WIBH14",0)
+	Global("BHWinskiState","GLOBAL",1)
+	Global("BHTamokoState","GLOBAL",0)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn3","WIBH14",1)
+	CreateCreature("WIBH2WIN",[1508.856],SE) 
+END

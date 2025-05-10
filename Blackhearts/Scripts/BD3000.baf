@@ -1,0 +1,57 @@
+IF
+	Global("BHSODNPC1spawn","BD3000",0)
+	Global("BHTamokoState","GLOBAL",1)
+	OR(2)
+	Global("BH2Quest","GLOBAL",2)
+	Global("BH2Quest","GLOBAL",3)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","BD3000",1)
+	CreateCreature("WIBH2TAM",[1070.1492],SE) 
+END
+
+IF
+	Global("BHSODNPC1spawn","BD3000",0)
+	Global("BHWinskiState","GLOBAL",1)
+	Global("BHTamokoState","GLOBAL",0)
+	OR(2)
+	Global("BH2Quest","GLOBAL",2)
+	Global("BH2Quest","GLOBAL",3)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","BD3000",1)
+	CreateCreature("WIBH2WIN",[1070.1492],SE) 
+END
+
+IF
+	Global("BHSODNPC1spawn2","BD3000",0)
+	Global("BHCythanState","GLOBAL",4)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn2","BD3000",1)
+	CreateCreature("WICYNTH2",[1002.1516],SE)
+END
+
+IF
+	Global("BHSODNPC1spawn3","BD3000",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn3","BD3000",1)
+	CreateCreature("WIMESSEN",[1610.515],N) 
+	
+END
+
+IF
+	Global("BHSODNPC1spawn4","BD3000",0)
+	Global("BHTamokoState","GLOBAL",0) 
+	Global("BHCythanState","GLOBAL",4) 
+	OR(2) 
+	Global("BH2Quest1","GLOBAL",1) 
+	Global("BH2Quest2","GLOBAL",1)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn4","BD3000",1)
+	CreateCreature("WICONSC1",[974.1546],N) 
+	CreateCreature("WICONSC2",[1030.1538],NW) 
+END

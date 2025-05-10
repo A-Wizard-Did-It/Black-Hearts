@@ -1,0 +1,6 @@
+IF
+	Dead("WIBH2WIN")
+THEN
+	RESPONSE #100
+		SetGlobal("BHWinskiState","GLOBAL",0)
+END

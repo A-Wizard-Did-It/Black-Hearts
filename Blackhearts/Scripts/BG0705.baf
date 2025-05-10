@@ -16,7 +16,26 @@ IF
 	Global("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",0)
 THEN
 	RESPONSE #100
-		ActionOverride("WIillase",MoveToPointNoInterrupt([419.873]))
+		ActionOverride("WIillase",MoveToPointNoInterrupt([444.774]))
+		SetGlobal("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",1)
+END
+
+IF
+	GlobalGT("BHBG1Quest","GLOBAL",8)
+	!InMyArea("WINERYS")
+	Global("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",1)
+THEN
+	RESPONSE #100
+		ActionOverride("WIillase",MoveToPointNoInterrupt([569.493]))
+		SetGlobal("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",0)
+END
+
+IF
+	InMyArea("WINERYS")
+	Global("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",0)
+THEN
+	RESPONSE #100
+		ActionOverride("WIillase",MoveToPointNoInterrupt([444.774]))
 		SetGlobal("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",1)
 END
 

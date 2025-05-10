@@ -1,0 +1,24 @@
+IF
+	Global("BH2Quest","GLOBAL",1)
+	Global("BHSODNPC1spawn","BD7100",0)
+	Global("BHTamokoState","GLOBAL",1)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","BD7100",1)
+	CreateCreature("WIBH2TAM",[934.2664],SW) 
+	
+END
+
+IF
+	Global("BH2Quest","GLOBAL",1)
+	Global("BHSODNPC1spawn","BD7100",0)
+	Global("BHWinskiState","GLOBAL",1)
+	Global("BHTamokoState","GLOBAL",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","BD7100",1)
+	CreateCreature("WIBH2WIN",[934.2664],SW) 
+	
+END
