@@ -12,7 +12,7 @@ THEN
 END
 
 IF
-	Dead("WICYTHA")
+	Dead("WICYNTHA")
 THEN
 	RESPONSE #100
 		SetGlobal("BHCythanState","GLOBAL",0)
