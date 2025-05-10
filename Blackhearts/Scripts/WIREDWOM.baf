@@ -1,0 +1,17 @@
+IF
+	AreaCheck("WIBH12")
+	Global("WIECHO1","GLOBAL",1)
+THEN
+	RESPONSE #100
+		Wait(1)
+		DestroySelf()
+END
+
+IF
+	AreaCheck("WIBH13")
+	Global("WIECHO1","GLOBAL",2)
+THEN
+	RESPONSE #100
+		Wait(1)
+		DestroySelf()
+END

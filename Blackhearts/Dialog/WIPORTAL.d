@@ -19,4 +19,4 @@ END
 	++ @3134 + WIPO3
 	
 CHAIN WIPORTAL WIPO3
-	@3135 DO ~StartCutSceneEx("WIcuts22",TRUE) StartCutSceneMode()~ EXIT
+	@3135 DO ~TakePartyItem("WIMISC07") TakePartyItem("WIMISC08") TakePartyItem("WIMISC09") TakePartyItem("WIMISC10") StartCutSceneEx("WIcuts22",TRUE) StartCutSceneMode()~ EXIT

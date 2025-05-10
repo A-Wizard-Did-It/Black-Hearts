@@ -8,6 +8,7 @@ THEN
 		Wait(1)
 		EndCutSceneMode()
 		ActionOverride("WINerys",MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[411.805],0))
+		Wait(1)
 		ActionOverride(Player1,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L1%","",[490.798],4))
 		ActionOverride(Player2,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L1%","",[453.798],4))
 		ActionOverride(Player3,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L1%","",[504.734],4))

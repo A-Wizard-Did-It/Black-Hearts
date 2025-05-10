@@ -1086,7 +1086,7 @@ END
 
 CHAIN WIillase il1.8
 	@1359
-	= @1360 DO ~SetGlobal("BHBG1Quest","GLOBAL",99) EscapeArea()~ EXIT
+	= @1360 DO ~SetGlobal("BHBG1Quest","GLOBAL",99) AddJournalEntry(@3405,QUEST) EscapeArea()~ EXIT
 
 CHAIN WIillase il1.9
 	@1361
@@ -1339,7 +1339,8 @@ END
 		++ @1464 + il2.14
 
 CHAIN WIillase il2.14
-	@1468 DO ~AddJournalEntry(@20,QUEST) SetGlobal("BHBG1Quest","GLOBAL",2)~ EXIT
+	@1468 
+	= @3410 DO ~AddJournalEntry(@20,QUEST) SetGlobal("BHBG1Quest","GLOBAL",2)~ EXIT
 
 CHAIN IF ~Global("BHBG1Quest","GLOBAL",2) !PartyHasItem("WISW1H01")~ THEN WIillase il2.15
 	@1469
@@ -1871,10 +1872,10 @@ END
 		++ @1673 + il5.22
 
 CHAIN WIillase il5.21
-	@1674 DO ~AddJournalEntry(@65,QUEST) SetGlobal("BHBG1Quest","GLOBAL",6) CreateVisualEffectObject("spdimndr",myself) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
+	@1674 DO ~AddJournalEntry(@65,QUEST) SetGlobal("BHBG1Quest","GLOBAL",6) CreateVisualEffectObject("spdimndr",myself) Wait(1) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
 
 CHAIN WIillase il5.22
-	@1675 DO ~AddJournalEntry(@65,QUEST) SetGlobal("BHBG1Quest","GLOBAL",6) CreateVisualEffectObject("spdimndr",myself) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
+	@1675 DO ~AddJournalEntry(@65,QUEST) SetGlobal("BHBG1Quest","GLOBAL",6) CreateVisualEffectObject("spdimndr",myself) Wait(1) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
 	
 CHAIN WIillase il5.23
 	@1676
@@ -2483,13 +2484,13 @@ END
 		++ @1951 + il6.97
 		
 CHAIN WIillase il6.95
-	@1952 DO ~SetGlobal("IllaseraScene1","GLOBAL",4) AddJournalEntry(@65,QUEST) SetGlobal("IllaseraFriendship","GLOBAL",1) CreateVisualEffectObject("spdimndr",myself) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
+	@1952 DO ~SetGlobal("IllaseraScene1","GLOBAL",4) AddJournalEntry(@65,QUEST) SetGlobal("IllaseraFriendship","GLOBAL",1) CreateVisualEffectObject("spdimndr",myself) Wait(1) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
 	
 CHAIN WIillase il6.96
-	@1953 DO ~SetGlobal("IllaseraScene1","GLOBAL",4) AddJournalEntry(@65,QUEST) SetGlobal("IllaseraFriendship","GLOBAL",1) CreateVisualEffectObject("spdimndr",myself) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
+	@1953 DO ~SetGlobal("IllaseraScene1","GLOBAL",4) AddJournalEntry(@65,QUEST) SetGlobal("IllaseraFriendship","GLOBAL",1) CreateVisualEffectObject("spdimndr",myself) Wait(1) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
 	
 CHAIN WIillase il6.97
-	@1954 DO ~SetGlobal("IllaseraScene1","GLOBAL",4) AddJournalEntry(@65,QUEST) SetGlobal("IllaseraFriendship","GLOBAL",1) CreateVisualEffectObject("spdimndr",myself) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
+	@1954 DO ~SetGlobal("IllaseraScene1","GLOBAL",4) AddJournalEntry(@65,QUEST) SetGlobal("IllaseraFriendship","GLOBAL",1) CreateVisualEffectObject("spdimndr",myself) Wait(1) MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[419.873],6)~ EXIT
 	
 CHAIN WIillase il6.98
 	@1955
@@ -2854,7 +2855,8 @@ END
 		++ @2076 + il7.27
 
 CHAIN WIillase il7.27
-	@2077 DO ~SetGlobal("BHBG1Quest7Talk1","LOCALS",1) AddJournalEntry(@70,QUEST)~ EXIT
+	@2077 
+	=@3412 DO ~SetGlobal("BHBG1Quest7Talk1","LOCALS",1) AddJournalEntry(@70,QUEST)~ EXIT
 	
 CHAIN WIillase il7.28
 	@2078
@@ -3087,7 +3089,7 @@ END
 
 CHAIN WIillase il12.7
 	@2175
-	= @2176 DO ~SetGlobal("BHBG1Quest","GLOBAL",13)~ EXIT
+	= @2176 DO ~AddJournalEntry(@3400,QUEST) SetGlobal("BHBG1Quest","GLOBAL",13)~ EXIT
 		
 CHAIN WIillase il12.8
 	@2177

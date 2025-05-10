@@ -1,23 +1,25 @@
 IF 
 	Global("BHBG1Quest","GLOBAL",6)
-	Global("BHBG1Quest6spawn2","%EBaldursGate_ElfsongTavern_L1%",0)
+	Global("BHBG1Quest6spawn2","MYAREA",0)
 	Global("Chapter","GLOBAL",5)
 THEN
 	RESPONSE #100
-		SetGlobal("BHBG1Quest6spawn2","%EBaldursGate_ElfsongTavern_L1%",1)
+		SetGlobal("BHBG1Quest6spawn2","MYAREA",1)
 		CreateCreature("WIREDWIZ",[414.805],SE) 
 		CreateCreature("WICOMM01",[522.687],E) 
+		Continue()
 END
 
 // JO workaround
 
 IF
 	Global("BHBG1Quest","GLOBAL",8)
-	Global("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",0)
+	Global("BHBG1QuestJOworkaround","MYAREA",0)
 THEN
 	RESPONSE #100
-		ActionOverride("WIillase",MoveToPointNoInterrupt([419.873]))
-		SetGlobal("BHBG1QuestJOworkaround","%EBaldursGate_ElfsongTavern_L1%",1)
+		SetGlobal("BHBG1QuestJOworkaround","MYAREA",1)
+		ActionOverride("WIillase",MoveToPoint([419.873]))
+		Continue()
 END
 
 // JO workaround
@@ -28,17 +30,19 @@ IF
 THEN
 	RESPONSE #100
 		ActionOverride("WINERYS",MoveBetweenAreas("WI0005",[844.173],0))
+		Continue()
 END
 
 IF
 	Global("BHBG1Quest","GLOBAL",15)
 	Exists("WIILLASE")
-	Global("BHBG1Quest15spawn1","%EBaldursGate_ElfsongTavern_L1%",0)
+	Global("BHBG1Quest15spawn1","MYAREA",0)
 THEN
 	RESPONSE #100
-		SetGlobal("BHBG1Quest15spawn1","%EBaldursGate_ElfsongTavern_L1%",1)
+		SetGlobal("BHBG1Quest15spawn1","MYAREA",1)
 		ActionOverride("WIILLASE",DestroySelf())
-		CreateCreature("WINERYS",[477.731],SE) 
+		CreateCreature("WINERYS",[477.731],SE)
+		Continue()
 END
 
 IF
@@ -46,5 +50,6 @@ IF
 	Exists("WIILLASE")
 THEN
 	RESPONSE #100
-		ActionOverride("WIILLASE",DestroySelf())	
+		ActionOverride("WIILLASE",DestroySelf())
+		Continue()
 END

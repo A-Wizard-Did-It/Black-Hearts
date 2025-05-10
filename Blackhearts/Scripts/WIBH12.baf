@@ -1,0 +1,45 @@
+IF
+	Global("BHSODNPC2spawn","WIBH12",0)
+	Global("BHCythanState","GLOBAL",1)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH12",1)
+	CreateCreature("WICYNTHA",[573.532],W) 
+	
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH12",0)
+	Global("BHCythanState","GLOBAL",2)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH12",1)
+	CreateCreature("WICYNTHA",[573.532],W) 
+	
+END
+
+IF 
+	Global("BHSODNPC2spawn","WIBH12",1)
+	Global("BHCythanState","GLOBAL",3)
+THEN
+	RESPONSE #100
+		SetGlobal("BHSODNPC2spawn","WIBH12",2)
+		CreateCreature("ARGHH",[393.416],SW)
+		CreateCreature("UGHH",[633.763],NW)
+		CreateCreature("WIOGRE02",[502.579],W)
+END
+
+IF
+	PartyHasItem("WIBOOK07")
+	Global("BHSODNPC3spawn","WIBH12",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC3spawn","WIBH12",1)
+	CreateCreature("WISAREV",[409.617],NE)
+	CreateCreature("WIREDWOM",[571.531],SW)
+	Wait(1)
+	ActionOverride("WIREDWOM",StartDialogueNoSet(Player1))
+END

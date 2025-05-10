@@ -1,0 +1,42 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+	CutSceneId(Player1)
+	StartCutSceneMode()
+	StorePartyLocations()
+	FadeToColor([0.0],0)
+	ApplySpellRES("bdhide",Player1)
+	LeaveAreaLUA("WIBH15","",[882.553],S)
+	MoveViewPoint([882.553],INSTANT)
+	Wait(2)
+	FadeFromColor([20.0],0)
+	CreateCreature("WIREDWO2",[724.933],N)
+	ActionOverride("WIREDWOM",MoveToPoint([858.602]))
+	Wait(2)
+	DisplayStringHead("WIBH2TAM",@7141) // Who is there? Who approaches?
+	Wait(4)
+	DisplayStringHead("WIREDWOM",@7142) // Little girl, you have looked into something you really should have not.
+	Wait(6)
+	DisplayStringHead("WIBH2TAM",@7143) // Ah. Then it was you. It does not matter. You could not sway Sarevok. You will not control <CHARNAME>.
+	Wait(8)
+	DisplayStringHead("WIREDWOM",@7144) // I have no intention on Gorion's ward. Another has claimed <PRO_HIMHER>. I only come here for you.
+	Wait(5)
+	DisplayStringHead("WIBH2TAM",@7145) // I do not fear death.
+	Wait(3)
+	DisplayStringHead("WIREDWOM",@7146) // There are things I can do that would make death seem a sweet dream.
+	ActionOverride("WIBH2TAM",Attack("WIREDWOM"))
+	ActionOverride("WIREDWOM",ForceSpell("WIBH2TAM",WIZARD_FINGER_OF_DEATH))
+	Wait(6)
+	ActionOverride("WIBH2TAM",Kill(myself))
+	Wait(4)
+	DisplayStringHead("WIREDWOM",@7147) // You provided such loyal assistance to one Bhaalspawn. It is time that you serve another.
+	ActionOverride("WIREDWOM",ForceSpell("WIBH2TAM",CLERIC_RESURRECTION))
+	Wait(6)
+	FadeToColor([15.0],0)
+	Wait(2)
+	ApplySpellRES("bdunhide",Player1)
+	RestorePartyLocations()
+	FadeFromColor([15.0],0)
+	EndCutSceneMode()
+END

@@ -1,0 +1,8 @@
+SRC_AREA  SRC_NWSE  TARGET_ARE  ENTRY_NAME  TRV_TIME  DEF_ENTRY  ENC1     ENC2     ENC3     ENC4     ENC5     ENC_PROB
+
+BD3000    N         WIBH13      Mapentry         18        4        N        N        N        N        N          0
+WIBH13    N         BD3000      ExitN        18        4        N        N        N        N        N          0
+BD3000    N         WIBH14      Worldmap         8        4        N        N        N        N        N          0
+WIBH14    N         BD3000      ExitN         8        4        N        N        N        N        N          0
+BD3000    N         WIBH15      Entrance1        4        4        N        N        N        N        N          0
+WIBH15    N         BD3000      ExitN         4        4        N        N        N        N        N          0

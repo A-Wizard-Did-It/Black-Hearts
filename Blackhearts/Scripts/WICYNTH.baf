@@ -1,0 +1,19 @@
+IF
+	AreaCheck("BD3000") 
+	Global("BHCythanState","GLOBAL",4)
+	Range([PC],18)
+	OR(2) 
+	Global("BH2Quest1","GLOBAL",1) 
+	Global("BH2Quest2","GLOBAL",2)
+THEN
+	RESPONSE #100
+		Wait(1)
+		StartDialogueNoSet(Player1)
+END
+
+IF
+	Dead("WICYNTHA")
+THEN
+	RESPONSE #100
+		SetGlobal("BHCythanState","GLOBAL",0)
+END

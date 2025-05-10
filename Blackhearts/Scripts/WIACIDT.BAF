@@ -1,0 +1,7 @@
+IF
+	IsOverMe([ANYONE])
+THEN
+	RESPONSE #100
+		ForceSpell(LastTrigger,WIACID3)  // SPIN994.SPL (No such index)
+END
+

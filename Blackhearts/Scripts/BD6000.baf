@@ -1,0 +1,9 @@
+IF
+	Global("BH2Quest","GLOBAL",6)
+	Global("BHTamokoState","GLOBAL",1)
+THEN
+RESPONSE #100
+	SetGlobal("BH2Quest","GLOBAL",7)
+	StartCutSceneMode()
+	StartCutSceneEx("WIcuts32",TRUE)
+END

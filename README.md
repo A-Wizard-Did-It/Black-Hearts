@@ -1,8 +1,8 @@
 *****************************************
-## Black Hearts BG1 - The Huntress v1.2
+## Black Hearts Part 1 and Part 2
 *****************************************
 
-#### A mod for BGEE, BG2EE and EET !
+#### A mod for BGEE, SoD, BG2EE and EET!
 
 
 ### Compatibility :
@@ -12,16 +12,27 @@
 
 ### Introduction :
 
-Black Hearts is a new Quest mod for Baldur’s Gate Enhanced Edition that follows a plotline involving a character from Throne of Bhaal, Illasera, and a Red Wizard plot involving a dangerous new ally that has joined Sarevok’s cause. This mod repurposes fights from the Black Pits module, using those as a basis for various objectives given to players for the questline (with some modifications to them in some cases). 
+Black Hearts is a new Quest mod for Baldur’s Gate Enhanced Edition and Siege of Dragonspear. The mod consists of two major questlines:
+
+1 - The Huntress (BG1): Illasera is a Bounty Hunter from the Heartlands who has come to the Sword Coast on a mission. She enlists the Player as a novice Bounty hunter on a series of missions and eventually to investigate a plot involving a dangerous new enemy in the city of Baldur's Gate. This mod repurposes fights from the Black Pits module, using those as a basis for various objectives given to players for the questline (with some modifications to them in many cases). 
+
+2 - Pilgrimage (SoD): As the Player pursues Caelar Argent's Shining Crusade, they uncover the trail of Sarevok as he sought new information about his lineage and the power of the Deathbringer. Accompany Sarevok's former allies as you uncover the legacy of Bhaal and the dark forces manipulating his children. 
 
 There is a small additional ‘Dialogue patch’ supplement mod that can be downloaded for BG2. This adds some additional dialogues to Illasera in TOB to reflect that the two of you knew each other before.
 
-The mod includes:
-- A brand new questline that spans from Chapter 3 through to the end of BG1. 
+The BG1 Portion of the Mod Includes:
+- A new questline for BG1 that spans from Chapter 3 through to the end of BG1.
 - An expanded non-party companion, Illasera the Quick. While she does not join the party, she is a major presence in a Baldur’s Gate game with Black Hearts installed. In addition to being the major quest giver for the mod, she comments on your journey, provides rumors and advice, has 2-3 conversations with all BG:EE companions, and two long form social events if you choose to befriend her.
 - Around 3,000 new lines of written dialogue with an emphasis on roleplay. 
 - Six brand new areas.
-- Eighteen new items with unique magical properties.
+- Eighteen new items with unique properties.
+
+The SoD Portion of the Mod Includes:
+- An SoD Exclusive questline that takes place in Chapters 9 and 10.
+- Two more expanded non-party companions, Tamoko and Winski Perorate, depending on if they lived at the end of your Baldur's Gate 1 adventure. Tamoko includes various extensive talks which reveal more about her relationship with Sarevok and past.
+- Around 1,200 new lines of written dialogue.
+- Seven new areas
+- Six new magical items with unique properties (including a Quarterstaff for Monks!)
 
 
 ### Installation :
@@ -36,49 +47,75 @@ The mod should only be played on a fresh save. Uninstalling the mod and loading 
 ### FAQ :
 
 Will this mod get ported for the non-EE BG?
-Definitely not. It pulls too much from the EE and I learned to mod using a lot of EE shortcuts that I am not going to relearn to mod vanilla BG.
+
+- Definitely not. It pulls too much from the EE and I learned to mod using a lot of EE shortcuts that I am not going to relearn to mod vanilla BG.
 
 Is SOD required?
-No, however an SOD add-on epilogue chapter will be coming Soon™
+
+- Not for the first part, however the second part does require SoD.
+
+Is there any way to play the second part without SoD?
+
+- No. I had considered at some point allowing it through Endless BG1, but have decided that the content is too integrated into SoD to pull out.
 
 Are there any mod incompatibilities?
-There shouldn’t be. I tried to make the mod with best modding practices in mind towards compatibility with other mods. However if anyone finds anything that doesn’t work together, notify me and I’ll look into it (contact details below).
+
+- I tried to make the mod with best modding practices in mind towards compatibility with other mods. Any mod that adds content to Tamoko post BG1 probably won't make much sense storywise, though there shouldn't be a technical inconsistency. If anyone finds anything that doesn’t work together, notify me and I’ll look into it (contact details below).
 
 What languages are the mod in?
-Only English so far. If someone would like to assist me in translating to other languages, please contact me (contact details below).
 
-Where does the quest start?
-The Questline begins in the Feldepost Inn of Beregost and can be started in Chapter 3 and forward.
+- English for both mod components and Chinese for the BG1 part.
+
+Where do the quests start?
+
+- For Part 1: The quest begins in the Feldepost Inn of Beregost and can be started in Chapter 3 and forward.
+- For Part 2: See Nerys in the Elfsong Tavern. She will question you and set the world state for some of Sarevok's allies.
 
 Are there any time limits or requirements for the quests?
-There are no time limits on any quest. However, all available quests must be completed prior to starting Chapter 7 (post-Candlekeep) or else the last chain in the questline will not be available. It will be obvious when you’re safe to move on to Candlekeep. 
+- There are no time limits on any quest. However, all available quests must be completed prior to starting Chapter 7 (post-Candlekeep) or else the last chain in the questline will not be available. It will be obvious when you’re safe to move on to Candlekeep. 
+
+- For Part 2, for the full questline at least one of Sarevok's allies must be stated to be alive: Tamoko, Winksi, or Cythadria. An abbreviated version is possible if none of them are alive. 
 
 Illasera is kind of mean. Can she not be?
-No, I tried to write the character as very firmly in the evil camp. However, she is not a cackling villain, simply practical and without much empathy for others. She’s intentionally condescending towards the PC to start, but lightens up over time (and can even respect/befriend them).
+
+- No, I tried to write the character as fitting an evil alignment. However, she is not a cackling villain, simply practical and without much empathy for others. She’s intentionally condescending towards the PC to start, but lightens up over time (and can even respect/befriend them).
+
+How do you trigger companion dialogue with Illasera?
+
+- To trigger companion interactions, just speak to her with a companion and it will trigger her dialogue with them. She has 1 dialogue per "act" of the quest (one in feldepost, one in elfsong, and finally in the Underceller).
 
 Are there story consequences for doing/not doing the quest?
-Yes. Without spoiling things, playing through the questline to its completion will add an extra benefit to the end game. However, failing to do it will make for a complication towards the end. This is a quest about Sarevok getting a new ally. Failing to stop this will make for a fairly tough battle near the end. 
+
+- For Part 1, yes. Without spoiling things, playing through the questline to its completion will add an extra benefit to the end game. However, failing to do it will make for a complication towards the end. This is a quest about Sarevok getting a new ally. Failing to stop this will make for a fairly tough battle near the end. 
+
+- For Part 2 there is no consequence to not doing it.
 
 I’m not getting experience from quest turn ins. Is that intended?
-Yes. I feel like the amount of XP you get in BG:EE is already incredibly high and the fights in this mod generally award pretty good XP for the enemies you kill, so I decided awarding even more XP for quest turn-ins wasn’t really necessary. There are a couple instances of XP rewards given however for alternate quest solutions.
+
+- Yes. I feel like the amount of XP you get in BG:EE is already incredibly high and the fights in this mod generally award pretty good XP for the enemies you kill, so I decided awarding even more XP for quest turn-ins wasn’t really necessary. There are a couple instances of XP rewards given however for alternate quest solutions.
+
+- For Part 2 I decided to add quest rewards as there is less combat in the mod.
 
 Is there any special content for specific npcs/characters?
-Imoen gets a few extra bits of content in this mod, including an expanded Eversong Bar scene. Besides her, all other EE base npcs get quite a bit of banter and a few even provide alternate routes for some quests to usually shortcut them.
+
+- Imoen gets a few extra bits of content in this mod, including an expanded Elfsong Bar scene. Besides her, all other EE base npcs get quite a bit of banter and a few even provide alternate routes for some quests to usually shortcut them.
 
 
 ### Credits :
 
-New Area assets sourced from Lionheart: Legacy of the Crusader
-Nerys’ song is So Close by FlyByNo (Endless Legend)
+New Area assets sourced from Lionheart: Legacy of the Crusader & Pillars of Eternity
+Nerys song is So Close by FlyByNo (Endless Legend)
 Nerys voice lines pulled from Legends of Runeterra (Riot Games) 
-Special thanks to DnD Detective (https://www.youtube.com/@dnddetective4463). His modding tutorial videos started out my own dabbling in modding. I couldn’t have made this mod without him.
+Please reach out to me if there are legal issues with the above asset use.
+
+Special Thanks to 11jo/JohnBob whose help maintaining the mod and troubleshooting it in my absence. 
+
 Thank you to all the BG modding community. You’ve inspired so much interest in this game/series that has kept it fresh and fun for decades. This entire process of modding was a lot of trial and error learned from scouring through various mods and trying to put it all together myself. 
 Beamdog for their work to maintain Baldur’s Gate as a game. You all aren’t always appreciated, but I think deserve accolades for the work you’ve done updating the game (and SOD is a pretty swell little expansion).
 
-
 ### Contact :
 
-For any issues had with the mod, send me a message through the beamdog site or contact me at mandatorymarley@sbcglobal.net and I'll get back to you when I can.
+For any issues had with the mod, make a report through github or contact me at mandatorymarley@sbcglobal.net and I'll get back to you when I can.
 
 
 ### Version History :
@@ -169,14 +206,15 @@ For any issues had with the mod, send me a message through the beamdog site or c
 	- Fix for first Illasera image when entering Baldur's Gate.
 	- Simplify workaround for Illasera placement in Elfsong tavern.
 
-- Version 1.3 (IN PROGRESS, 2025)
-
+- Version 2.0 
+	- Integration of Part 2, Pilgrimage, for SoD
 	- Assign new WISKEL.BAF to WISKEL.cre with WILLYRK.cre (Sazazir) correct death vars.
 	- WIMISC02.itm weigth
 	- Remove unused item from [Nerys inventory.](https://github.com/A-Wizard-Did-It/Black-Hearts/issues/13)
 	- Small [typo.](https://github.com/A-Wizard-Did-It/Black-Hearts/issues/12)
 	- Original game Global "BATTLE_COMPLETE" is set after going trough BGinBG so Slimes where destroyed immediatly in WI0008, so create separate creatures and script to prevent it.
 	- Remove NumTimesTalkedTo(0) in WIillimg.d to continue the search of preventing issue with Illasera Image when entering Baldur's Gate.
+	- Addition of a few more quest journal entries for added clarity when pursuing the Night Knives. 
 
 
 **Special thanks for reporting issues and helping :**
@@ -188,4 +226,5 @@ For any issues had with the mod, send me a message through the beamdog site or c
 - Sylvanas, Maus, Thrasymachus  
 - Sour  
 - Leith
+- Basicals
 - Many other people from the Beamdog thread  

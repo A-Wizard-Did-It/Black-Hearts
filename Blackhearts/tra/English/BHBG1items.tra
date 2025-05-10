@@ -53,7 +53,7 @@ STATISTICS:
 Weight: 1~
 
 @33=~Copy of the Liberus Optimae Erositica~
-@34=~While not the genuine Liberus Optimae Erositica, this copied volume seems to be a faithful reproduction of the original work. While examining the rather suggestive cover, you're tempted to open it to peruse the librum's salacious content, but the watchful eyes of your companions quickly quells those compulsions. At least until you have a chance to look upon it in private, that is.
+@34=~While not the genuine Liberus Optimae Erositica, this copied volume seems to be a faithful reproduction of the original work. While examining the rather suggestive cover, you're tempted to open it to peruse the librum's salacious content, but the judging eyes of your companions quickly quells that impulse. At least, until you find some time in private.
 
 STATISTICS:
 
@@ -64,7 +64,7 @@ Weight: 10~
 
 Salena's plays are well known for being beautifully written with characters that explore cyclical themes of humanoid-nature. Critics however have often panned her work for being overwrought and with a reliance on deus ex machina endings to resolve central conflicts in the play.
 
-The last few pages contain Salena's last unfinished play, titled "Black Heart". It details a woman named the “Cardinal” as she courts "The Pale Man", who had murdered her family when she was only a child, in the hopes of using the relationship to destroy him. The play seemed to be moving for a tragic turn as the Cardinal's efforts draw her down a dark path, her actions becoming more extreme and compromising her morals little by little until she became just like the man she so hated. The story abruptly stops without any hint for where the ending might have gone.~
+The last few pages contain Salena's last unfinished play, titled "Black Heart". It details a woman named the “Cardinal” as she courts "The Pale Man", who had murdered her family when she was only a child. It seemed by gaining his trust, she intended to use the relationship to destroy him. The climax of the play revolves around her attempts to turn the Pale Man's children against him and one another, destroying his family as hers had been. In the last scene she stands triumphant, yet her skin begins to assume the deathly pallor of the Grey Man and she realizes that she has become him, and in doing so has become the slave to an eternal cycle.~
 
 @37=~Ring of Lesser Magic Resistance~
 @38=~Rings of Magic Resistance are a common accessory among the warriors of Rashemen to protect them from their hated rivals, the Red Wizards of Thay. More than once, a Red Wizard has cast a fireball upon a band of Rashemen warriors, only to find them unscarred by the flames and barreling straight at them.
@@ -182,7 +182,7 @@ STATISTICS:
 Weight: 0~
 
 @103=~Tattered Tome~
-@104=~*This tome seems positively ancient, hundreds of years old possibly. You're only able to make a few scribblings within.*
+@104=~*This tome seems positively ancient, hundreds of years, maybe a thousand old. You're only able to make a few scribblings within.*
 
 "...blessed are we to have been given the egg... imagine, a dragon infused with our very Lord's own dark essence. What glorious devastation... received a premonition from our dark lord. This is to be one of many seeds sown through the years. To carry on his essence in case... hidden our enclave cleverly but... too dangerous. His enemies have noticed our presence. We must abandon this sanctum... east to the Anauroch desert. There we will raise the dragonling in secret, for centuries if needed, until the time of prophecy arrives... One day he will rise to take his rightful place besides the Lord.~
 
@@ -201,12 +201,12 @@ Weight: 0~
 
 @112=~Letter~
 @113=~Cherise,
-I have received your inventory of creatures and I find the menagerie at your command to be an impressive force. You are wise to support me in my rise to power. The Zulkirs will quake in fear when you return to Thay, bolstered by my support. Once you have ripped their power from them, not even the Harpers or these old Deathstalker rivals of yours will pose any danger to you. I must reiterate that I, Winski, Cythandria, or my lieutenants Semaj and Angelo are to be your sole contacts. Only they know the full scope of my plans, including details that the rest of the Iron Throne organization may find disagreeable. I will be leaving Baldur's Gate soon on a mission. When I return, we will reconvene, and the next stage of my plans revealed to you.
+I have received your inventory of creatures and I find the menagerie at your command to be an impressive force. You are wise to support me in my rise to power. The Zulkirs will quake in fear when you return to Thay, bolstered by my support. I must reiterate that I, Winski, Cythandria, or my lieutenants Semaj and Angelo are to be your sole contacts. Only they know the full scope of my plans, including details that the rest of the Iron Throne organization may find disagreeable. I will be leaving Baldur's Gate soon on a mission. When I return, we will reconvene, and the next stage of my plans will be revealed to you.
 
 -S~
 
 @116=~Mimic Mace~
-@117=~You found this mace within the remains of a mimic, corroded by its acid and covered in its sticky ichor, but otherwise remarkably in tact. It's difficult to say what the original enchantment placed on the mace was, yet its time within the mimics digestive system seems to have imbued it with properties of the mimic itself. When swung at an enemy, this mace has a chance to ensnare them in the mimic's adhesive ichor or drench them in a mimic's acidic digestive fluids. While a powerful weapon, the Mimic Mace's properties also make it extremely difficult to let go of once picked up, covering the carrier's hand in its sticky coating. It would take a Remove Curse spell to undo this effect.
+@117=~You found this mace within the remains of a mimic, corroded by its acid and covered in its sticky ichor, but otherwise remarkably intact. It's difficult to say what the original enchantment placed on the mace was, yet its time within the mimics digestive system seems to have imbued it with properties of the mimic itself. When swung at an enemy, this mace has a chance to ensnare them in the mimic's adhesive ichor or drench them in a mimic's acidic digestive fluids. While a powerful weapon, the Mimic Mace's properties also make it extremely difficult to let go of once picked up, covering the carrier's hand in its sticky coating. It would take a Remove Curse spell to undo this effect.
 
 STATISTICS:
 
@@ -362,9 +362,9 @@ The Brother of Song was crafted this special Wakizashi by his order that was ins
 STATISTICS:
 Bard song effect on party upon successful attack
 +1 Charisma
--2 Armor Class
+-2 Armor Class penalty
 
--2 to THAC0 (effects both weapons if dual wielding)
+THAC0: +2 (effects both weapons if dual wielding)
 Damage: 1d8+2 (piercing)
 Speed Factor: 1
 Proficiency Type: Scimitar/Wakizashi/Ninjatō
@@ -427,33 +427,21 @@ Weight: 2~
 @165=~Decoded Diary of Riezen Darkeyes~
 @10001=~*Translator’s note: I’ve gone through and transcribed the most important entries in the volume. Hope this helps, or that you at least find it interesting.
 
-Entry 1 - The Harper leadership has convened and assigned to me the pursuit of the Blackheart, Bhaal’s favored High Priestess during the Time of Troubles. It’s a most confidential mission. I’m not to speak of it to anyone, and should not even be leaving a written record of my task. I only do so under the most carefully devised code that only I or other high ranking Harpers should be able to decipher in the worst case that I cannot accomplish my mission or report back. The details I have been given of Blackheart are as follows:
+Entry 1 - The Harper leadership has convened and assigned to me the pursuit of a woman who has been seen in the company of several known Bhaalspawn. It’s a most confidential mission. I’m not to speak of it to anyone, and should not even be leaving a written record of my task. I only do so under the most carefully devised code that only I or other high ranking Harpers should be able to decipher in the worst case that I cannot accomplish my mission or report back.
 
-Known details are as such: 
-- Fair of skin 
-- Blue eyes 
-- Records conflict on hair. Some say brown, others auburn, others bright red. Likely it is dyed as necessary.
-- In her priestly regalia, tends towards avian motifs (possibly owl?). It is unlikely she will assume such dress again, however she often will retain feathered adornments on her even in disguise. 
-- Lean physique.
-- Roughly thirty years of age.
-- Her favored weapon is the spear. She was known to fight with it in conjunction with a large clawed gauntlet. 
-- She is at least a proficient mage. It is unlikely she retains any divine powers after her god fell, however this does not mean she is not a dangerous enemy. 
-- She was last seen within the Marching Mountains of Tethyr
+Entry 6 - I have located my target and begun to trail her. She does not yet know I follow her. However, she has proceeded into the Underdark for some reason I cannot guess at. This is troubling, yet I will continue my task and track her beneath. I only hope that I do not encounter my darkened bastard kin there. 
 
-Entry 6 - I have located the Blackheart and begun to trail her. She does not yet know I follow her. However, she has proceeded into the Underdark for some reason I cannot guess at. This is troubling, yet I will continue my task and track her beneath. I only hope that I do not encounter my darkened bastard kin there. 
+Entry 9 - I’ve followed my target for days beneath the earth. Or... perhaps weeks? Time escapes me here. Her destination has revealed itself. She has come to a small shrine, away from the major drow cities. However, the shrine is tended to by other drow. The complex has the markings of Bhaal on them... likely they hide from the Lloth worshiping drow who would destroy a shrine to any surface deity, even one as foul as theirs. She remains in the shrine tending to a young drow woman, I believe educating her. She cannot long be an adult now. She is... rather lovely, despite her dark heritage. 
 
-Entry 9 - I’ve followed the Blackheart for days beneath the earth. Or... perhaps weeks? Time escapes me here. Her destination has revealed itself. She has come to a small shrine, away from the major drow cities. However, the shrine is tended to by other drow. The complex has the markings of Bhaal on them... likely they hide from the Lloth worshiping drow who would destroy a shrine to any surface deity, even one as foul as theirs. She remains in the shrine tending to a young drow woman, I believe educating her. She cannot long be an adult now. She is... rather lovely, despite her dark heritage. 
+Entry 13 - I’ve claimed a large cavern in the Underdark as my residence while I observe my target and her dark prodigy. The mushrooms I tend to and wildlife are adequate to sustain me. I miss the sun, but not so terribly as some of my kin might. I’ve always felt an attraction to the shaded recesses of the below ground. Tending to my mushroom groves, I’ve begun to find new respect for my dark kin.
 
-Entry 13 - I’ve claimed a large cavern in the Underdark as my residence while I observe the Blackheart and her dark prodigy. The mushrooms I tend to and wildlife are adequate to sustain me. I miss the sun, but not so terribly as some of my kin might. I’ve always felt an attraction to the shaded recesses of the below ground. Tending to my mushroom groves, I’ve begun to find new respect for my dark kin.
-
-Entry 18 - I’ve made a terrible error. While I was tending to my groves, I was intruded upon. But while I feared that the vile drow may have discovered me, it was only the single drow girl that Blackheart showed interest in. I know now why. She is a child of the dark god. A Bhaalspawn. I should slay her... it would be my duty as a Harper and as a noble elf. Yet I could not. She’s so beautiful and curious. She did not hate me when she found me. She wished to talk. She even promised not to reveal me to her kin. It is strange. I must watch more.
+Entry 18 - I’ve made a terrible error. While I was tending to my groves, I was intruded upon. But while I feared that the vile drow may have discovered me, it was only the single drow girl that my target has been tutoring. I know now why. She is a child of the dark god. A Bhaalspawn. Is it our duty as the Harpers to protect such beings? She’s so beautiful and curious. She did not hate me when she found me. She wished to talk. She even promised not to reveal me to her kin.
 
 Entry 19 - She has begun to visit me regularly. Her name is Sendai. I think I love her. 
 
-Entry 22 - Blackheart left the enclave some time ago, but I did not follow. I cannot follow. Perhaps this is an abdication of my mission, but I feel like I must remain here with Sendai. She tells me of her plans, the things she was born to achieve. It scares me because, more and more, I think she speaks truly. I wish for her the destiny she speaks of. 
+Entry 22 - My target left the enclave some time ago, but I did not follow. I cannot follow. Perhaps this is an abdication of my mission, but I feel like I must remain here with Sendai. She tells me of her plans, the things she was born to achieve. It scares me because, more and more, I think she speaks truly. I wish for her the destiny she speaks of. 
 
 Entry 29 - This will be my last entry. I have sworn myself to Sendai with all my heart. She sends me on a mission topside... I must destroy an enemy of hers. A Bhaalspawn like her who would ascend before her own plans fall into place. None may steal this inheritance from my love. The Harpers be damned.~
-
 @3323=~Wakizashi~
 @3324=~The wakizashi, or companion sword, is extremely important to the samurai. It is worn at all times, even indoors, and is near the samurai when he sleeps at night. As finely made as the katana, the wakizashi, a shorter sword with a length between twelve and twenty-four inches, is a dangerous weapon in the hands of a skilled user.
 
@@ -491,3 +479,252 @@ My Redwaters gonna stick down here for a while longer, make sure we're good and 
 
 Always loyal,
 -Perthag~
+
+@6089=~Letter from Nerys~
+@6090=~<CHARNAME>
+
+I hope this message finds you, though if you're chasing the Crusade like I expect you are, my messenger probably just needs to stand in the warpath and wait. 
+
+It's fortunate that you're headed up this way. Nearby to where Bhaal was slain on Boareskyr Bridge is a Harper compound, one that holds the single largest repository of knowledge on him and his legacy, as far as I know. While normally Harpers don't exactly allow outsiders to trawl through their records, I've convinced a few people to turn the other way for a bit. I'm sure you have all kinds of questions about your legacy or what it means, and maybe you'll find something here to help. If you can spare a day's walk from Dragonspear, at the edge of the Trollbark Forest you can find Besequein Manor house. Present in this letter are more detailed instructions as well as an invitation you can present to the guards. 
+
+I'll be waiting for you there. Travel safe out there.
+
+-Nerys~
+
+@6266=~Tome of Profane Ascendence~
+@6267=~You recovered this tome from within a dark Bhaalist Ossuary. Within its musty pages are the most secretive rites to Bhaal, including methods of vivisection and ritual sacrifice that are noted to best honor the Lord of Murder. You sense that while such a book would have an unholy presence in the past, Bhaal's death has left it in a diminished state, no more foul than the text and diagrams within.
+
+A quick scan through reveals that many of the pages deeper in the book seem odd. There are stains of blood all over the pages, yet they contain no text that you can see. Even still, they seem important. Perhaps someone more familiar with the rites of Bhaal will know what to do with them.~
+
+@6268=~Vivisectionist Blade~
+@6269=~While many of Bhaal's cult believed that their lord cared little for how one suffered before death, only that it was the moment of their death that honored their lord, others believed that Bhaal admired the art of drawing out those last moments to exquisite suffering. The Vivisectionist's Blade was a tool carried by the higher priests of Bhaal committed to this philosophy, its razor shape honed specifically not to kill quickly, but to flense off pieces of their sacrifices bit by bit. The result is a fearsome weapon even when wielded away from the vivisectionist's table.
+
+STATISTICS:
+
+25% chance on hit to leave a target crippled in pain, stunning them for 6 seconds unless they save vs death.
+
+THAC0: +2
+Damage: 1d6+2 (piercing)
+Speed Factor: 1
+Proficiency Type: Short Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+
+@6271=~Cythandria's Note~
+@6272=~To the one who killed me,
+
+You're probably reading this looking to see if I had given you a nice simply synopsis of my thoughts and feelings, maybe what brought me to this point. Maybe this could have been useful to you, or maybe you just wanted to gloat on how you stopped me.
+
+I refuse to give you that satisfaction. My hatred for you will continue past my death. I will be there for your every failure, your every misfortune and loss. And I will be laughing at you.
+
+I curse you. May your limbs wither away and your senses flee you. May you be abandoned by everyone who was ever dear to you, and be left to live as a forgotten, unloved husk. You don't deserve it. I didn't, and you deserve even less.
+
+Bastard. Do you think I'm petty? Maybe I am. I don't care. Nothing matters, none of it.
+
+PS: If you're not the one who killed me, well, I mean this for you too anyway.~
+
+@6531=~Stiletto of Shifting Light~
+@6532=~Light never seems to quite reflect cleanly the blade of this dagger, always instead being caught and bent in strange angles. This makes any reflections that come from it appear twisted and warped. Such daggers are most common among illusionist assassins who utilize their spells to get in close to a target and strike, then to use the confusion from their spells to allow them to escape. 
+
+This particular dagger weaves a combination of two such spells that activates when struck. The first causes the refracted light around them to form an identical illusory copy nearby, while the second renders them invisible from sight.
+
+STATISTICS:
+
+25% chance upon hit to cast Reflected Image and Invisibility on the wielder.
+
+THAC0: +2
+Damage: 1d4+2 (piercing)
+Speed Factor: 0 
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+
+@6533=~Remembrance~
+@6534=~This metallic staff is capped with a large sapphire gem that shines in a short radius around it. It was the craft of an oddly forgetful wizard who became frustrated when he would misremember the very spells he had spent all night studying the next morning. Onlookers questioned little why the wizard had a slippery memory however, as he was prone to knocking himself on the head with his own staff during moments of frustration. His enchantment at least let such self-punitive quirks undo as much harm as they did, though it often left him forgetting one spell as he remembered another. 
+
+He eventually passed on his staff to a priest of Tempus who was a dear friend of his in his later years. She discovered that using the staff to clobber the heads of monsters did the trick far better than smacking one's own.
+
+STATISTICS:
+
+On hit: Restore an expended spell of level 2 or lower.
+
+THAC0: +1
+Damage: 1d6+1 (crushing)
+Speed Factor: 3
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+
+@6732=~Miscellaneous Books and Notes~
+@6733=~This assortment of history tomes and letters describe local incidents and matters of concern to the Harper cell here. This collected literature covers east to the High Moor, south to Baldur's Gate, and as north as Daggerford. The Harpers obviously have a lot of vested interest in the region. While local criminal organizations and other political groups vying for dominance of the region would likely find a lot of value in this literature, it has little use to you.~
+@6734=~Time of Troubles - Doom of Assassins~
+@6735=~Eleasis 13 1358 DR
+
+Bane and Myrkul prepared for an assault on the city of Tantras, in which the god Torm guarded over one of the Tablets of Fate with his most valorous disciplines. As the forces of Zhentil Keep marched towards the city on the coast of the Dragon Reach, Bane and Myrkul devised a terrible plan. Nearby was hidden a great golem made of black glass, forged in the Hells themselves, called the Black Brother. Bane had hidden it in olden times, for his plots spanned ages and he had known that one day Tantras would be a crucial conquest. Through ancient ritual it could be animated and inhabited by Bane's Avatar, and with its awesome power he could destroy the city and its guardians, including Torm himself, and take back the Tablet of Fate. 
+
+However, to empower the golem required an immense well of souls to draw from, souls of darkness that aligned with Bane's own evil. It so happened that Bane had a ready well of such a souls to draw from. Nearby, Myrkul's dark priests prepared a spell of death on a mass-scale, perhaps the greatest of such spells ever conceived. Through means unknown, Bane and Myrkul had obtained the True Names of all assassins of Faerûn. Knowing their True Names allowed for Mrykul to enact a spell of mass death that killed every assassin while Bane's own priests performed a ritual called the Stealing of Souls to harness their life force and channel it into the Black Brother. Bane rose with terrible power, and his ensuing battle with Torm remains perhaps the most remarkable of the Time of Troubles.
+
+One less remarked on matter of this incident was how the death of so many assassins directly undermined Bhaal's own power on Faerûn. As the god of murder and assassinations, this incident resulted in the extinction of most of Bhaal's followers. Bhaal's avatar became a hollow shell of the power he once was, a power so easily dispatched by Cyric the mortal as his sword Godsbane.~
+@6736=~Mission Report: Temple Raid~
+@6737=~Sir,
+
+I report to inform you that the mission was a success. We breached into the temple swiftly, dispatching the guards without a sound in the night. It appears that our information was correct. We found them gathering the children in pens, like chattel to slaughter. Children of dark heritage they may have been, but innocent all the same. We rushed to save all the children we could.
+
+The ensuing melee was chaos, yet the ambush was well prepared and we fell upon the cultists and cut through them like Selune's light cutting through dark. We were able to fell most of their order without too many losses on our own side, however I regret to inform that Arryn and Pearla were casualties of the battle. A few other injured, but they will recover. 
+
+The chaos allowed the children to flee. This proved a double edged blade. While they are no longer in imminent danger, we have been unable to locate most. We will return with those we were able to secure shortly. We must call our scouts to find the others as soon as possible, I worry what might happen if they fall into the wrong hands.~
+@6738=~Ecological Report: Winding Water~
+@6739=~After much testing, it seems that the Winding Water may be irrevocably tainted by the dark god's blood. The effects have proved subtle, yet noticeable by the druidic sects surrounding the river. The water itself runs darker than usual. Animals generally refuse to drink from it, and plants that grow nearby do so in twisted brambles. While we've found that the water is not immediately toxic to drink, in large quantities it will cause sickness and eventually death. Several Talonites have been found to be experimenting with the waters, no doubt trying to create more wicked poisons from its contamination. 
+
+A number of druids are doing what they can to cleanse the waters, but this work is expected to take years, if not generations. There has been one other curious matter of note... those rare cultists of Bhaal that still exist seem to draw some divine power from the waters themselves. Perhaps some essence of Bhaal's divinity still exists within the river.
+
+*Note: It has been tested that the divine residue contained within the waters extends only as far out as half a day's travel on horseback. However, I theorize a higher concentration of the taint within the water might be able to be carried out, and perhaps that could provide a direct link back to the source.~
+@6740=~War Staff~
+@6741=~War Staves are different from a normal quarterstaff as they are made of metal and are weighted at both ends. They are made to be held at their center with both ends being used to rapidly strike their targets while also allowing the wielder to deflect oncoming blows.
+
+STATISTICS:
+
+Damage: 1d6 (crushing)
+Speed Factor: 4
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 7 Strength
+
+Weight: 6~
+@6742=~Monastic War Staff +2~
+@6743=~War Staves are different from a normal quarterstaff as they are often made of metal or highly dense wood and are weighted at both ends. They are made to be held at their center with both ends being used to rapidly strike their targets.
+
+This Staff originates from a hidden enclave of the Old Order and has been enchanted to be wielded by the Order's greatest warriors. 
+
+Monks may utilize this staff and are always proficient with it.
+
+STATISTICS:
+
+Equipped abilities:
+- Armor Class: +2
+- +1 Attack per Round
+- Usable by Monks
+
+THAC0: +2
+Damage: 1d6+2 (crushing)
+Speed Factor: 4
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 7 Strength
+
+Weight: 6~
+@6744=~Memo on Known Bhaalspawn~
+@6745=~We've attempted to track what Bhaalspawn we can but those efforts have proven difficult. That difficulty is of course complicated by our the need for secrecy within our own organization. Remember that Bhaalspawn pose a unique danger and so everything has been done to obfuscate their whereabouts. Even within our leadership, only a few Harpers are aware of more than one or two of them. Those that were known have been arranged to live ordinary lives of no importance so as to be beneath the notice of those who might seek to use them in some gambit to bring back their Lord Father. By living boring normal lives, perhaps they will escape the chaotic fate that prophecy has dictated of them.
+
+We must be committed to the mitigation of Alaundo's prophecy by any means we can. While some believe we must take a more active role, Elminster insists that acting with ignorance is worse than not acting at all. We still know so little. If you come unto the identity of any of any Bhaalspawn, reveal it to no one else and do not risk drawing attention to them by attempting to make contact. We who Harp must always exercise discretion on when to sing, and when to stay silent.~
+@6746=~The Rise of the Black Sun~
+@6747=~It was a ruinous providence indeed that the mortal Cyric ascended with not just one portfolio from the Dead Three in his grasp, but all three. He did not rest on his laurels. Those who had worshipped Bane, Bhaal, and Myrkul previously rushed to swear themselves to the Black Sun, for how could they resist the power of this new god, who embodied everything their old masters had and so much more? Those who remained obstinate in their old allegiances were predictably given no mercy, snuffed away in their old houses of worship.  
+
+Cyric has since been proactive with stamping out remnants of the old gods of his domains. Mausoleums dedicated to Myrkul have been defaced and icons to the Black Sun put in their place. The old iron edifices of Bane's rule have been knocked on their side and turned to madhouses. In those hidden altars of bloody sacrifice, Bhaal's serrated daggers have been replaced with skull laden shortblades more suitable to Cyric. 
+
+What then of the progeny of Bane and Bhaal who still remain? 
+
+Cyric has been curiously restrained with either. Iyachtu Xvim still remains missing, and perhaps Cyric is behind whatever banishment the progeny of Bane is under. Cyric is similarly uninvolved with the Bhaalspawn, giving no direction to his followers in regards to them at all. Would he not wish these last remnants stamped out with the same fervor as Bhaal's cults and temples? So far, the answer seems to be not. Perhaps then he watches from afar, waiting to see how their development can be turned to his own advantage.~
+@6748=~A Reexamination of Alaundo's Prophecy~
+@6749=~There have been many interpretations of Alaundo's prophecy regarding the Bhaalspawn throughout the years. Most scholars agree that the great machinations of Bhaal were some intention for his sired offspring to bring about his revival, confirmed by other less eminent prophets. In light of new information, we must re-examine the prophecy and decipher just how the mechanism of Bhaal's return is intended.
+
+The answer would seem obvious at first. The Lord of Murder's rebirth must certainly be by murder itself. Yet this presents a question. Are his children intended to be murdered to bring about his return, or are they intended to accrue murders of their own that might emulate their father? Or both?
+
+In our recent raid on the temple, it seemed that the cultists of Bhaal intended to put all Bhaalspawn they had gathered to the blade as soon as Bhaal had been destroyed. This does seem to contrast with the prophecy however, which states that the Bhaal children would be the source of chaos, that it would come from their passage. Did the cult act too early? Curiously, of all the Bhaal priests we have interrogated, none seem to have been given a full view of the exact mechanism that would bring about the revival of their Lord. It was revealed that only the High Deathstalker held knowledge of the rituals required. Perhaps the death of their lord in the absence of any authority to guide caused them to act rashly. The hope of a confused flock, each chased in different directions.
+
+Should we assume Alaundo's prophecy was writ into the fabric of fate, or was it a warning about what could be? What missing variables are still unknown? I will continue my studies in Candlekeep. It will provide a peaceful life for my charges.
+
+-Gorion~
+@6750=~Dossier: Amelyssan the Blackhearted~
+@6751=~Race: Human
+Birth: Estimated 1330
+Skin: Fair
+Hair: Auburn, often colored deeper red
+Eyes: Blue
+Other Defining Features: Observed to adorn herself in Dove feathers streaked with blood.
+Rank: High Deathstalker
+Death: 1357 (recorded)
+
+There is exceedingly little information available about the Last High Deathstalker of Bhaal, known as Amelyssan the Blackhearted. Her involvement in the Cult of Bhaal must have come early in life, as she ascended to the position of High Deathstalker at a remarkably young age. While most of Bhaal's followers believe that their Lord preferred obvious and bloody displays from victims, Amelyssan was known for cold calculation and talent at manipulation and intrigue. Few direct murders have been associated with her, yet her presence was observed in the leadup to the Tethyrian Interregnum, and she's suspected to have been the primary mastermind in directing the chaos that caused the Ten Black Days of Eleint, one of the bloodiest periods of history in Faerûn. Her role in other incidents of extreme civil unrest and bloodshed is suspected, but not confirmed. 
+
+It is only known that she was well favored by her god, and her word commanded any assassin she beheld who had ever uttered so much as a prayer to the Lord of Murder. By her order even the most disloyal and self-serving assassin would fall upon their own blade.
+
+Amelyssan was last reported operating within the Dragon Reach during the Time of Troubles. She was tracked to a meeting with servants of Bane and Myrkul, which is the last time she was identified alive. Later, a body roughly matching her description and which carried belongings attributed to a priest of her station was located not far outside the city. It was drained in the same manner as all other assassins were in the Stealing of Souls incident. Her dossier has been closed and archived.~
+@6752=~Report - Bhaalspawn Movement~
+@6753=~My Lord,
+
+I know that we're supposed to remain hands off with monitoring the Bhaalspawn, but I swear that something is transpiring that is of deepest concern. I have separately reached out to many colleagues and they each report that the Bhaalspawn they were aware of have all begun to migrate to the south and west. Two of these colleagues have now gone missing after deciding to investigate further and speak to their charges directly. 
+
+I tell you, some force is compelling the Bhaalspawn to gather and any who dig deep are met with grisly fate. Could this be the sign? Do we stand on the verge of the chaos that Alaundo prophesized? Can we really afford to remain so inactive when danger looms so near?~
+@7014=~Prophecy Translation~
+@6754=~During the days of the Avatars, the Lord of Murder will spawn a score of mortal progeny. These offspring will be aligned good and evil, but chaos will flow through them all. When the Beast's bastard children come of age, they will bring havoc to the lands of the Sword Coast. One of these children must rise above the rest and claim their father's legacy. This inheritor will shape the history of the Sword Coast for centuries to come.
+
+*A note below this reads*
+One of the more verifiable interpretations of Alaundo's prophecies that I found within Candlekeep's halls. I have provided this copy so that it can be added to our archive and studied.
+-Gorion~
+@7015=~Prophecy Conjecture~
+@6755=~The spawn of the Lord of Murder are fated to come into their inheritance through bloodshed and misery. It is the hope of their father that only one shall remain alive to inherit his legacy. I foresee that the children of Bhaal shall kill each other in a bloody massacre.
+
+*A note below this reads*
+Another of the dread translations I find unfortunately compelling regarding the Bhaalspawn. I have provided this copy so that it can be added to our archive and studied.
+-Gorion~
+@6875=~Scouting Report - Strange Statue in Trollbark Woods~
+@6876=~We were tracking a pair of what appeared to be identical twins through the Trollbark woods. They proceeded with an odd funerary march that eventually outpaced us, however an hour later we found one of them within a disquieting glade. At the center of the glade a statue of two featureless figures, one with a blade or stick raised, prepared to strike the other who cowered in fear. 
+
+The twin we found was dead at the foot of the statue, his head likely bashed in against it. A check of his inventory revealed iconography that identified him as a adherent to Bhaal. We suspect some ritual was conducted to emulate the scene within the statue. However the statue itself contained no indication it was made for any ritual purpose to Bhaal himself. No, this seems to me something far more ancient and primal.
+
+*a set of directions below seems to be partially blotted out by spilled ink*
+
+*Addendum Report: Among every culture from the barbarian tribes of the Spine of the World to the spirit shaman of Rashemen is the story of the first kin killing, that moment when one brother raises their sword against another and commits fratricide. Perhaps this statue is a recreation of that story from an older time.~
+@7131=~Stress Point Breakers~
+@7132=~These Bracers augment the senses of the wearer to better detect minor fractures and stress points in objects or people before them, better allowing for their wearer to break them. The bracers will only function for one with sufficient wisdom to take advantage of this insight.
+
+Wisdom Required: 16
+
+STATISTICS:
+
+Equipped abilities:
+– Damage: +4
+
+Weight: 1~
+@7134=~Dandy Loafers~
+@7135=~Unlike typical adventurer fare, these shoes are designed with comfort first in mind. They are inlaid with the softest fur and wool and make ones feet feel as if they are stepping on clouds when wearing them. An exquisite comfort for even the most scrutinizing dandy. While such loafers should fall apart on a long journey, a clever enchantment keeps them in good condition and they even seem to clean themselves overnight. 
+
+Even more valuable however are a twinned set of enchantments that keep their wearer safe; one for speed and one for protection. These ensure that the wearer lives to enjoy another quiet night by the fire with their feet raised high, basking in the comfort of their loafers.
+
+However, the sophistication of the enchantment also extends to rejecting being worn by those whose feet are unsuitably rough and 'peasantly' to appreciate them. As such, more martially inclined folk may find them simply a pair of comfortable if opinionated shoes.
+
+Usable by: Bard, Mage, Mage-Thief
+
+STATISTICS:
+
+Equipped abilities:
+-Minor movement speed increase
+-25% chance of triggering Shield on wearer when hit
+
+Weight: 4~
+@7136=~Damp Note~
+@7137=~<CHARNAME>,
+
+This shouldn't come as too much of a surprise. Truth is, the wound I suffered from Sarevok was always fatal, I simply had bought a few more months of time. But that time has run out. This glade seems a peaceful enough place to pass. I enjoy the quiet. I've already ingested the poison pill. This is my last message to you.
+
+The Deathbringer ritual is a sham. Or... a ruse perpetuated by the Bhaal Priests to control those who proved themselves the most efficient weapons. Yet I now realize Sarevok never finished the ritual. He was ever his own man. I sought a truth that would easily explain our fall, but the truth has proven to be both elusive as well as clear and plain.
+
+We were undone because you were simply better than us. 
+
+Gloat if you like, I acknowledge your victory, absolute. I've even left you my best pair of shoes as a reward. How kind am I?
+
+Do not let yourself be guided by those who would use you. 
+
+-Winski Perorate~

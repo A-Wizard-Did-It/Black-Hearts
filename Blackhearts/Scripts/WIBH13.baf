@@ -1,0 +1,56 @@
+IF
+	Global("BHSODNPC1spawn","WIBH13",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC1spawn","WIBH13",1)
+	CreateCreature("WISAREV",[716.1040],N)
+	CreateCreature("WIREDWOM",[643.1044],N)
+	Wait(1)
+	ActionOverride("WISAREV",StartDialogueNoSet(Player1))
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH13",0)
+	Global("BHTamokoState","GLOBAL",1)
+	OR(2)
+	Global("BH2Quest","GLOBAL",4)
+	Global("BH2Quest","GLOBAL",5)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH13",1)
+	CreateCreature("WIBH2TAM",[467.598],S) 
+END
+
+IF
+	Global("BHSODNPC2spawn","WIBH13",0)
+	Global("BHWinskiState","GLOBAL",1)
+	Global("BHTamokoState","GLOBAL",0)
+	OR(2)
+	Global("BH2Quest","GLOBAL",4)
+	Global("BH2Quest","GLOBAL",5)
+THEN
+RESPONSE #100
+	SetGlobal("BHSODNPC2spawn","WIBH13",1)
+	CreateCreature("WIBH2WIN",[467.598],S) 
+END
+
+IF
+	Global("BHSODNPC3spawn","WIBH13",0)
+
+THEN
+RESPONSE #100
+	CreateCreature("WICULT1",[528.581],S) 
+	SetGlobal("BHSODNPC3spawn","WIBH13",1)
+END
+
+IF
+	Global("BH2Quest1","GLOBAL",1)
+	OR(2)
+	InMyArea("WIBH2WIN")
+	InMyArea("WIBH2TAM")
+THEN
+RESPONSE #100
+	ActionOverride("WIBH2TAM",DestroySelf())
+	ActionOverride("WIBH2WIN",DestroySelf())
+END

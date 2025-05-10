@@ -1,0 +1,10 @@
+IF
+	Global("BH2Quest","GLOBAL",0)
+	Global("BH2Quest1spawn","BD0109",0)
+
+THEN
+RESPONSE #100
+	SetGlobal("BH2Quest1spawn","BD0109",1)
+	CreateCreature("WINERSOD",[626.584],SE) 
+	
+END
