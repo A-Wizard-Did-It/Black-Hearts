@@ -362,9 +362,9 @@ The Brother of Song was crafted this special Wakizashi by his order that was ins
 STATISTICS:
 Bard song effect on party upon successful attack
 +1 Charisma
--2 Armor Class
+-2 Armor Class penalty
 
--2 to THAC0 (effects both weapons if dual wielding)
+THAC0: +2 (effects both weapons if dual wielding)
 Damage: 1d8+2 (piercing)
 Speed Factor: 1
 Proficiency Type: Scimitar/Wakizashi/Ninjatō

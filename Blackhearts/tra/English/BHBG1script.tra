@@ -281,7 +281,7 @@
 @415=~I'm not like most mercenaries. It saddens me to see the losses endured by common folk on the Sword Coast during these times. I'd like to help however I can.~
 @416=~You've had it rough. A few compassionate words is the least I can give you.~
 @417=~Well, I'll not spit on such compassion by being useless. I think... there's one thing that I recall that might help you.~
-@418=~Clay. There was a reddish-orange clay stains in their tunics. Such clay is common to the Red Canyons. They must have at least gone through that area.~
+@418=~Clay. There were reddish-orange clay stains on their tunics. Such clay is common to the Red Canyons. They must have at least gone through that area.~
 @419=~The Red Canyons? Where is that exactly?~
 @420=~That's it then? Are you sure that's as much as you can recall?~
 @421=~I know the spot. Guess that's where I'll have to start looking. Thank you.~
@@ -461,7 +461,7 @@
 @586=~I will remain here and await your return.~
 @587=~A shame then that you are not a magister who decides the laws of the land. While I appreciate your open mindedness, it does not help either of us now.~ 
 @588=~*sigh* Yeah, you're telling me.~
-@589=~I am not responsible for the fears of your people. There are any number of ways for them to be assured by my attentions and I would do anything I can to facilitate it if they would let me. It is they who chose to judge based on their eyes alone.~ 
+@589=~I am not responsible for the fears of your people. There are numerous ways for them to be assured by my intentions and I would do anything I can to facilitate it if they would let me. It is they who chose to judge based on their eyes alone.~ 
 @590=~They'll never do that. You can't possibly expect it of them.~
 @591=~You speak as one who needs to apologize for a system they know to be broken. Laws that do not apply equally to all are unfit to apply to any.~ 
 @592=~I've struggled sometimes with the laws of my land myself, but I can't just ignore them.~
@@ -1350,7 +1350,7 @@
 @1463=~So we're doing jobs for bandits? I don't think I much care for that.~
 @1464=~Alright, I'm ready to begin.~
 @1465=~They've been hitting caravans with impressive speed and then retreating off before a response can be formed. The last attack was south of Beregost. I'm told a survivor of the raid is currently working to unload goods at the Travenhurst manor on the north side of town. I'd direct any inquiries to him.~
-@1466=~A more proficient bunch than your average hobgoblins marauders. What makes them so effective is that apparently there is a pair of mages among them who enhance the group in battle. Their leader also seems to wield a very wicked-looking blade. Those who have escaped the raid said they were deeply unnerved by just the sight of it.~
+@1466=~A more proficient bunch than your average hobgoblins marauders. What makes them so effective is that apparently there is a pair of mages among them who enhance the group in battle. Their leader also seems to wield a very wicked-looking blade. Those who had escaped the raid said they were deeply unnerved just by the sight of it.~
 @1467=~Four hundred and eighty coins. A significant improvement over your last payout, yes? Still pocket change for a reputable hunter, but I'm sure you'll find it worth the danger.~
 @1468=~Good. Take the hobgoblin leader's sword as proof of the deed. It was distinctive enough, it will serve as all the evidence I need. Happy hunting.~
 @1469=~Is this a social visit? I don't see the sword on you.~
@@ -1363,7 +1363,7 @@
 @1476=~I suppose...~
 @1477=~I am afraid that working for bandits, even tangentally, is not something I will compromise on.~
 @1478=~If it comforts your asinine moral standards, the money has already been paid. You're working for me, not for the Chill. Now, was there anything else?~
-@1479=~That is a symbol to the dead god Bhaal. Maybe the old man was an ex-cultist. You should get rid of it. You would not want another to find it and come to the belief you are associated with such a dark god, even dead, would you?~
+@1479=~That is a symbol to the dead god Bhaal. Maybe the old man was an ex-cultist. You should get rid of it. You would not want another to find it and come to the belief that you are associated with such a dark god, even dead, would you?~
 @1480=~Interesting. So what now?~
 @1481=~Oh now what is this crawling sensation I feel in my skin? Is that the hobgoblin captain's sword? Yes, it must be. I'd recognize a bane enchantment anywhere.~
 @1482=~That is a look I think I might only get when I see a very rich and endowed man wearing pantaloons too tight and a purse too loose.~
@@ -1409,7 +1409,7 @@
 @1522=~That's all I need to know.~
 @1523=~Continue to display a modicum of competency and I might start doing exactly that, pup. But do not mistake it, you are taking on contracts for novice hunters. I am not impressed by you. Yet.~
 @1524=~I believe he is currently stalking the middle levels where operations have not yet resumed. You've been there before, you'll know the layout better than I. So far, none of the undead have advanced to the upper developed portions of the mine. It seems Sazazir is biding his time until he has a proper army. You're going to make sure he doesn't get a chance.~
-@1525=~An old cultist from down south who got into trouble with Harpers and was chased up here some years ago. He's become known as a wandering kook and pariah, barred from any city or town who knows of him. Perhaps he had enough and though this as his shot to make a play at power in the region.~
+@1525=~An old cultist from down south who got into trouble with Harpers and was chased up here some years ago. He's become known as a wandering kook and pariah, barred from any city or town who knows of him. Perhaps he had enough and thought this as his shot to make a play at power in the region.~
 @1526=~I almost feel bad for the guy.~
 @1527=~Six hundred and forty gold for this one. Less than you earned for clearing out the mines the first time, but Ghastkill's purse does have to be feeling a bit pinched after constantly having his arse bailed out. Hopefully it'll be a much easier job. Sazazir hasn't had chance to establish himself yet.~
 @1528=~He earned his status by trying to lure children off into the wilderness. Every mother in the region knows to warn their children away from the dirty old man in rags who walks with skeletons in the hills.~
@@ -2051,7 +2051,7 @@
 @2158=~And thus your legend grows... So who got to her? Is she still alive?~
 @2159=~She's being held hostage. The man who told me mentioned the name 'Night Knives'. That familiar to you?~
 @2160=~You're always one step ahead, aren't you?~
-@2161=~It isn't the most unsurprising thing I've heard lately. For a spy, she's rather lacks in talent or experience.~
+@2161=~It isn't the most unsurprising thing I've heard lately. For a spy, she rather lacks talent or experience.~
 @2162=~Aww, she's tryin' her best. We just gotta give her some pointers is all.~
 @2163=~The man who told me mentioned the name 'Night Knives'. That familiar to you?~
 @2164=~The Night Knives? Well isn't that interesting.~
@@ -2062,10 +2062,10 @@
 @2169=~In my trade, you learn to always expect the worst. And it's hard to expect anything but the worst when it comes ta someone so clearly out of their depth than that gnome.~
 @2170=~I am well familiar with them. The Night Knives are a thieving guild that operate out of my homeland, Sembia. It's unusual that they would operate so far from Selgaunt, especially on the territory of another guild. But we shouldn't be surprised by the reach of the Red Wizards.~
 @2171=~They mostly persist on smuggling, assassination, and petty larceny. Also kidnapping, it would seem. The guildmaster is a particularly distasteful little man who I've heard is not above consorting with demons and undead.~
-@2172=~I've heard some rather unsavory things from former members; that he made a deal with a local Vampire lord to "gift" certain guild members with his bite. Sometimes willingly, often not.~
-@2173=~You mean we could be dealing with Vampires?~
+@2172=~I've heard some rather unsavory things from former members; that he made a deal with a local vampire lord to "gift" certain guild members with his bite. Sometimes willingly, often not.~
+@2173=~You mean we could be dealing with vampires?~
 @2174=~I don't. They can't have been in the city long. Perhaps hired on by the Red Wizards to assist them in more underhanded matters?~
-@2175=~It seems our hand is forced in the matter, regardless. The Night Knives could not have come into the city without attracting the attention of the entrenched thief guild. If you've had dealings with them in the past, I might suggest going to the local guildmaster and inquiring with him.~
+@2175=~It seems our hand is forced in the matter, regardless. The Night Knives could not have come into the city without attracting the attention of the entrenched thieves guild. If you've had dealings with them in the past, I might suggest going to the local guildmaster and inquiring with him.~
 @2176=~Alternatively, if you'd rather keep your hands clean of criminal elements in the city, you're assisting the Flaming Fist, are you not? Perhaps they've had run ins with them. Or just knock down every door in the city until you find them. I'm sure you'll find a way.~
 @2177=~No, not true vampires. Vampire spawn or lesser thralls. More resilient than normal men, but pale imitations of their sire.~
 @2178=~Vampires?? Oh, do not be scared Boo. I will protect you. We must only avoid their sharp, pointy teeth!~
@@ -2133,7 +2133,7 @@
 @2240=~The fool who cannot tell cleverness for cowardice is unlikely to learn until it's too late. Remember that <CHARNAME>.~
 @2241=~You show your cunning yet again, <CHARNAME>. I think most in your position would assume it's best to press the attack.~
 @2242=~Let me take a look at it.~
-@2243=~Yes, this looks to be a magical key of some kind. See how it glows? The frequency is tune with the same magical signature I used to pierce into Cherise's domain.~
+@2243=~Yes, this looks to be a magical key of some kind. See how it glows? The frequency is tuned with the same magical signature I used to pierce into Cherise's domain.~
 @2244=~I'll need some time to determine how to get back in, as well as formulate a plan. It may be a good time for you to continue your investigation into the Iron Throne. If you have any need to take some time away from the city, now would not be a bad time to do it. I don't expect I'll be ready for days or even weeks.~
 @2245=~Weeks? Will it really take you so long?~
 @2246=~Are you still so sure you won't come with me? You could do your research while we travel.~
@@ -2300,7 +2300,7 @@
 @2404=~Prospects of accomplishing your mission now must have been especially dim then.~
 @2405=~Why risk yourself to rescue such a bastard? It's a pointless sacrifice.~
 @2406=~Don't be so quick to throw away your life. There's always a third way. Still, I respect his professionalism if nothing else.~
-@2407=~We were getting rather desperate. But desperation is a good motivator. I was more resolved then than ever to complete our mission.~
+@2407=~We were getting rather desperate. But desperation is a good motivator. I was more resolved than ever to complete our mission.~
 @2408=~He was a professional. I suspect in his older age, he was also looking for a noble end as much as anything. Maybe it seemed like a good way to die.~
 @2409=~We found the scion in one of the jail cells. He was beaten and ragged, but alive. Our burglar picked the lock as I began to weave the spells that would prepare our trip back.~
 @2410=~However, just as we had unchained our target, the burglar attempted to shove his dagger into my neck. A defensive spell that I had cast discretely beforehand caused the attack to bounce harmlessly away, saving my life.~
@@ -2364,7 +2364,7 @@
 @2468=~It's not... it's not like that. I'm here because I want ta help <CHARNAME>. I'm here ta protect <PRO_HIMHER>.~
 @2469=~Your voice quivers. Does this life disgust you? Or does it touch something inside of you that you are afraid of?~
 @2470=~Disgust, fear, whatever you want to call it. I just don't like it. But I'm stickin' with <CHARNAME>, as long as it takes.~
-@2471=~After that, wouldn't mind settlin' down and enjoyin' long a rest. Gods know we deserved one.~
+@2471=~After that, wouldn't mind settlin' down and enjoyin' a long rest. Gods know we deserve one.~
 @2472=~We still have a ways to go before then, Imoen.~
 @2473=~Why don't we close out tonight with a toast? To the adventuring life.~
 @2474=~The point of life isn't the destination. It's what fulfills you in the moment. I just can't imagine being fulfilled by anything else. And I think we're more similar in that way than you realize.~
@@ -2430,7 +2430,7 @@
 @2531=~At the coronation ceremony, yes? Time is short, I agree, but the ceremony isn’t for a while longer yet. Make no mistake, this is the only opportunity we have to take care of this Red Wizard witch before she can reconnect with Sarevok. You do not want to confront him while he commands her magics.~
 @2532=~I suppose that’s a fair point. I have a bit of time left.~
 @2533=~I don’t want to take that risk. The Dukes are my greatest priority right now. I will assist you in this after I’ve ensured their safety.~
-@2534=~When you give me the word, I will conduct the ritual to teleport you into her astral demesne. I warn you however that you must go in prepared. I will not be able to pull you out so long as Cherise lives to maintain her wards. Once she falls, her wards should unravale, and I can pull you back to the material plane.~
+@2534=~When you give me the word, I will conduct the ritual to teleport you into her astral demesne. I warn you however that you must go in prepared. I will not be able to pull you out so long as Cherise lives to maintain her wards. Once she falls, her wards should unravel, and I can pull you back to the material plane.~
 @2535=~What’s it like in there?~
 @2536=~What kind of resistance should I expect? Anything specific I should prepare?~
 @2537=~I am as ready as I’ll ever be. Send me in.~
@@ -2817,7 +2817,7 @@
 // Malachai
 
 @2902=~Mistress...~
-@2903=~The alarm to the extradimensional cells has just been tripped. There's an breach in our astral demesne.~
+@2903=~The alarm to the extradimensional cells has just been tripped. There's a breach in our astral demesne.~
 @2904=~Aye, my lady. They will not draw breath outside of this chamber again.~
 
 // Nerys
@@ -2960,7 +2960,7 @@
 @3040=~Right! So, after you left, I went around to a few of the seedier bars around town. Kept my ears and eyes open for anything about red figures or mysterious people about dark. While doing some snooping at the Blade and Stars, I saw a cloaked man ordering a few bottles of wine at the bar and noticed something strange... just under his hood was a red inlay, very curious!~
 @3041=~So I followed him out of the bar (after taking a sip of an invisibility potion to conceal myself) and saw him crawl down into the sewers by there. After going into the sewers, he turned and headed ah... west, I think it was. He goes down the tunnels a bit and then speaks the phrase, “The Light of Thay will Illuminate the Darkest Shores” and then passed through what had looked like just a wall a moment before!~
 @3042=~I came up out of the tunnel and went back to my house to see if I could find any more information about where those sewer tunnels might have led to. That’s when I sent out the note to Illasera. It turns out, there's this whole little sanctum down there that's been around for hundreds of years! That's where the Red Wizards set up.~
-@3043=~But... as I was leaving to go meet you, those pale freaks scooped me up. They held me here until you came, and where we are.~
+@3043=~But... as I was leaving to go meet you, those pale freaks scooped me up. They held me here until you came, and here we are.~
 @3044=~Great job Nerys. Do you need any help getting home?~
 @3045=~Pretty good, for a pipsqueak. Get out of here, we’ve got Red Wizards to kill.~
 @3046=~Aww, don't mention it. And no, I should be fine. It's not far, and I doubt there's any more of these pale freaks around.~
@@ -3021,7 +3021,7 @@
 @3101=~Was there anything else you wanted to know about me?~
 @3102=~A small town called Hardbuckler out in the Heartlands. Most have never heard of it. It's not a terribly exciting place. But it is the largest population of gnomes above-ground this side of the Sea of Fallen Stars.~
 @3103=~Not much to say about it. One of those small communities where practically everyone knows the other's name. I left as soon as I came of age. Life in the big city always called to me over smalltown life.~
-@3104=~Yeah! Well, no. I mean, I guess "Bard" around here means someone who can do some magic and fighting in addition to playing music and knowing about lore and stuff. I mostly can just to the latter two.~
+@3104=~Yeah! Well, no. I mean, I guess "Bard" around here means someone who can do some magic and fighting in addition to playing music and knowing about lore and stuff. I mostly can just do the latter two.~
 @3105=~But I think I can play pretty well. Harp mostly, but these fingers can find their way around just about any stringed instrument. A few woodwinds too. Oh, and I can whistle a jaunty shanty like nobody's business.~
 @3106=~Just don't ask me to sing. You, uh, don't want to hear me try to sing.~
 @3107=~Same way most become Harpers. An existing member sees them, thinks they might have what it takes, and tutors them. Mine was an old elf man who took care of me when I first came to the city, Maerick Sunstone. Taught me everything I ever needed to know about Harpering.~
@@ -3113,7 +3113,7 @@
 @3184=~Just give me the frame. That will have to do.~
 @3185=~No, it seems like it wasn’t. To think I almost gave our benefactor something that could have hurt him! Oh, I’d have been kicked out of the Archeology Guild for sure! Oh, but why am I getting ahead of myself like that... thank you so so much for saving me! If you came for the mirror, we should...~
 @3186=~Lucky for me, you seem to be neither. Oh, the archeology guild is not going to be happy about all this. With the mirror broken, you don't have a way to get paid either, do you?~
-@3187=~We'll see. Mind I take that frame anyway? I think I'll at least need to show what happened to it.~
+@3187=~We'll see. Mind if I take that frame anyway? I think I'll at least need to show what happened to it.~
 @3188=~Of course! It’s the least I can do for saving my life! Here, have it, have it!~
 @3189=~I’ll need to warn the expedition team about the mirror. There could be more dangerous things down there! It would be a dereliction of the Archeologists Code not to keep them informed.~
 @3190=~S-she is rather charming, isn't she? Her ex-excitement is such a refreshment!~
@@ -3307,6 +3307,10 @@
 // WICHERI2.baf 
 
 @5033 = ~Did you really think the Red Wizards wouldn't interfere?~
+
+// WINIGKNI.d
+
+@5034 = ~Because ye don't know who' watchin' inta shadow...~
 
 // WINERYSOD
 

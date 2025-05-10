@@ -1,0 +1,36 @@
+IF
+	StateCheck(Myself,STATE_PANIC)
+THEN
+	RESPONSE #100
+		RandomWalkContinuous()
+END
+
+IF
+	HitBy([0.0.0.TROLL],CRUSHING)
+	HPPercentLT(LastSeenBy(Myself),30)
+THEN
+	RESPONSE #100
+		Kill(Myself)
+		DisplayString(Myself,31437)
+		CreateCreatureObjectEffect("WISLFS02","TRGOOYAA",Myself)
+		CreateCreatureObjectEffect("WISLFS02","TRGOOYAA",Myself)
+END
+
+IF
+	HitBy([ANYONE],FIRE)
+	Global("NoFusion","LOCALS",0)
+THEN
+	RESPONSE #100
+		SetGlobal("NoFusion","LOCALS",1)
+END
+
+IF
+	Die()
+	Global("NoFusion","LOCALS",0)
+THEN
+	RESPONSE #100
+		DisplayString(Myself,31248)
+		CreateCreatureObjectEffect("WISLFS02","TRGOOYAA",Myself)
+		CreateCreatureObjectEffect("WISLFS02","TRGOOYAA",Myself)
+END
+

@@ -4,7 +4,7 @@ THEN
   RESPONSE #100
 	CutSceneId(Player1)
 	Wait(2)
-	ActionOverride("WIILLASE",ForceSpell(Myself,WIZARD_FIND_FAMILAR))
+	ActionOverride("WIILLASE",ForceSpellRES("WIPW123",Myself)) // WIZARD_FIND_FAMILAR Casting animation only
 	Wait(6)
 	CreateVisualEffectObject("spdimndr",Player1)
 	CreateVisualEffectObject("spdimndr",Player2)

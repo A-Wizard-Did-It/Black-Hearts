@@ -1,15 +1,39 @@
 IF
-	Global("BHBGNOQUEST","%Undercity%",0)
+	Global("BHBGNOQUEST","MYAREA",0)
 	OR(2)
 	GlobalLT("BHBG1Quest","GLOBAL",21)
 	Global("BHBG1Quest","GLOBAL",99)
 THEN
 RESPONSE #100
-	SetGlobal("BHBGNOQUEST","%Undercity%",1)
+	SetGlobal("BHBGNOQUEST","MYAREA",1)
 	CreateCreature("WICHERI2",[4117.1138],S)
+END
+
+IF
+	Dead("WICHERI2")
+	Global("BHBGNOQUEST","MYAREA",2)
+	OR(2)
+	GlobalLT("BHBG1Quest","GLOBAL",7)
+	Global("BHBG1Quest","GLOBAL",99)
+THEN
+	RESPONSE #100
+	SetGlobal("BHBGNOQUEST","MYAREA",3)
+	AddJournalEntry(@3406,QUEST_DONE)
+END
+
+IF
+	Dead("WICHERI2")
+	Global("BHBGNOQUEST","MYAREA",2)
+	GlobalGT("BHBG1Quest","GLOBAL",6)
+	!Global("BHBG1Quest","GLOBAL",21)
+THEN
+	RESPONSE #100
+	SetGlobal("BHBGNOQUEST","MYAREA",3)
+	AddJournalEntry(@3407,QUEST_DONE)
+END
+
 	// CreateCreature("WIELAN",[4171.1229],S) // Moved to WICHERI2.baf
 	// CreateCreature("WITHARDE",[4077.1060],S) // Moved to WICHERI2.baf
 	// CreateCreature("WIRWBKGD",[4238.1014],S) // Moved to WICHERI2.baf
 	// CreateCreature("WIRWBARB",[4297.1108],S) // Moved to WICHERI2.baf
 	// CreateCreature("WIRWWIZ2",[4267.1194],S) // Moved to WICHERI2.baf
-END

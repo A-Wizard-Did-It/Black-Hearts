@@ -6,9 +6,10 @@ THEN
 		Wait(1)
 		FadeToColor([20.0],0)
 		Wait(1)
-		EndCutSceneMode()
 		ActionOverride("WIILLASE",MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L2%",[1097.484],3))
+		Wait(1)
 		ActionOverride("WINerys",MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L2%",[1155.509],4))
+		Wait(1)
 		ActionOverride(Player1,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L2%","",[1046.487],12))
 		ActionOverride(Player2,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L2%","",[598.436],3))
 		ActionOverride(Player3,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L2%","",[632.463],3))
@@ -16,4 +17,5 @@ THEN
 		ActionOverride(Player5,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L2%","",[692.510],3))
 		ActionOverride(Player6,LeaveAreaLUA("%EBaldursGate_ElfsongTavern_L2%","",[709.537],4))
 		FadeFromColor([20.0],0)
+		EndCutSceneMode()
 END

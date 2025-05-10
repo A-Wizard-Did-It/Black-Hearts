@@ -1,0 +1,25 @@
+IF
+	OR(3)
+		Dead("WILLYRK")  // Sazazir
+		HPLT("WILLYRK",1)  // Sazazir
+		!InMyArea("WILLYRK")  // Sazazir
+THEN
+	RESPONSE #100
+		Kill(Myself)
+		ApplyDamage(Myself,999,CRUSHING)
+END
+
+IF
+	!See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		MoveToObject(NearestEnemyOf(Myself))
+END
+
+IF
+	See(NearestEnemyOf(Myself))
+THEN
+	RESPONSE #100
+		AttackOneRound(NearestEnemyOf(Myself))
+END
+

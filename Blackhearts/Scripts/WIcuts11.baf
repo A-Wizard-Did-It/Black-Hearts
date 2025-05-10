@@ -7,6 +7,7 @@ THEN
 	FadeToColor([20.0],0)
 	Wait(1)
 	ActionOverride("WINerys",MoveBetweenAreas("WI0004",[405.179],0))
+	Wait(1)
 	ActionOverride(Player1,LeaveAreaLUA("WI0004","",[247.363],4))
 	ActionOverride(Player2,LeaveAreaLUA("WI0004","",[324.364],6))
 	ActionOverride(Player3,LeaveAreaLUA("WI0004","",[377.378],9))

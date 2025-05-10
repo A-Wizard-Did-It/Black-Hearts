@@ -16,4 +16,4 @@ END
 		++ @3127 + WINIGKNI3
 		
 CHAIN WINIGKNI WINIGKNI3
-	@3128 DO ~SetGlobal("BHBG1Quest","GLOBAL",12) AddJournalEntry(@88,QUEST) EscapeArea()~ EXIT
+	@3128 DO ~SetGlobal("BHBG1Quest","GLOBAL",12) AddJournalEntry(@88,QUEST) UseItem("POTN10",Myself) SmallWait(2) DisplayStringHead(Myself,@5034) Wait(10) EscapeArea()~ EXIT

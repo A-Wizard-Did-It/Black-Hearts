@@ -14,6 +14,7 @@ THEN
 		FadeToColor([20.0],0)
 		Wait(2)
 		ActionOverride("WINerys",MoveBetweenAreas("%EBaldursGate_ElfsongTavern_L1%",[477.731],SE))
+		Wait(1)
 		ActionOverride("WIILLASE",DestroySelf())
 		Wait(1)
 		FadeFromColor([20.0],0)

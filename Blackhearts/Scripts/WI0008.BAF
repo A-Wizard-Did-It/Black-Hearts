@@ -4,8 +4,8 @@ THEN
 	RESPONSE #100
 		CreateCreature("WITROLL",[1489.2928],S)
 		CreateCreature("WITROLL",[1662.2916],S)
-		CreateCreature("BPSLFS01",[1525.2869],S)
-		CreateCreature("BPSLFS01",[1699.2843],S)
+		CreateCreature("WISLFS01",[1525.2869],S)
+		CreateCreature("WISLFS01",[1699.2843],S)
 		CreateCreature("WIPORT",[3600.1213],S)  // Sanctum Portal
 		CreateCreature("WIFIRGIA",[616.1763],E)  // Herald of Yaga-Shura
 		CreateCreature("WIRWBARB",[1671.2762],S)  // Thayan Bodyguard

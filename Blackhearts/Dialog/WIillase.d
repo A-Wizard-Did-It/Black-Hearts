@@ -1086,7 +1086,7 @@ END
 
 CHAIN WIillase il1.8
 	@1359
-	= @1360 DO ~SetGlobal("BHBG1Quest","GLOBAL",99) EscapeArea()~ EXIT
+	= @1360 DO ~SetGlobal("BHBG1Quest","GLOBAL",99) AddJournalEntry(@3405,QUEST) EscapeArea()~ EXIT
 
 CHAIN WIillase il1.9
 	@1361
@@ -3087,7 +3087,7 @@ END
 
 CHAIN WIillase il12.7
 	@2175
-	= @2176 DO ~SetGlobal("BHBG1Quest","GLOBAL",13)~ EXIT
+	= @2176 DO ~AddJournalEntry(@3400,QUEST) SetGlobal("BHBG1Quest","GLOBAL",13)~ EXIT
 		
 CHAIN WIillase il12.8
 	@2177
