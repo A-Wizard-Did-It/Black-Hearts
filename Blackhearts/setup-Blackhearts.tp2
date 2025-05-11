@@ -1525,11 +1525,26 @@ APPEND ~mastarea.2da~
 ~WIBH15  value~
 		
 COPY_EXISTING ~WIBH13.are~ ~override~
-SAY 0x180 @6506 // The stench coming from this runoff of the Winding Water is particularly foul. You feel your stomach lurch as its odor invades your nostrils like some festering malignant force.
+		LPF ALTER_AREA_REGION
+			INT_VAR
+			info_point   = RESOLVE_STR_REF (@6506) // The stench coming from this runoff of the Winding Water is particularly foul. You feel your stomach lurch as its odor invades your nostrils like some festering malignant force.
+			STR_VAR
+			region_name	= Infopoint01
+		END
 
 COPY_EXISTING ~WIBH14.are~ ~override~
-SAY 0x244 @6756 // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
-SAY 0x308 @6756 // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
+		LPF ALTER_AREA_REGION
+			INT_VAR
+			info_point   = RESOLVE_STR_REF (@6756) // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
+			STR_VAR
+			region_name	= Infopoint02
+		END
+		LPF ALTER_AREA_REGION
+			INT_VAR
+			info_point   = RESOLVE_STR_REF (@6756)
+			STR_VAR
+			region_name	= Infopoint03
+		END
 
 END
 
