@@ -1528,8 +1528,8 @@ COPY_EXISTING ~WIBH13.are~ ~override~
 SAY 0x180 @6506 // The stench coming from this runoff of the Winding Water is particularly foul. You feel your stomach lurch as its odor invades your nostrils like some festering malignant force.
 
 COPY_EXISTING ~WIBH14.are~ ~override~
-SAY 0x354 @6756 // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
-SAY 0x418 @6756 // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
+SAY 0x244 @6756 // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
+SAY 0x308 @6756 // When you look up these stairs, you only see bedrooms and living quarters of little interest. Best not to pry.
 
 END
 
