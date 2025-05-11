@@ -487,12 +487,12 @@ END
 CHAIN WIBH2WIN win5.5
 	@7041 // Good. It is not a far walk. Just a little to the west. I think this will be the end of our little quest. If any last answers are to be found, they will be there.
 	= @7045 // I have not thanked you for allowing me the time I have left on Toril pursuing these mysteries. You will do well, I think. Farewell.
-DO ~SetGlobal("BH2Quest","GLOBAL",5) EscapeArea() RevealAreaOnMap("WIBH15")~ EXIT
+DO ~SetGlobal("BH2Quest","GLOBAL",5) RevealAreaOnMap("WIBH15") EscapeArea()~ EXIT
 
 CHAIN WIBH2WIN win5.6
 	@7042 // Oh, it isn't too far. Just a little walk to the west. I can make it as far as that. Your worry is... appreciated. But I need to make this last leg of the trip before I can rest. The fresh air of the walk will do me good.
 	= @7045 // I have not thanked you for allowing me the time I have left on Toril pursuing these mysteries. You will do well, I think. Farewell.
-DO ~SetGlobal("BH2Quest","GLOBAL",5) EscapeArea() RevealAreaOnMap("WIBH15")~ EXIT
+DO ~SetGlobal("BH2Quest","GLOBAL",5) RevealAreaOnMap("WIBH15") EscapeArea()~ EXIT
 
 CHAIN WIBH2WIN win5.7
 	@7041 // Good. It is not a far walk. Just a little to the west. I think this will be the end of our little quest. If any last answers are to be found, they will be there.
