@@ -212,6 +212,11 @@ For any issues had with the mod, make a report through github or contact me at m
 	- Remove NumTimesTalkedTo(0) in WIillimg.d to continue the search of preventing issue with Illasera Image when entering Baldur's Gate.
 	- Addition of a few more quest journal entries for added clarity when pursuing the Night Knives. 
 
+- Version 2.01
+  	- Update Cythandria's script to correctly set her active variable after death
+
+- Version 2.02
+  	- Fix to harper manor info points.
 
 **Special thanks for reporting issues and helping :**
 
