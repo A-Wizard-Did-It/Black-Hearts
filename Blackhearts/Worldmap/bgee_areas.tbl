@@ -1,6 +1,6 @@
 
 SHORT_NAME  CONTENT  LONG_NAME  FLAGS  BAM_ANIM  X_POS  Y_POS  NAME         TOOLTIP    LOAD_IM
 
-WIBH13      WIBH13    WIBH13     4       10      444   572   @WIBH_40013  @WIBH_40013  N        // Black Waters or 96, 109, 10
-WIBH14      WIBH14    WIBH14     4       3      574   434   @WIBH_40014  @WIBH_40014  N        // Besequein Manor or 11
-WIBH15      WIBH15    WIBH15     4       9      151   350   @WIBH_40015  @WIBH_40015  N        // Kinkiller Glade or
+WIBH13      WIBH13    WIBH13     4       new#0      350   655   @WIBH_40013  @WIBH_40013  N        // Black Waters or 96, 109, 10
+WIBH14      WIBH14    WIBH14     4       new#1      545   440   @WIBH_40014  @WIBH_40014  N        // Besequein Manor or 11
+WIBH15      WIBH15    WIBH15     4       new#2      125   400   @WIBH_40015  @WIBH_40015  N        // Kinkiller Glade or
