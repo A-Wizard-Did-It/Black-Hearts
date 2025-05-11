@@ -64,7 +64,7 @@ Are there any mod incompatibilities?
 
 What languages are the mod in?
 
-- English for both mod components and Chinese for the BG1 part.
+- English for both mod components and Chinese for the BG1 part. If you'd like to offer to translate to another language, please let me know.
 
 Where do the quests start?
 
@@ -76,13 +76,9 @@ Are there any time limits or requirements for the quests?
 
 - For Part 2, for the full questline at least one of Sarevok's allies must be stated to be alive: Tamoko, Winksi, or Cythadria. An abbreviated version is possible if none of them are alive. 
 
-Illasera is kind of mean. Can she not be?
-
-- No, I tried to write the character as fitting an evil alignment. However, she is not a cackling villain, simply practical and without much empathy for others. She’s intentionally condescending towards the PC to start, but lightens up over time (and can even respect/befriend them).
-
 How do you trigger companion dialogue with Illasera?
 
-- To trigger companion interactions, just speak to her with a companion and it will trigger her dialogue with them. She has 1 dialogue per "act" of the quest (one in feldepost, one in elfsong, and finally in the Underceller).
+- To trigger companion interactions, just speak to her with a companion and it will trigger her dialogue with them (only after you do your first bounty for her). She has 1 dialogue per "act" of the quest (one in feldepost, one in elfsong, and finally in the Underceller).
 
 Are there story consequences for doing/not doing the quest?
 

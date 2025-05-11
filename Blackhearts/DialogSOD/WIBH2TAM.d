@@ -885,7 +885,7 @@ END
 
 CHAIN WIBH2TAM tam5.35
 	@7029 // I feel in my heart that it is the last destination that Sarevok visited. We will find our last answers there, if there are any to be had at all. I will see you there.
-DO ~SetGlobal("BH2Quest","GLOBAL",5) EscapeArea() RevealAreaOnMap("WIBH15")~ EXIT
+DO ~SetGlobal("BH2Quest","GLOBAL",5) RevealAreaOnMap("WIBH15") EscapeArea()~ EXIT
 
 CHAIN WIBH2TAM tam5.36
 	@7029 // I feel in my heart that it is the last destination that Sarevok visited. We will find our last answers there, if there are any to be had at all. I will see you there.
