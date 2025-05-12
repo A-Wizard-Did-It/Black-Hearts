@@ -1,7 +1,7 @@
 BACKUP ~weidu_external/Blackhearts/Backup~
 AUTHOR ~AWizardDidIt~
 
-VERSION ~v2.02~
+VERSION ~v2.03~
 
 ALWAYS
 
@@ -1550,6 +1550,9 @@ END
 
 ACTION_IF NOT GAME_IS ~eet~ AND GAME_INCLUDES ~SoD~ THEN BEGIN
 
+PRINT ~Icons added to SoD map.
+~
+
 			OUTER_SPRINT "game_worldmap" "sodmap"
 
 		INCLUDE ~%MOD_FOLDER%/lib/add_map_icons.tpa~ // sodmap.wmp isn't a v2 bam file so using oBG version.
@@ -1588,6 +1591,9 @@ END
 
 ACTION_IF GAME_IS ~eet~ THEN BEGIN
 
+PRINT ~Icons added to EET map.
+~
+
 			OUTER_SPRINT "game_worldmap" "worldmap"
 
 		INCLUDE ~%MOD_FOLDER%/lib/add_map_icons_ee.tpa~
@@ -1625,8 +1631,11 @@ ACTION_IF GAME_IS ~eet~ THEN BEGIN
 END
 
 //////////////////////////////////
-// BP-BGT-Worldmap cCompatibility
+// BP-BGT-Worldmap Compatibility
 //////////////////////////////////
+
+PRINT ~Icons assets in case BP-BGT-Worldmap will be installed.
+~
 
 	ACTION_IF FILE_EXISTS ~Worldmap/map_mods_areas.tbl~ THEN BEGIN
   
