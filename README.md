@@ -218,6 +218,9 @@ For any issues had with the mod, make a report through github or contact me at m
 - Version 2.02
   	- Fix to harper manor info points.
 
+- Version 2.03
+  	- Add different BG game icons to SoDMap for Black-Hearts areas.
+
 **Special thanks for reporting issues and helping :**
 
 - Graion Dilach  

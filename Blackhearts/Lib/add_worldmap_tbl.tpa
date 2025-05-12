@@ -14,7 +14,7 @@ DEFINE_ACTION_FUNCTION ~ADD_WORLDMAP_TBL~
 	path_to_links = ~~    // full path to the text file containing your links data, e.g. ~mymod/tbl/links.tbl~
 	path_to_trans = ~~    // full path to the text file containing your translation data, e.g. ~mymod/language/%LANGUAGE%/worldmap.tra~
 	strref_array = ~~     // array containing pre-set strrefs (ARE name => strref) for area names and tooltips
-	worldmap = EVAL ~%game_worldmap%~ // which .wmp file should be patched, e.g. ~worldm25~
+	worldmap = ~worldmap~ // which .wmp file should be patched, e.g. ~worldm25~
 	icons_table = ~~      // array containing remapped icons (old_index => new_index) for path_to_areas (use alongside function that can patch BAMv1/BAMv2 icon file)
 	RET
 	areas_added           // how many areas were successfully added. if this is 0, you have a problem
