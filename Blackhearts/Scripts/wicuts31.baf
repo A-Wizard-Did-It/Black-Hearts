@@ -14,7 +14,7 @@ THEN
 	ActionOverride("WISLAYER",Kill(myself))
 	ForceSpell(Myself,HELL_GAIN_STR)
 	ForceSpell(Myself,HELL_GAIN_INT)
-	ForceSpell(Myself,WICHADE)
+	ForceSpellRES("WICHADE",LastTrigger)
 	DisplayStringHead(Myself,@6598 /* You have gained 1 Strength and Intelligence, but lost 2 Charisma */)
 	Wait(3)
 	EndCutSceneMode()	

@@ -1215,8 +1215,6 @@ ACTION_IF GAME_IS ~bgee eet~ AND GAME_INCLUDES ~SoD~ THEN BEGIN
 COMPILE EVALUATE_BUFFER ~Blackhearts/DialogSOD/~ USING ~Blackhearts/tra/%LANGUAGE%/BHBG1script.tra~
 
 COPY ~Blackhearts/Spells~ ~override~
-ADD_SPELL ~override/WIACID3.spl~ 1 1 WIACID3
-ADD_SPELL ~override/WICHADE.spl~ 1 1 WICHADE
 
 COMPILE ~Blackhearts/Scripts/WISAREV.baf~
 COMPILE ~Blackhearts/Scripts/WIREDWOM.baf~
