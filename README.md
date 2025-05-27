@@ -218,8 +218,12 @@ For any issues had with the mod, make a report through github or contact me at m
 - Version 2.02
   	- Fix to harper manor info points.
 
-- Version 2.03
+- Version 2.1
+  	- Chinese translation for SOD by Lzw104522773
   	- Add different BG game icons to SoDMap for Black-Hearts areas.
+  	- Fix to issue causing added spells to appear in divine spell book
+  	- Small change to quest flow for narrative improvement.
+
 
 **Special thanks for reporting issues and helping :**
 
