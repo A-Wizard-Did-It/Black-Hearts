@@ -120,15 +120,15 @@ END
 
 CHAIN WICYNTHA cy1.18
 	@6322 // Oh isn't that rich. Well, I look forward to our "reunion" then. I will take my leave, I'm sure you've cleared the way well enough for my escape. We will meet again.
-DO ~SetGlobal("BHCythanState","GLOBAL",4) EscapeArea()~ EXIT
+DO ~SetGlobal("BHCythanState","GLOBAL",4) MoveToPoint([123.659]) EscapeArea()~ EXIT
 
 CHAIN WICYNTHA cy1.19
 	@6323 // Winski? Ah of course. He always gave Sarevok sound advice, it's not surprising he'd be tracing his path as well. I look forward to seeing the old man. I will take my leave, I'm sure you've cleared the way well enough for my escape. We will meet again.
-DO ~SetGlobal("BHCythanState","GLOBAL",4) EscapeArea()~ EXIT
+DO ~SetGlobal("BHCythanState","GLOBAL",4) MoveToPoint([123.659]) Wait(2) EscapeArea()~ EXIT
 
 CHAIN WICYNTHA cy1.20
 	@6324 // Of course. Trudging forward blindly as ever. Well, perhaps some of that fool's luck will rub off on me. I will take my leave, I'm sure you've cleared the way well enough for my escape. We will meet again.
-DO ~SetGlobal("BHCythanState","GLOBAL",4) EscapeArea()~ EXIT
+DO ~SetGlobal("BHCythanState","GLOBAL",4) MoveToPoint([123.659]) Wait(2) EscapeArea()~ EXIT
 
 // Coalition Camp
 
