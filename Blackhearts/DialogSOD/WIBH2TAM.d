@@ -404,7 +404,7 @@ END
 		++ @6358 + tam3.11 // His progeny? How many progeny did Bhaal have?
 		++ @6359 + tam3.12 // How could Sarevok have obtained that blood?
 		++ @6360 + tam3.13 // You mentioned a High Deathstalker? Are any still around?
-		++ @6468 + tam3.32 // Not a question, but while I was there I met a spirit that gave me visions of Sarevok. When he was in the temple, he spoke to someone.
+		++ @6468 + tam3.32 // Something strange happened when I was in the Temple. I saw a vision of Sarevok, like a phantom. He spoke to someone there.
 		+ ~GlobalGT("BH2Quest","GLOBAL",4)~ + @6371 + tam3.16 // I think that covers everything.
 		
 CHAIN WIBH2TAM tam3.16
@@ -488,12 +488,12 @@ CHAIN WIBH2TAM tam3.31
 EXTERN WICYNTHA cy3.19
 
 CHAIN WIBH2TAM tam3.32
-	@6469 // Most curious. Do you know who this figure could have been?
+	@6469 // Most curious. Do you know who this woman could have been?
 END
 		++ @6470 + tam3.33 // No, only that it was a woman and seemed to know who he was, that she'd been watching him. They went off together, she said she was going to 'show him' something.
 
 CHAIN WIBH2TAM tam3.33
-	@6471 // Perhaps as we continue, you will get more visions. That would provide much clarity. Was there anything else you wished to discuss?
+	@6471 // Hm. You killed Sarevok. Perhaps that has forged a connection between you, strengthened now by proximity to the place Bhaal died. Keep watch for further visions, they could illuminate much. Was there anything else you wished to discuss?
 END
 		++ @6358 + tam3.11 // His progeny? How many progeny did Bhaal have?
 		++ @6359 + tam3.12 // How could Sarevok have obtained that blood?
