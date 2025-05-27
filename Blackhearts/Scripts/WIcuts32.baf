@@ -30,9 +30,9 @@ THEN
 	Wait(6)
 	ActionOverride("WIBH2TAM",Kill(myself))
 	Wait(4)
-	DisplayStringHead("WIREDWOM",@7147) // You provided such loyal assistance to one Bhaalspawn. It is time that you serve another.
-	ActionOverride("WIREDWOM",ForceSpell("WIBH2TAM",CLERIC_RESURRECTION))
-	Wait(6)
+//	DisplayStringHead("WIREDWOM",@7147) // You provided such loyal assistance to one Bhaalspawn. It is time that you serve another.
+//	ActionOverride("WIREDWOM",ForceSpell("WIBH2TAM",CLERIC_RESURRECTION))
+//	Wait(6)
 	FadeToColor([15.0],0)
 	Wait(2)
 	ApplySpellRES("bdunhide",Player1)
