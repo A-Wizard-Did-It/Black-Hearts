@@ -44,7 +44,7 @@ END
 		++ @6293 + cy1.11 // You all by yourself? You'd be throwing your life away.
 		++ @6294 + cy1.12 // Fine then, if you want my corpse then come and get it.
 		+~CheckStatGT(Player1,15,CHR)~+ @6295 + cy1.12 // It'd be a terrible thing to waste such cunning and beauty in a fruitless attack against me. I can see why Sarevok valued your company, you'd be a fearsome ally. Why not join me instead?
-		+~CheckStatGT(Player1,15,WIS)~+ @6295 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
+		+~CheckStatGT(Player1,15,WIS)~+ @6296 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
 
 CHAIN WICYNTHA cy1.7
 	@6298 // Send me to the hells after Sarevok or I'll send you to meet him first! My thralls, come to me!
@@ -56,7 +56,7 @@ END
 		++ @6293 + cy1.11 // You all by yourself? You'd be throwing your life away.
 		++ @6294 + cy1.12 // Fine then, if you want my corpse then come and get it.
 		+~CheckStatGT(Player1,15,CHR)~+ @6295 + cy1.12 // It'd be a terrible thing to waste such cunning and beauty in a fruitless attack against me. I can see why Sarevok valued your company, you'd be a fearsome ally. Why not join me instead?
-		+~CheckStatGT(Player1,15,WIS)~+ @6295 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
+		+~CheckStatGT(Player1,15,WIS)~+ @6296 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
 
 CHAIN WICYNTHA cy1.9
 	@6299 // *bitter laughter* So self righteous. You may not even know it, but you took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.
@@ -64,7 +64,7 @@ END
 		++ @6293 + cy1.11 // You all by yourself? You'd be throwing your life away.
 		++ @6294 + cy1.7 // Fine then, if you want my corpse then come and get it.
 		+~CheckStatGT(Player1,15,CHR)~+ @6295 + cy1.12 // It'd be a terrible thing to waste such cunning and beauty in a fruitless attack against me. I can see why Sarevok valued your company, you'd be a fearsome ally. Why not join me instead?
-		+~CheckStatGT(Player1,15,WIS)~+ @6295 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
+		+~CheckStatGT(Player1,15,WIS)~+ @6296 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
 
 CHAIN WICYNTHA cy1.10
 	@6300 // *bitter laughter* I am pathetic, aren't I? I know it, it matters not. You took everything from me. And I am left with... with nothing to show for it. While this whole venture would have been such a waste, I could do worse than coming away with your corpse... with your blood. Sarevok was wrong about you, you have power. If there's nothing left to be gained from him... then I'll take it from you instead. And even if that's worthless, I'll have some measure of revenge.
@@ -72,7 +72,7 @@ END
 		++ @6293 + cy1.11 // You all by yourself? You'd be throwing your life away.
 		++ @6294 + cy1.7 // Fine then, if you want my corpse then come and get it.
 		+~CheckStatGT(Player1,15,CHR)~+ @6295 + cy1.12 // It'd be a terrible thing to waste such cunning and beauty in a fruitless attack against me. I can see why Sarevok valued your company, you're a fearsome woman. Why not join me instead?
-		+~CheckStatGT(Player1,15,WIS)~+ @6295 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
+		+~CheckStatGT(Player1,15,WIS)~+ @6296 + cy1.12 // Your spite does you no favors. You are a brilliant woman in search of answers. Like you, I also search for answers. Why not join with me and search for them together? It costs neither of us anything and the benefits could be great.
 
 CHAIN WICYNTHA cy1.11
 	@6301 // As I've thrown everything else away! Come forward and kill me if you think I'll give it so easy!

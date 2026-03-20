@@ -7,4 +7,15 @@ THEN
 		StartDialog("WINIGKNI",[PC])
 END
 
+IF
+	GlobalGT("BHBG1Quest","GLOBAL",12)
+	AreaCheck("%CentralBaldursGate%")
+THEN
+	RESPONSE #100
+		UseItem("POTN10",Myself)
+		SmallWait(2)
+		DisplayStringHead(Myself,@5034)
+		Wait(3)
+		DestroySelf()
+END
 

@@ -1,30 +1,24 @@
-BEGIN BLANE
+ADD_TRANS_ACTION BLANE BEGIN 0 END BEGIN 0 1 END ~SetGlobal("BH_TALK","LOCALS",1)~
 
-IF ~Global("BHBG1Quest","GLOBAL",1) !PartyHasItem("WIHELM01")~ THEN BEGIN WIblane0
-	SAY @166
-	IF ~~ EXIT
-END 
+APPEND ~BLANE~
 
-IF ~Global("BHBG1Quest","GLOBAL",1) PartyHasItem("WIHELM01")~ THEN WIblane1
-	SAY @167
-	IF ~~ EXIT
-END 
-
-IF ~Global("BlaneTalk","GLOBAL",0)~ THEN BEGIN WIblane2
-	SAY @168
-		++ @169 GOTO WIblane3
-		++ @170 GOTO WIblane4
-END 	
-
-IF ~~ THEN BEGIN WIblane3
-	SAY @171 IF ~~ THEN DO ~SetGlobal("BlaneTalk","GLOBAL",1)~ EXIT
+IF WEIGHT #-1
+~Global("BHBG1Quest","GLOBAL",1)
+	!PartyHasItem("WIHELM01")
+	Global("BHNO_WIHELM01","LOCALS",0)~ THEN BEGIN WIBLANE0
+  SAY @166
+	IF ~Global("BH_TALK","LOCALS",1)~ DO ~SetGlobal("BHNO_WIHELM01","LOCALS",1)~ EXIT
+	IF ~Global("BH_TALK","LOCALS",0)~ DO ~SetGlobal("BHNO_WIHELM01","LOCALS",1) SetNumTimesTalkedTo(0)~ EXIT
 END
 
-IF ~~ THEN BEGIN WIblane4
-	SAY @172 IF ~~ THEN DO ~SetGlobal("BlaneTalk","GLOBAL",1)~ EXIT
+
+IF WEIGHT #-1
+~Global("BHBG1Quest","GLOBAL",1)
+	PartyHasItem("WIHELM01")
+	Global("BHYES_WIHELM01","LOCALS",0)~ THEN BEGIN WIBLANE1
+  SAY @167
+	IF ~Global("BH_TALK","LOCALS",1)~ DO ~SetGlobal("BHYES_WIHELM01","LOCALS",1)~ EXIT
+	IF ~Global("BH_TALK","LOCALS",0)~ DO ~SetGlobal("BHYES_WIHELM01","LOCALS",1) SetNumTimesTalkedTo(0)~ EXIT
 END
 
-IF ~Global("BlaneTalk","GLOBAL",1)~ THEN BEGIN WIblane5
-	SAY @173
-	IF ~~ EXIT
-END 
+END

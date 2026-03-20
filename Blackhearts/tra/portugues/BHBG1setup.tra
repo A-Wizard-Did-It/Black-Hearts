@@ -1,0 +1,13 @@
+@1 = ~Instalar Blackhearts para "BGEE" ou "EET incluindo BGEE e BG2EE"~
+
+@20000 = ~Esta ponte desaparece no nada à frente. Talvez ela levasse a algum lugar, mas você não consegue imaginar para onde.~
+@20001 = ~Os pelos da sua pele se arrepiam quando a luz verde deste cristal toca você. Você decide que provavelmente é melhor não tocar ou se aproximar demais dele.~
+@20002 = ~Um rosto inquietante repousa no tronco desta árvore. Sua boca está aberta, como se quisesse dizer algo urgente, mas não produz som algum.~
+@20003 = ~A porta aqui está selada firmemente e resiste a qualquer tentativa de abri-la. Você terá que encontrar uma forma de contornar os encantamentos que foram colocados sobre ela.~
+@20004 = ~Os pelos da sua pele se arrepiam quando a luz amarela deste cristal toca você. Você decide que provavelmente é melhor não tocar ou se aproximar demais dele.~
+
+@20005 = ~Instalar Blackhearts apenas para "BG2EE"~
+
+
+// WIcuts23.BAF
+@20006 = ~Portal~

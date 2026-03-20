@@ -1,7 +1,7 @@
 BACKUP ~weidu_external/Blackhearts/Backup~
 AUTHOR ~AWizardDidIt~
 
-VERSION ~v2.03~
+VERSION ~v2.05~
 
 ALWAYS
 
@@ -20,11 +20,10 @@ ACTION_IF GAME_IS ~eet~ BEGIN
 			OUTER_SPRINT "ISW1H09" "ISW1H09"
 END
 
-END	
+END
 
-LANGUAGE
-	~English~
-	~English~
+LANGUAGE ~English~
+         ~English~
 
 ~Blackhearts/tra/English/BHBG1setup.tra~
 ~Blackhearts/tra/English/BHBG1names.tra~
@@ -51,6 +50,23 @@ LANGUAGE ~Simplified Chinese (translation: Lzw104522773)~
 ~Blackhearts/tra/schinese/BHBG1script.tra~
 
 
+LANGUAGE ~Portugues (translation: DarthNihilus530)~
+         ~portugues~
+
+~Blackhearts/tra/English/BHBG1setup.tra~
+~Blackhearts/tra/English/BHBG1names.tra~
+~Blackhearts/tra/English/BHBG1sounds.tra~
+~Blackhearts/tra/English/BHBG1quests.tra~
+~Blackhearts/tra/English/BHBG1items.tra~
+~Blackhearts/tra/English/BHBG1script.tra~
+~Blackhearts/tra/portugues/BHBG1setup.tra~
+~Blackhearts/tra/portugues/BHBG1names.tra~
+~Blackhearts/tra/portugues/BHBG1sounds.tra~
+~Blackhearts/tra/portugues/BHBG1quests.tra~
+~Blackhearts/tra/portugues/BHBG1items.tra~
+~Blackhearts/tra/portugues/BHBG1script.tra~
+
+
 BEGIN @1
 DESIGNATED 1
 LABEL ~AWizardDidIt-Blackhearts_BG1~
@@ -62,16 +78,16 @@ ADD_JOURNAL TITLE (@7148) @6116 @6138 @6330 @6331 @6341 @6460 @6461 @6462 @6571 
 // Special compatibility with Gorgon Eye
 
 	ACTION_IF (NOT MOD_IS_INSTALLED ~SETUP-GORGON.TP2~ 0) BEGIN
-	
+
 		COMPILE ~Blackhearts/DialogPatch/JOh_WI.d~
 		PRINT ~Patch Alatos dialog for compatibility with Gorgon Eye
 		~
-		
+
 	END ELSE BEGIN
-	
+
 		PRINT ~ALATOS.dlg is already patched by Gorgon Eye mod for compatibility
 		~
-		
+
 END
 
 // Special compatibility with Gorgon Eye
@@ -114,13 +130,13 @@ LAF HANDLE_AUDIO END
 COPY_EXISTING ~%CoastWay%.are~ ~override~
   LPF fj_are_structure
     INT_VAR
-    fj_type         = 2   
+    fj_type         = 2
     fj_box_left     = 4513
     fj_box_top      = 1456
-    fj_box_right    = 4644 
-    fj_box_bottom   = 1556 
+    fj_box_right    = 4644
+    fj_box_bottom   = 1556
     fj_cursor_idx   = 42
-    fj_vertex_0     = 4513 + (1456 << 16) 
+    fj_vertex_0     = 4513 + (1456 << 16)
     fj_vertex_1     = 4644 + (1456 << 16)
     fj_vertex_2     = 4644 + (1556 << 16)
     fj_vertex_3     = 4513 + (1556 << 16)
@@ -130,12 +146,12 @@ COPY_EXISTING ~%CoastWay%.are~ ~override~
     fj_destination_area = WI0002
     fj_destination_name = EXIT1900
   END
- 
+
    LPF fj_are_structure
     INT_VAR
-    fj_loc_x       = 4575 
-    fj_loc_y       = 1482 
-    fj_orientation = 0  
+    fj_loc_x       = 4575
+    fj_loc_y       = 1482
+    fj_orientation = 0
     STR_VAR
     fj_structure_type = entrance
     fj_name           = EXITWi0002
@@ -145,58 +161,58 @@ COPY_EXISTING ~%CoastWay%.are~ ~override~
 COPY_EXISTING ~%Farmlands%.are~ ~override~
   LPF fj_are_structure
     INT_VAR
-    fj_type         = 2    
-    fj_box_left     = 2304  
+    fj_type         = 2
+    fj_box_left     = 2304
     fj_box_top      = 8
-    fj_box_right    = 3408 
+    fj_box_right    = 3408
     fj_box_bottom   = 123
-    fj_cursor_idx   = 34   
-    fj_vertex_0     = 2304 + (8 << 16) 
+    fj_cursor_idx   = 34
+    fj_vertex_0     = 2304 + (8 << 16)
     fj_vertex_1     = 3408 + (8 << 16)
     fj_vertex_2     = 3408 + (123 << 16)
     fj_vertex_3     = 2304 + (123 << 16)
     STR_VAR
     fj_structure_type   = region
-    fj_name             = WIgorgeEnt 
+    fj_name             = WIgorgeEnt
     fj_destination_area = WI0003
-    fj_destination_name = Entrance1 
+    fj_destination_name = Entrance1
   END
 
    LPF fj_are_structure
     INT_VAR
-    fj_loc_x       = 2550 
-    fj_loc_y       = 177 
-    fj_orientation = 0   
+    fj_loc_x       = 2550
+    fj_loc_y       = 177
+    fj_orientation = 0
     STR_VAR
     fj_structure_type = entrance
     fj_name           = WIfarmtrav
-  END 
+  END
   ADD_MAP_NOTE #2857 #66 ~gray~ @79
 
 COPY_EXISTING ~%ESewers%.are~ ~override~
   LPF fj_are_structure
     INT_VAR
-    fj_type         = 2    
+    fj_type         = 2
     fj_box_left     = 36
     fj_box_top      = 2522
     fj_box_right    = 355
     fj_box_bottom   = 2685
     fj_cursor_idx   = 42
-    fj_vertex_0     = 36 + (2522 << 16) 
+    fj_vertex_0     = 36 + (2522 << 16)
     fj_vertex_1     = 355 + (2522 << 16)
     fj_vertex_2     = 355 + (2685 << 16)
     fj_vertex_3     = 36 + (2685 << 16)
     STR_VAR
     fj_structure_type   = region
-    fj_name             = WISewExit 
+    fj_name             = WISewExit
     fj_destination_area = WI0006
-    fj_destination_name = Entrance1 
+    fj_destination_name = Entrance1
   END
 
    LPF fj_are_structure
     INT_VAR
     fj_loc_x       = 523
-    fj_loc_y       = 2694 
+    fj_loc_y       = 2694
     fj_orientation = 12
     STR_VAR
     fj_structure_type = entrance
@@ -209,17 +225,17 @@ COPY_EXISTING ~WI0002.wed~ ~override~
 COPY_EXISTING ~WI0002.are~ ~override~
   LPF  ALTER_AREA_REGION
     STR_VAR
-    region_name              = Door1900 
+    region_name              = Door1900
     destination_area =  EVAL ~%CoastWay%~
   END
 
 COPY_EXISTING ~WI0003.are~ ~override~
   LPF  ALTER_AREA_REGION
     STR_VAR
-    region_name              = Travel 
+    region_name              = Travel
     destination_area =  EVAL ~%Farmlands%~
   END
-  
+
 COPY_EXISTING ~WI0004.wed~ ~override~
 	WRITE_ASCIIE 0x24 ~%NWBaldursGate_PheirkasHouse_L1%~ (8)
 
@@ -228,12 +244,12 @@ COPY_EXISTING ~WI0004.are~ ~override~
 	WRITE_ASCIIE 0x94 ~%NWBaldursGate_PheirkasHouse_L1%~ (8) // Area script BG0167 / AR0167
   LPF  ALTER_AREA_REGION
     STR_VAR
-    region_name              = Door0100 
+    region_name              = Door0100
     destination_area =  EVAL ~%NWBaldursGate%~
   END
   LPF  ALTER_AREA_REGION
     STR_VAR
-    region_name              = Door0168 
+    region_name              = Door0168
     destination_area =  EVAL ~%NWBaldursGate_PheirkasHouse_L2%~
   END
 
@@ -241,14 +257,14 @@ COPY_EXISTING ~WI0005.are~ ~override~
 	WRITE_ASCIIE 0x08 ~%BaldursGateDocks_NoraleesWarehouse%~ (8)
   LPF  ALTER_AREA_REGION
     STR_VAR
-    region_name              = Door1200 
+    region_name              = Door1200
     destination_area =  EVAL ~%BaldursGateDocks%~
   END
 
 COPY_EXISTING ~WI0006.are~ ~override~
   LPF  ALTER_AREA_REGION
     STR_VAR
-    region_name              = SewerExit 
+    region_name              = SewerExit
     destination_area =  EVAL ~%ESewers%~
   END
 
@@ -284,7 +300,7 @@ COMPILE ~Blackhearts/Scripts/WIcuts25.baf~ EVALUATE_BUFFER
 COMPILE ~Blackhearts/Scripts/WIcuts26.baf~
 COMPILE ~Blackhearts/Scripts/WISIGHT.baf~
 COMPILE ~Blackhearts/Scripts/WIRIEZEN.baf~
-COMPILE ~Blackhearts/Scripts/WINIGKNI.baf~
+COMPILE ~Blackhearts/Scripts/WINIGKNI.baf~ EVALUATE_BUFFER
 COMPILE ~Blackhearts/Scripts/WITALK.baf~
 COMPILE ~Blackhearts/Scripts/WITROL01.baf~
 COMPILE ~Blackhearts/Scripts/WIMITRAP.baf~
@@ -361,10 +377,10 @@ COPY ~Blackhearts/items/WISW1H01.eff~ ~override/WISW1H01.eff~
 COPY ~Blackhearts/items/WISW1H01.itm~ ~override/WISW1H01.itm~ // humanbane
 	SAY NAME2 @22
 	SAY DESC @23
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WISW1H01~
 	END
 
@@ -376,10 +392,10 @@ COPY ~Blackhearts/items/WISW1H02.itm~ ~override/WISW1H02.itm~  // bloodletting b
 	SAY UNIDENTIFIED_DESC #226713
 	SAY DESC @63
 	WRITE_ASCIIE 0x10 ~%MISC56%~ (8)
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WISW1H02~
 	END
 
@@ -389,10 +405,10 @@ COPY ~Blackhearts/items/WISW1H02.itm~ ~override/WISW1H02.itm~  // bloodletting b
 	SAY NAME2 @62
 	SAY DESC @63
 	WRITE_ASCIIE 0x10 ~%MISC56%~ (8)
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WISW1H02~
 	END
 
@@ -405,19 +421,19 @@ COPY ~Blackhearts/items/WIBOOK01.itm~ ~override/WIBOOK01.itm~
 	SAY UNIDENTIFIED_DESC @27
 	SAY DESC @27
 
-COPY ~Blackhearts/items/WIBOOK02.itm~ ~override/WIBOOK02.itm~	
+COPY ~Blackhearts/items/WIBOOK02.itm~ ~override/WIBOOK02.itm~
 	SAY NAME1 @33
 	SAY NAME2 @33
 	SAY UNIDENTIFIED_DESC @34
 	SAY DESC @34
 
-COPY ~Blackhearts/items/WIBOOK03.itm~ ~override/WIBOOK03.itm~	
+COPY ~Blackhearts/items/WIBOOK03.itm~ ~override/WIBOOK03.itm~
 	SAY NAME1 @35
 	SAY NAME2 @35
 	SAY UNIDENTIFIED_DESC @36
 	SAY DESC @36
 
-COPY ~Blackhearts/items/WIMISC01.itm~ ~override/WIMISC01.itm~	
+COPY ~Blackhearts/items/WIMISC01.itm~ ~override/WIMISC01.itm~
 	SAY NAME1 @42
 	SAY NAME2 @42
 	SAY UNIDENTIFIED_DESC @43
@@ -466,8 +482,8 @@ COPY ~Blackhearts/items/WISW1H03.itm~ ~override/WISW1H03.itm~
 	SAY NAME2 @92
 	SAY DESC @93
 	WRITE_ASCIIE 0x3a ~%ISW1H09%~ (8)
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
 	STR_VAR
 			icon = EVAL ~%ISW1H09%~
@@ -478,23 +494,23 @@ COPY_EXISTING ~SCRL2I.ITM~ ~override/WISCRL01.itm~
 	SAY NAME2 @90
 	SAY DESC @91
 	SAY UNIDENTIFIED_DESC @91
-	
+
 COPY ~Blackhearts/items/WISPIDSW.itm~ ~override/WISPIDSW.itm~
 
 COPY ~Blackhearts/items/WIRING02.itm~ ~override/WIRING02.itm~
 	SAY NAME2 @94
 	SAY DESC @95
 
-COPY ~Blackhearts/items/WIRING03.itm~ ~override/WIRING03.itm~	
+COPY ~Blackhearts/items/WIRING03.itm~ ~override/WIRING03.itm~
 
-COPY ~Blackhearts/items/WIRING04.itm~ ~override/WIRING04.itm~	
+COPY ~Blackhearts/items/WIRING04.itm~ ~override/WIRING04.itm~
 
 COPY ~Blackhearts/items/WIBOOK05.itm~ ~override/WIBOOK05.itm~
 	SAY NAME1 @103
 	SAY NAME2 @103
 	SAY DESC @104
 	SAY UNIDENTIFIED_DESC @104
-	
+
 	ACTION_IF GAME_IS ~eet~ BEGIN
 
 COPY ~Blackhearts/items/WIHELM02.itm~ ~override/WIHELM02.itm~
@@ -502,7 +518,7 @@ COPY ~Blackhearts/items/WIHELM02.itm~ ~override/WIHELM02.itm~
 	SAY NAME2 @108
 	SAY UNIDENTIFIED_DESC #230683
 	SAY DESC @109
-	
+
 	END ELSE BEGIN
 
 COPY ~Blackhearts/items/WIHELM02.itm~ ~override/WIHELM02.itm~
@@ -532,10 +548,10 @@ COPY_EXISTING ~SCRL2I.ITM~ ~override/WISCRL02.itm~
 COPY ~Blackhearts/items/WIMACE01.itm~ ~override/WIMACE01.itm~
 	SAY NAME2 @116
 	SAY DESC @117
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WIBLUN01~
 	END
 
@@ -562,16 +578,17 @@ COPY ~Blackhearts/items/WISPER01.itm~ ~override/WISPER01.itm~
 COPY ~Blackhearts/items/WISPER01.itm~ ~override/WISPER01.itm~
 	SAY NAME2 @139
 	SAY DESC @140
+	SAY UNIDENTIFIED_DESC #25874
 
 END
 
 COPY ~Blackhearts/items/WISTAF01.itm~ ~override/WISTAF01.itm~
 	SAY NAME2 @141
 	SAY DESC @142
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WISTAF01~
 	END
 
@@ -581,10 +598,10 @@ COPY ~Blackhearts/items/WISW1H05.itm~ ~override/WISW1H05.itm~
 	SAY DESC @147
 	SAY UNIDENTIFIED_DESC @3326
 	WRITE_ASCIIE 0x10 ~%MISC56%~ (8)
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WISW1H03~
 	END
 
@@ -594,10 +611,10 @@ COPY ~Blackhearts/items/WISW1H06.itm~ ~override/WISW1H06.itm~
 	SAY DESC @149
 	SAY UNIDENTIFIED_DESC @3324
 	WRITE_ASCIIE 0x10 ~%MISC56%~ (8)
-	LPF ALTER_ITEM_HEADER 
-		INT_VAR 
+	LPF ALTER_ITEM_HEADER
+		INT_VAR
 			check_headers = 1
-		STR_VAR 
+		STR_VAR
 			icon = ~WISW1H04~
 	END
 
@@ -632,24 +649,28 @@ COPY ~Blackhearts/items/WIMISC07.itm~ ~override/WIMISC07.itm~
 	SAY NAME2 @125
 	SAY UNIDENTIFIED_DESC @126
 	SAY DESC @126
+		WRITE_LONG  0x18 THIS | BIT0
 
 COPY ~Blackhearts/items/WIMISC08.itm~ ~override/WIMISC08.itm~
 	SAY NAME1 @127
 	SAY NAME2 @127
 	SAY UNIDENTIFIED_DESC @128
 	SAY DESC @128
+		WRITE_LONG  0x18 THIS | BIT0
 
 COPY ~Blackhearts/items/WIMISC09.itm~ ~override/WIMISC09.itm~
 	SAY NAME1 @129
 	SAY NAME2 @129
 	SAY UNIDENTIFIED_DESC @130
 	SAY DESC @130
+		WRITE_LONG  0x18 THIS | BIT0
 
 COPY ~Blackhearts/items/WIMISC10.itm~ ~override/WIMISC10.itm~
 	SAY NAME1 @131
 	SAY NAME2 @131
 	SAY UNIDENTIFIED_DESC @132
 	SAY DESC @132
+		WRITE_LONG  0x18 THIS | BIT0
 
 COPY ~Blackhearts/items/WIMISC11.itm~ ~override/WIMISC11.itm~
 	SAY NAME1 @135
@@ -667,7 +688,7 @@ COPY ~Blackhearts/CRE/WIILLASE.cre~ ~override/WIILLASE.cre~
 	SAY DAMAGE @5
 	SAY DYING @6
 	SAY MORALE @7
-	SAY SELECT_COMMON1 @12 
+	SAY SELECT_COMMON1 @12
 	SAY SELECT_COMMON2 @8
 	SAY SELECT_COMMON3 @11
 	SAY SELECT_COMMON4 @9
@@ -677,7 +698,7 @@ COPY ~Blackhearts/CRE/WIILLASE.cre~ ~override/WIILLASE.cre~
 WRITE_ASCII SCRIPT_OVERRIDE ~WIILLSP~ (8)
 WRITE_ASCII SCRIPT_DEFAULT ~WIillase~ (8) // Not existing
 WRITE_ASCII DIALOG ~WIillase~ (8)
-WRITE_ASCII DEATHVAR ~WIILLASE~ (8)
+WRITE_ASCII DEATHVAR ~WIILLASE~ (32)
 
 COPY ~Blackhearts/CRE/WIILLAS1.cre~ ~override/WIILLAS1.cre~
 	SAY NAME1 @68
@@ -688,7 +709,7 @@ COPY ~Blackhearts/CRE/WIILLAS1.cre~ ~override/WIILLAS1.cre~
 	SAY DAMAGE @5
 	SAY DYING @6
 	SAY MORALE @7
-	SAY SELECT_COMMON1 @12 
+	SAY SELECT_COMMON1 @12
 	SAY SELECT_COMMON2 @8
 	SAY SELECT_COMMON3 @11
 	SAY SELECT_COMMON4 @9
@@ -701,12 +722,12 @@ WRITE_ASCII DIALOG ~WIillimg~ (8)
 COPY ~Blackhearts/CRE/WIHOBG04.cre~ ~override/WIHOBG04.cre~
 	SAY NAME1 @21
 	SAY NAME2 @21
-WRITE_ASCII DEATHVAR ~WIHOBG04~ (8)
+WRITE_ASCII DEATHVAR ~WIHOBG04~ (32)
 
 COPY ~Blackhearts/CRE/WIELENAI.cre~ ~override/WIELENAI.cre~
 	SAY NAME1 @24
 	SAY NAME2 @24
-// WRITE_ASCII DEATHVAR ~WIelenai~ (8) // Added
+// WRITE_ASCII DEATHVAR ~WIelenai~ (32) // Added
 WRITE_ASCII SCRIPT_DEFAULT ~WIelenai~ (8)// Not existing
 WRITE_ASCII DIALOG ~WIelenai~ (8)
 
@@ -720,7 +741,7 @@ COPY_EXISTING ~AMNIS.cre~ ~override/WIGUARD2.cre~
 	SAY NAME1 @29
 	SAY NAME2 @29
 WRITE_ASCII SCRIPT_DEFAULT ~WIguard~  (8)// Not existing
-WRITE_ASCII DEATHVAR ~WIGUARD2~
+WRITE_ASCII DEATHVAR ~WIGUARD2~ (32)
 WRITE_ASCII DIALOG ~WIguard2~ (8)
 
 COPY_EXISTING ~BRILLA.cre~ ~override/BRILLA.cre~
@@ -730,16 +751,16 @@ COPY_EXISTING ~FTOBE3.cre~ ~override/WIBARMAI.cre~
 	SAY NAME1 @64
 	SAY NAME2 @64
 WRITE_ASCII DIALOG ~WIBARMAI~ (8)
-WRITE_ASCII DEATHVAR ~WIBARMAI~ (8)
+WRITE_ASCII DEATHVAR ~WIBARMAI~ (32)
 
 COPY_EXISTING ~TAKIYAH.cre~ ~override/TAKIYAH.cre~
-WRITE_ASCII DEATHVAR ~TAKIYAH~ (8)
+WRITE_ASCII DEATHVAR ~TAKIYAH~ (32)
 
 COPY ~Blackhearts/CRE/WIGENTLE.cre~ ~override/WIGENTLE.cre~
 	SAY NAME1 @30
 	SAY NAME2 @30
 WRITE_ASCII DIALOG ~WIgent~ (8)
-WRITE_ASCII DEATHVAR ~WIGENTLE~ (8)
+WRITE_ASCII DEATHVAR ~WIGENTLE~ (32)
 WRITE_ASCII SCRIPT_OVERRIDE ~WISIGHT~ (8)
 
 COPY ~Blackhearts/CRE/WIPRESFI.cre~ ~override/WIPRESFI.cre~
@@ -755,30 +776,30 @@ WRITE_ASCII DIALOG ~WIPresfi~ (8)
 COPY ~Blackhearts/CRE/WIHOBG01.cre~ ~override/WIHOBG01.cre~
 	SAY NAME1 @3306
 	SAY NAME2 @3306
-WRITE_ASCII DEATHVAR ~WIHOBG01~ (8)
+WRITE_ASCII DEATHVAR ~WIHOBG01~ (32)
 
 COPY ~Blackhearts/CRE/WIHOBG02.cre~ ~override/WIHOBG02.cre~
 	SAY NAME1 @3307
 	SAY NAME2 @3307
-WRITE_ASCII DEATHVAR ~WIHOBG02~ (8)
+WRITE_ASCII DEATHVAR ~WIHOBG02~ (32)
 
 COPY ~Blackhearts/CRE/WIHOBG03.cre~ ~override/WIHOBG03.cre~
 	SAY NAME1 @3308
 	SAY NAME2 @3308
-WRITE_ASCII DEATHVAR ~WIHOBG03~ (8)
-	
+WRITE_ASCII DEATHVAR ~WIHOBG03~ (32)
+
 COPY_EXISTING ~ARDENO.cre~ ~override/ARDENO.cre~
-ADD_CRE_ITEM ~WIMISC04~ #0 #0 #0 ~IDENTIFIED~ ~INV~	
+ADD_CRE_ITEM ~WIMISC04~ #0 #0 #0 ~IDENTIFIED~ ~INV~
 
 COPY ~Blackhearts/CRE/WIBORT.cre~ ~override/WIBORT.cre~
 	SAY NAME1 @44
 	SAY NAME2 @44
-WRITE_ASCII DEATHVAR ~WIBORT~ (8)
+WRITE_ASCII DEATHVAR ~WIBORT~ (32)
 
 COPY ~Blackhearts/CRE/WIAPPLE.cre~ ~override/WIAPPLE.cre~
 	SAY NAME1 @45
 	SAY NAME2 @45
-WRITE_ASCII DEATHVAR ~WIAPPLE~ (8)
+WRITE_ASCII DEATHVAR ~WIAPPLE~ (32)
 
 COPY ~Blackhearts/CRE/WIERASMU.cre~ ~override/WIERASMU.cre~
 	SAY NAME1 @46
@@ -787,28 +808,28 @@ COPY ~Blackhearts/CRE/WIERASMU.cre~ ~override/WIERASMU.cre~
 COPY ~Blackhearts/CRE/WIFARGUS.cre~ ~override/WIFARGUS.cre~
 	SAY NAME1 @47
 	SAY NAME2 @47
-WRITE_ASCII DEATHVAR ~WIFARGUS~ (8)
+WRITE_ASCII DEATHVAR ~WIFARGUS~ (32)
 
 COPY ~Blackhearts/CRE/WIREGINA.cre~ ~override/WIREGINA.cre~
 	SAY NAME1 @48
 	SAY NAME2 @48
-WRITE_ASCII DEATHVAR ~WIREGINA~ (8)
+WRITE_ASCII DEATHVAR ~WIREGINA~ (32)
 
 COPY ~Blackhearts/CRE/WITIM.cre~ ~override/WITIM.cre~
 	SAY NAME1 @49
 	SAY NAME2 @49
-WRITE_ASCII DEATHVAR ~WITIM~ (8)
+WRITE_ASCII DEATHVAR ~WITIM~ (32)
 
 COPY ~Blackhearts/CRE/WILLYRK.cre~ ~override/WILLYRK.cre~
 	SAY NAME1 @50
 	SAY NAME2 @50
-WRITE_ASCII DEATHVAR ~WILLYRK~ (8)
+WRITE_ASCII DEATHVAR ~WILLYRK~ (32)
 
 COPY ~Blackhearts/CRE/WISKEL.cre~ ~override/WISKEL.cre~
 	SAY NAME1 @3309
 	SAY NAME2 @3309
 WRITE_ASCII SCRIPT_CLASS ~WISKEL~ (8)
-WRITE_ASCII DEATHVAR ~WISKEL~ (8)
+WRITE_ASCII DEATHVAR ~WISKEL~ (32)
 
 COPY ~Blackhearts/CRE/WIOGRE01.cre~ ~override/WIOGRE01.cre~
 	SAY NAME1 @3310
@@ -818,80 +839,80 @@ COPY ~Blackhearts/CRE/WICARLOS.cre~ ~override/WICARLOS.cre~
 	SAY NAME1 @53
 	SAY NAME2 @53
 WRITE_ASCII DIALOG ~~ (8)
-WRITE_ASCII DEATHVAR ~WICARLOS~ (8)
+WRITE_ASCII DEATHVAR ~WICARLOS~ (32)
 
 COPY ~Blackhearts/CRE/WICIRIL.cre~ ~override/WICIRIL.cre~
 	SAY NAME1 @54
 	SAY NAME2 @54
 WRITE_ASCII DIALOG ~~ (8)
-WRITE_ASCII DEATHVAR ~WICIRIL~ (8)
+WRITE_ASCII DEATHVAR ~WICIRIL~ (32)
 
 COPY ~Blackhearts/CRE/WIKRANCO.cre~ ~override/WIKRANCO.cre~
 	SAY NAME1 @55
 	SAY NAME2 @55
 WRITE_ASCII DIALOG ~~ (8)
-WRITE_ASCII DEATHVAR ~WIKRANCO~ (8)
-	
+WRITE_ASCII DEATHVAR ~WIKRANCO~ (32)
+
 COPY ~Blackhearts/CRE/WIOWYN.cre~ ~override/WIOWYN.cre~
 	SAY NAME1 @56
 	SAY NAME2 @56
-WRITE_ASCII DEATHVAR ~WIOWYN~ (8)
+WRITE_ASCII DEATHVAR ~WIOWYN~ (32)
 
 COPY ~Blackhearts/CRE/WIWYLLIA.cre~ ~override/WIWYLLIA.cre~
 	SAY NAME1 @57
 	SAY NAME2 @57
 WRITE_ASCII DIALOG ~~ (8)
-WRITE_ASCII DEATHVAR ~WIWYLLIA~ (8)
+WRITE_ASCII DEATHVAR ~WIWYLLIA~ (32)
 
 COPY ~Blackhearts/CRE/WISAMJOH.cre~ ~override/WISAMJOH.cre~
 	SAY NAME1 @58
 	SAY NAME2 @58
-WRITE_ASCII DEATHVAR ~WISAMJOH~ (8)
+WRITE_ASCII DEATHVAR ~WISAMJOH~ (32)
 
 COPY ~Blackhearts/CRE/WISHADO1.cre~ ~override/WISHADO1.cre~
 	SAY NAME1 @61
 	SAY NAME2 @61
-WRITE_ASCII DEATHVAR ~WISHADO1~ (8)
-	
+WRITE_ASCII DEATHVAR ~WISHADO1~ (32)
+
 COPY ~Blackhearts/CRE/WICOMM01.cre~ ~override/WICOMM01.cre~
 	SAY NAME1 @3311
 	SAY NAME2 @3311
 WRITE_ASCII DIALOG ~WICOMM01~ (8)
-WRITE_ASCII DEATHVAR ~WICOMM01~ (8)
+WRITE_ASCII DEATHVAR ~WICOMM01~ (32)
 
 COPY ~Blackhearts/CRE/WICOMM01.cre~ ~override/WICOMM2.cre~
 	SAY NAME1 @3311
 	SAY NAME2 @3311
 WRITE_ASCII DIALOG ~WICOMM01~ (8)
-WRITE_ASCII DEATHVAR ~WICOMM02~ (8)
+WRITE_ASCII DEATHVAR ~WICOMM02~ (32)
 
 COPY ~Blackhearts/CRE/WICOMM01.cre~ ~override/WICOMM3.cre~
 	SAY NAME1 @3311
 	SAY NAME2 @3311
 WRITE_ASCII DIALOG ~WICOMM01~ (8)
-WRITE_ASCII DEATHVAR ~WICOMM03~ (8)
+WRITE_ASCII DEATHVAR ~WICOMM03~ (32)
 
 COPY ~Blackhearts/CRE/WIREDWIZ.cre~ ~override/WIREDWIZ.cre~
 	SAY NAME1 @69
 	SAY NAME2 @69
 WRITE_ASCII DIALOG ~WIREDWIZ~ (8)
-WRITE_ASCII DEATHVAR ~WIREDWIZ~ (8)
+WRITE_ASCII DEATHVAR ~WIREDWIZ~ (32)
 
 COPY ~Blackhearts/CRE/WISPID01.cre~ ~override/WISPID01.cre~
 	SAY NAME1 @3312
 	SAY NAME2 @3312
-WRITE_ASCII DEATHVAR ~WISPID01~ (8)
+WRITE_ASCII DEATHVAR ~WISPID01~ (32)
 
 COPY ~Blackhearts/CRE/WISPID02.cre~ ~override/WISPID02.cre~
 	SAY NAME1 @3312
 	SAY NAME2 @3312
-WRITE_ASCII DEATHVAR ~WISPID02~ (8)
+WRITE_ASCII DEATHVAR ~WISPID02~ (32)
 
 COPY ~Blackhearts/CRE/WISPID03.cre~ ~override/WISPID03.cre~
 	SAY NAME1 @86
 	SAY NAME2 @86
-WRITE_ASCII DEATHVAR ~WISPID03~ (8)
-	
+WRITE_ASCII DEATHVAR ~WISPID03~ (32)
+
 COPY ~Blackhearts/CRE/WIAMARAN.cre~ ~override/WIAMARAN.cre~
 WRITE_ASCII DIALOG ~WIamaran~ (8)
 
@@ -899,18 +920,18 @@ COPY ~Blackhearts/CRE/WIDRYAD1.cre~ ~override/WIDRYAD1.cre~
 	SAY NAME1 @72
 	SAY NAME2 @72
 WRITE_ASCII DIALOG ~WIDRYAD1~ (8)
-WRITE_ASCII DEATHVAR ~WIDRYAD1~ (8)
+WRITE_ASCII DEATHVAR ~WIDRYAD1~ (32)
 
 COPY ~Blackhearts/CRE/WIDRYAD2.cre~ ~override/WIDRYAD2.cre~
 	SAY NAME1 @72
 	SAY NAME2 @72
 WRITE_ASCII DIALOG ~WIDRYAD2~ (8)
-WRITE_ASCII DEATHVAR ~WIDRYAD2~ (8)
+WRITE_ASCII DEATHVAR ~WIDRYAD2~ (32)
 
 COPY ~Blackhearts/CRE/WIANKHE1.cre~ ~override/WIANKHE1.cre~
 	SAY NAME1 @73
 	SAY NAME2 @73
-WRITE_ASCII DEATHVAR ~WIANKHE1~ (8)
+WRITE_ASCII DEATHVAR ~WIANKHE1~ (32)
 
 COPY_EXISTING ~THIEF.cre~ ~override/WITHIEF1.cre~
 WRITE_ASCII DIALOG ~WIthief1~ (8)
@@ -927,7 +948,7 @@ COPY ~Blackhearts/CRE/WINERYS.cre~ ~override/WINERYS.cre~
 	SAY SELECT_COMMON2 @161
 	SAY SELECT_COMMON3 @158
 WRITE_ASCII DIALOG ~WINerys~ (8)
-WRITE_ASCII DEATHVAR ~WINerys~ (8)
+WRITE_ASCII DEATHVAR ~WINerys~ (32)
 REMOVE_CRE_ITEM ~WIMISC01~ ~inv4~
 
 COPY_EXISTING ~WINERYS.cre~ ~override/WINERY2.cre~
@@ -937,22 +958,22 @@ COPY ~Blackhearts/CRE/WIRIEZEN.cre~ ~override/WIRIEZEN.cre~
 	SAY NAME1 @78
 	SAY NAME2 @78
 WRITE_ASCII DIALOG ~WIRiezen~ (8)
-WRITE_ASCII DEATHVAR ~WIRIEZEN~ (8)
+WRITE_ASCII DEATHVAR ~WIRIEZEN~ (32)
 
 COPY ~Blackhearts/CRE/WINIKN01.cre~ ~override/WINIKN01.cre~
 	SAY NAME1 @3313
 	SAY NAME2 @3313
-WRITE_ASCII DEATHVAR ~WINIKN01~ (8)
+WRITE_ASCII DEATHVAR ~WINIKN01~ (32)
 
 COPY ~Blackhearts/CRE/WINIKN02.cre~ ~override/WINIKN02.cre~
 	SAY NAME1 @3313
 	SAY NAME2 @3313
-WRITE_ASCII DEATHVAR ~WINIKN02~ (8)
+WRITE_ASCII DEATHVAR ~WINIKN02~ (32)
 
 COPY ~Blackhearts/CRE/WISHADO2.cre~ ~override/WISHADO2.cre~
 	SAY NAME1 @3314
 	SAY NAME2 @3314
-WRITE_ASCII DEATHVAR ~WISHADO2~ (8)
+WRITE_ASCII DEATHVAR ~WISHADO2~ (32)
 
 COPY ~Blackhearts/CRE/WINIKN03.cre~ ~override/WINIKN03.cre~
 	SAY NAME1 @3313
@@ -963,32 +984,32 @@ WRITE_BYTE 0x271 ~1~ // General Humanoid
 WRITE_BYTE 0x272 ~1~ // Race Human
 WRITE_BYTE 0x273 ~4~ // Class Thief
 WRITE_ASCII DIALOG ~WINIGKNI~ (8)
-WRITE_ASCII DEATHVAR ~WINIKN03~ (8)
+WRITE_ASCII DEATHVAR ~WINIKN03~ (32)
 ADD_CRE_ITEM ~POTN10~ #1 #0 #0 ~identified&unstealable~ ~qitem1~
 
 COPY ~Blackhearts/CRE/WIOGMA01.cre~ ~override/WIOGMA01.cre~
 	SAY NAME1 @96
-	SAY NAME2 @96 
+	SAY NAME2 @96
 WRITE_ASCII DIALOG ~WIyondak~ (8)
-WRITE_ASCII DEATHVAR ~WIYONDAK~ (8)
+WRITE_ASCII DEATHVAR ~WIYONDAK~ (32)
 WRITE_ASCII SCRIPT_OVERRIDE ~SHOUTDLG~ (8)
 
 COPY ~Blackhearts/CRE/WIRWBARB.cre~ ~override/WIRWBARB.cre~
 	SAY NAME1 @97
 	SAY NAME2 @97
 WRITE_ASCII SCRIPT_OVERRIDE ~SHOUT~ (8)
-WRITE_ASCII DEATHVAR ~WIRWBARB~ (8)
+WRITE_ASCII DEATHVAR ~WIRWBARB~ (32)
 
 COPY ~Blackhearts/CRE/WIRWBARB.cre~ ~override/WIRWBAR2.cre~
 	SAY NAME1 @97
 	SAY NAME2 @97
-WRITE_ASCII DEATHVAR ~WIRWBAR2~ (8)
+WRITE_ASCII DEATHVAR ~WIRWBAR2~ (32)
 WRITE_ASCII SCRIPT_OVERRIDE ~SHOUT~ (8)
 
 COPY ~Blackhearts/CRE/WIRWBKGD.cre~ ~override/WIRWBKGD.cre~
 	SAY NAME1 @98
 	SAY NAME2 @98
-WRITE_ASCII DEATHVAR ~WIRWBKGD~ (8)
+WRITE_ASCII DEATHVAR ~WIRWBKGD~ (32)
 REPLACE_CRE_ITEM ~PLAT04~ #0 #0 #0 ~unstealable&undroppable~ ~armor~
 REPLACE_CRE_ITEM ~HELM06~ #0 #0 #0 ~unstealable&undroppable~ ~helmet~
 
@@ -996,33 +1017,33 @@ COPY ~Blackhearts/CRE/WIRWBKG2.cre~ ~override/WIRWBKG2.cre~
 	SAY NAME1 @122
 	SAY NAME2 @122
 WRITE_ASCII DIALOG ~WIKROTIA~ (8)
-WRITE_ASCII DEATHVAR ~WIRWBKG2~ (8)
+WRITE_ASCII DEATHVAR ~WIRWBKG2~ (32)
 WRITE_ASCII SCRIPT_OVERRIDE ~SHOUTDLG~ (8)
 
 COPY ~Blackhearts/CRE/WIRWCLER.cre~ ~override/WIRWCLER.cre~
 	SAY NAME1 @99
 	SAY NAME2 @99
-WRITE_ASCII DEATHVAR ~WIRWCLER~ (8)
+WRITE_ASCII DEATHVAR ~WIRWCLER~ (32)
 
 COPY ~Blackhearts/CRE/WIRWTHIF.cre~ ~override/WIRWTHIF.cre~
 	SAY NAME1 @100
 	SAY NAME2 @100
 WRITE_ASCII SCRIPT_OVERRIDE ~SHOUT~ (8)
-WRITE_ASCII DEATHVAR ~WIRWTHIF~ (8)
+WRITE_ASCII DEATHVAR ~WIRWTHIF~ (32)
 // REPLACE_CRE_ITEM ~DAGG02~ #0 #0 #0 ~IDENTIFIED~ ~weapon2~ EQUIP
 
 COPY ~Blackhearts/CRE/WIRWTHIF.cre~ ~override/WIRWTHI2.cre~
 	SAY NAME1 @100
 	SAY NAME2 @100
 // REPLACE_CRE_ITEM ~DAGG02~ #0 #0 #0 ~IDENTIFIED~ ~weapon2~ EQUIP
-	
+
 COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ2.cre~
 	SAY NAME1 @101
 	SAY NAME2 @101
 WRITE_ASCII SCRIPT_OVERRIDE ~OHGN01~ (8)
 WRITE_ASCII SCRIPT_CLASS ~OHMADD01~ (8)
 WRITE_ASCII SCRIPT_RACE ~BPASIGHT~ (8)
-WRITE_ASCII DEATHVAR ~WIRWWIZ2~ (8)
+WRITE_ASCII DEATHVAR ~WIRWWIZ2~ (32)
 
 COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ3.cre~
 	SAY NAME1 @101
@@ -1037,7 +1058,7 @@ COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ4.cre~
 WRITE_ASCII SCRIPT_OVERRIDE ~OHGN01~ (8)
 WRITE_ASCII SCRIPT_CLASS ~OHMADD01~ (8)
 WRITE_ASCII SCRIPT_RACE ~BPASIGHT~ (8)
-WRITE_ASCII DEATHVAR ~WIRWWIZ4~ (8)
+WRITE_ASCII DEATHVAR ~WIRWWIZ4~ (32)
 ADD_CRE_ITEM ~WIMISC08~ #0 #0 #0 ~IDENTIFIED~ ~INV~
 
 COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ5.cre~
@@ -1046,7 +1067,7 @@ COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ5.cre~
 WRITE_ASCII SCRIPT_OVERRIDE ~OHGN01~ (8)
 WRITE_ASCII SCRIPT_CLASS ~OHMADD01~ (8)
 WRITE_ASCII SCRIPT_RACE ~BPASIGHT~ (8)
-WRITE_ASCII DEATHVAR ~WIRWWIZ5~ (8)
+WRITE_ASCII DEATHVAR ~WIRWWIZ5~ (32)
 ADD_CRE_ITEM ~WIMISC09~ #0 #0 #0 ~IDENTIFIED~ ~INV~
 
 COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ6.cre~
@@ -1055,26 +1076,26 @@ COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ6.cre~
 WRITE_ASCII SCRIPT_OVERRIDE ~OHGN01~ (8)
 WRITE_ASCII SCRIPT_CLASS ~OHMADD01~ (8)
 WRITE_ASCII SCRIPT_RACE ~BPASIGHT~ (8)
-WRITE_ASCII DEATHVAR ~WIRWWIZ6~ (8)
+WRITE_ASCII DEATHVAR ~WIRWWIZ6~ (32)
 ADD_CRE_ITEM ~WIMISC10~ #0 #0 #0 ~IDENTIFIED~ ~INV~
 
 COPY ~Blackhearts/CRE/WIRWWIZ2.cre~ ~override/WIRWWIZ7.cre~
 	SAY NAME1 @101
 	SAY NAME2 @101
-WRITE_ASCII DEATHVAR ~WIRWWIZ7~ (8)
+WRITE_ASCII DEATHVAR ~WIRWWIZ7~ (32)
 ADD_CRE_ITEM ~WIMISC11~ #0 #0 #0 ~IDENTIFIED~ ~INV~
 
 COPY ~Blackhearts/CRE/WIRWWIZ1.cre~ ~override/WIRWWIZ1.cre~
 	SAY NAME1 @102
 	SAY NAME2 @102
 WRITE_ASCII DIALOG ~WImalach~ (8)
-WRITE_ASCII DEATHVAR ~WIMALACH~ (8)
+WRITE_ASCII DEATHVAR ~WIMALACH~ (32)
 
 COPY ~Blackhearts/CRE/WICHERIS.cre~ ~override/WICHERIS.cre~
 	SAY NAME1 @106
 	SAY NAME2 @106
 WRITE_ASCII DIALOG ~WICheris~ (8)
-WRITE_ASCII DEATHVAR ~WICHERIS~ (8)
+WRITE_ASCII DEATHVAR ~WICHERIS~ (32)
 
 COPY ~Blackhearts/CRE/WICHERI2.cre~ ~override/WICHERI2.cre~
 	SAY NAME1 @106
@@ -1083,45 +1104,45 @@ WRITE_ASCII 0x034 ~~ (8)	// Small portrait
 WRITE_ASCII 0x03c ~~ (8)	// Large portrait
 WRITE_ASCII SCRIPT_OVERRIDE ~WICHERI2~ (8)
 WRITE_BYTE 0x270 ~128~ // Allegiance neutral
-WRITE_ASCII DEATHVAR ~WICHERI2~ (8)
+WRITE_ASCII DEATHVAR ~WICHERI2~ (32)
 
 COPY ~Blackhearts/CRE/WITROLL.cre~ ~override/WITROLL.cre~
 	SAY NAME1 @115
 	SAY NAME2 @115
-WRITE_ASCII DEATHVAR ~WITROLL~ (8)
+WRITE_ASCII DEATHVAR ~WITROLL~ (32)
 
 COPY_EXISTING ~BPSLFS01.cre~ ~override/WISLFS01.cre~
 WRITE_ASCII SCRIPT_CLASS ~WISLIFIS~ (8)
-WRITE_ASCII DEATHVAR ~WISLFS01~ (8)
+WRITE_ASCII DEATHVAR ~WISLFS01~ (32)
 
 COPY_EXISTING ~BPSLFS02.cre~ ~override/WISLFS02.cre~
 WRITE_ASCII SCRIPT_CLASS ~WISLIFIS~ (8)
-WRITE_ASCII DEATHVAR ~WISLFS02~ (8)
+WRITE_ASCII DEATHVAR ~WISLFS02~ (32)
 
 COPY ~Blackhearts/CRE/WIPORTA1.cre~ ~override/WIPORTA1.cre~
 	SAY NAME1 @3315
 	SAY NAME2 @3315
-WRITE_ASCII DEATHVAR ~WIPORTA1~ (8)
+WRITE_ASCII DEATHVAR ~WIPORTA1~ (32)
 
 COPY ~Blackhearts/CRE/WIPORTA2.cre~ ~override/WIPORTA2.cre~
 	SAY NAME1 @3315
 	SAY NAME2 @3315
-WRITE_ASCII DEATHVAR ~WIPORTA2~ (8)
+WRITE_ASCII DEATHVAR ~WIPORTA2~ (32)
 
 COPY ~Blackhearts/CRE/WIPORTA3.cre~ ~override/WIPORTA3.cre~
 	SAY NAME1 @3315
 	SAY NAME2 @3315
-WRITE_ASCII DEATHVAR ~WIPORTA3~ (8)
+WRITE_ASCII DEATHVAR ~WIPORTA3~ (32)
 
 COPY ~Blackhearts/CRE/WIPORTA4.cre~ ~override/WIPORTA4.cre~
 	SAY NAME1 @3315
 	SAY NAME2 @3315
-WRITE_ASCII DEATHVAR ~WIPORTA4~ (8)
+WRITE_ASCII DEATHVAR ~WIPORTA4~ (32)
 
 COPY ~Blackhearts/CRE/WIPORTA5.cre~ ~override/WIPORTA5.cre~
 	SAY NAME1 @3315
 	SAY NAME2 @3315
-WRITE_ASCII DEATHVAR ~WIPORTA5~ (8)
+WRITE_ASCII DEATHVAR ~WIPORTA5~ (32)
 
 COPY ~Blackhearts/CRE/WIMIMIC.cre~ ~override/WIMIMIC.cre~
 	SAY NAME1 @3316
@@ -1130,50 +1151,50 @@ COPY ~Blackhearts/CRE/WIMIMIC.cre~ ~override/WIMIMIC.cre~
 COPY ~Blackhearts/CRE/WICLAYGO.cre~ ~override/WICLAYGO.cre~
 	SAY NAME1 @3317
 	SAY NAME2 @3317
-WRITE_ASCII DEATHVAR ~WICLAYGO~ (8)
+WRITE_ASCII DEATHVAR ~WICLAYGO~ (32)
 
 COPY ~Blackhearts/CRE/WISHAMB.cre~ ~override/WISHAMB.cre~
 	SAY NAME1 @3318
 	SAY NAME2 @3318
-WRITE_ASCII DEATHVAR ~WISHAMB~ (8)
+WRITE_ASCII DEATHVAR ~WISHAMB~ (32)
 ADD_CRE_ITEM ~WISTAF01~ #0 #0 #0 ~none~ ~INV~
 
 COPY ~Blackhearts/CRE/WISTOGOL.cre~ ~override/WISTOGOL.cre~
 	SAY NAME1 @3319
 	SAY NAME2 @3319
-WRITE_ASCII DEATHVAR ~WISTOGOL~ (8)
+WRITE_ASCII DEATHVAR ~WISTOGOL~ (32)
 
 COPY ~Blackhearts/CRE/WIICESAL.cre~ ~override/WIICESAL.cre~
-	SAY NAME1 @3320	
+	SAY NAME1 @3320
 	SAY NAME2 @3320
 
 COPY ~Blackhearts/CRE/WIICESCL.cre~ ~override/WIICESCL.cre~
 	SAY NAME1 @3321
 	SAY NAME2 @3321
-WRITE_ASCII DEATHVAR ~WIICESCL~ (8)
+WRITE_ASCII DEATHVAR ~WIICESCL~ (32)
 ADD_CRE_ITEM ~WISPER01~ #0 #0 #0 ~none~ ~INV~
 
 COPY ~Blackhearts/CRE/WIELFIR1.cre~ ~override/WIELFIR1.cre~
 	SAY NAME1 @3322
 	SAY NAME2 @3322
-WRITE_ASCII DEATHVAR ~WIELFIR1~ (8)
+WRITE_ASCII DEATHVAR ~WIELFIR1~ (32)
 
 COPY_EXISTING ~BEGBAX_A.cre~ ~override/WIBEGG01.cre~
 WRITE_ASCII DIALOG ~WIbeggar~ (8)
-WRITE_ASCII DEATHVAR ~WIBEGG01~ (8)
+WRITE_ASCII DEATHVAR ~WIBEGG01~ (32)
 
 COPY ~Blackhearts/CRE/WIFIRGIA.cre~ ~override/WIFIRGIA.cre~
 	SAY NAME1 @134
 	SAY NAME2 @134
 WRITE_ASCII DIALOG ~WIFIREGI~ (8)
-WRITE_ASCII DEATHVAR ~WIFIREGI~ (8)
+WRITE_ASCII DEATHVAR ~WIFIREGI~ (32)
 WRITE_ASCII SCRIPT_OVERRIDE ~WIFIREGI~ (8) // Not existing
 
 COPY ~Blackhearts/CRE/WIFIRGI2.cre~ ~override/WIFIRGI2.cre~
 	SAY NAME1 @134
 	SAY NAME2 @134
 WRITE_ASCII DIALOG ~WIFIREG2~ (8)
-WRITE_ASCII DEATHVAR ~WIFIREG2~ (8)
+WRITE_ASCII DEATHVAR ~WIFIREG2~ (32)
 WRITE_ASCII SCRIPT_OVERRIDE ~SHOUTDLG~ (8)
 ADD_CRE_ITEM ~WIARMO02~ #0 #0 #0 ~none~ ~INV~
 
@@ -1188,13 +1209,14 @@ COPY ~Blackhearts/CRE/WITHARDE.cre~ ~override/WITHARDE.cre~
 	SAY NAME2 @144
 WRITE_ASCII SCRIPT_OVERRIDE ~~ (8)
 WRITE_ASCII DIALOG ~~ (8)
-WRITE_ASCII DEATHVAR ~WITHARDE~ (8)
+WRITE_ASCII DEATHVAR ~WITHARDE~ (32)
 
 COPY ~Blackhearts/CRE/WIELAN.cre~ ~override/WIELAN.cre~
 	SAY NAME1 @145
 	SAY NAME2 @145
 WRITE_ASCII DIALOG ~~ (8)
-WRITE_ASCII DEATHVAR ~WIELAN~ (8)
+WRITE_ASCII SCRIPT_DEFAULT ~BPASIGHT~ (8)
+WRITE_ASCII DEATHVAR ~WIELAN~ (32)
 
 COPY_EXISTING ~NEGOB03.cre~ ~override/WIJELLY.cre~
 	SAY NAME1 @162
@@ -1204,7 +1226,7 @@ WRITE_ASCII DIALOG ~WIYUJEHL~ (8)
 COPY ~Blackhearts/CRE/WIPINATA.cre~ ~override/WIPINATA.cre~
 	SAY NAME1 @3323
 	SAY NAME2 @3323
-WRITE_ASCII DEATHVAR ~WIPINATA~ (8)
+WRITE_ASCII DEATHVAR ~WIPINATA~ (32)
 ADD_CRE_ITEM ~WISHLD01~ #0 #0 #0 ~none~ ~INV~
 
 APPEND ~mastarea.2da~
@@ -1235,7 +1257,7 @@ COPY ~Blackhearts/items/WIBHSLET.itm~ ~override/WIBHSLET.itm~
 	SAY NAME2 @6089
 	SAY UNIDENTIFIED_DESC @6090
 	SAY DESC @6090
-	
+
 COPY_EXISTING ~bdmisc53.ITM~ ~override/WIBOOK07.itm~
     SAY NAME1 @6266
     SAY NAME2 @6266
@@ -1251,23 +1273,23 @@ COPY_EXISTING ~SCRLDRA.ITM~ ~override/WIMISC13.itm~
 COPY ~Blackhearts/items/WISW1H07.itm~ ~override/WISW1H07.itm~
     SAY NAME2 @6268
     SAY DESC @6269
-	
-COPY ~Blackhearts/items/WIDAGG01.itm~ ~override/WIDAGG01.itm~	
+
+COPY ~Blackhearts/items/WIDAGG01.itm~ ~override/WIDAGG01.itm~
     SAY NAME2 @6531
     SAY DESC @6532
 
-COPY ~Blackhearts/items/WISTAF02.itm~ ~override/WISTAF02.itm~	
+COPY ~Blackhearts/items/WISTAF02.itm~ ~override/WISTAF02.itm~
     SAY NAME2 @6533
     SAY DESC @6534
 
-COPY ~Blackhearts/items/WIBOOK08.itm~ ~override/WIBOOK08.itm~	
+COPY ~Blackhearts/items/WIBOOK08.itm~ ~override/WIBOOK08.itm~
     SAY NAME2 @6732
     SAY DESC @6733
-	
+
 COPY_EXISTING ~bdbooknj.ITM~ ~override/WIBOOK09.itm~
     SAY NAME2 @6734
     SAY DESC @6735
-	
+
 COPY_EXISTING ~bdure3a.ITM~ ~override/WIBOOK10.itm~
     SAY NAME2 @6736
     SAY DESC @6737
@@ -1278,9 +1300,9 @@ COPY_EXISTING ~MISC1C.ITM~ ~override/WIBOOK11.itm~
 
 COPY ~Blackhearts/items/WISTAF03.ITM~ ~override/WISTAF03.itm~
     SAY NAME1 @6740
-    SAY NAME2 @6741
-    SAY DESC @6742
-    SAY UNIDENTIFIED_DESC @6743
+    SAY NAME2 @6742
+    SAY DESC @6743
+    SAY UNIDENTIFIED_DESC @6741
 
 COPY_EXISTING ~bdmisc41.ITM~ ~override/WIBOOK12.itm~
     SAY NAME2 @6744
@@ -1293,7 +1315,7 @@ COPY_EXISTING ~MISC71.ITM~ ~override/WIBOOK13.itm~
 COPY_EXISTING ~WIBOOK04.ITM~ ~override/WIBOOK14.itm~
     SAY NAME2 @6748
     SAY DESC @6749
-	
+
 COPY_EXISTING ~bdbooknj.ITM~ ~override/WIBOOK15.itm~
     SAY NAME2 @6750
     SAY DESC @6751
@@ -1318,7 +1340,7 @@ COPY ~Blackhearts/items/WIBRAC01.itm~ ~override/WIBRAC01.itm~
     SAY NAME2 @7131
     SAY DESC @7132
 
-COPY ~Blackhearts/items/WIBOOT02.itm~ ~override/WIBOOT02.itm~	
+COPY ~Blackhearts/items/WIBOOT02.itm~ ~override/WIBOOT02.itm~
     SAY NAME2 @7134
     SAY DESC @7135
 
@@ -1339,18 +1361,18 @@ COPY ~Blackhearts/CRE/WINERSOD.cre~ ~override/WINERSOD.cre~
 	SAY SELECT_COMMON1 @160
 	SAY SELECT_COMMON2 @161
 	SAY SELECT_COMMON3 @158
-WRITE_ASCII DIALOG ~WINersod~
-WRITE_ASCII DEATHVAR ~WINersod~
+WRITE_ASCII DIALOG ~WINersod~ (8)
+WRITE_ASCII DEATHVAR ~WINersod~ (32)
 
 COPY ~Blackhearts/CRE/WIBH2TAM.cre~ ~override/WIBH2TAM.cre~
-WRITE_ASCII DIALOG ~WIBH2TAM~
-WRITE_ASCII DEATHVAR ~WIBH2TAM~
-WRITE_ASCII SCRIPT_OVERRIDE ~WIBH2TAM~
+WRITE_ASCII DIALOG ~WIBH2TAM~ (8)
+WRITE_ASCII DEATHVAR ~WIBH2TAM~ (32)
+WRITE_ASCII SCRIPT_OVERRIDE ~WIBH2TAM~ (8)
 
 COPY ~Blackhearts/CRE/WIBH2WIN.cre~ ~override/WIBH2WIN.cre~
-WRITE_ASCII DIALOG ~WIBH2WIN~
-WRITE_ASCII DEATHVAR ~WIBH2WIN~
-WRITE_ASCII SCRIPT_OVERRIDE ~WIBH2WIN~
+WRITE_ASCII DIALOG ~WIBH2WIN~ (8)
+WRITE_ASCII DEATHVAR ~WIBH2WIN~ (32)
+WRITE_ASCII SCRIPT_OVERRIDE ~WIBH2WIN~ (8)
 
 COPY_EXISTING ~WIBH2WIN.cre~ ~override/WIBH2WI2.cre~
 ADD_CRE_ITEM ~WIBOOT02~ #0 #0 #0 ~IDENTIFIED~ ~INV~
@@ -1359,7 +1381,7 @@ ADD_CRE_ITEM ~WIBOOK20~ #0 #0 #0 ~IDENTIFIED~ ~INV~
 COPY ~Blackhearts/CRE/WIMESSEN.cre~ ~override/WIMESSEN.cre~
 	SAY NAME1 @6083
 	SAY NAME2 @6083
-WRITE_ASCII DIALOG ~WIMESSEN~
+WRITE_ASCII DIALOG ~WIMESSEN~ (8)
 
 COPY ~Blackhearts/CRE/WIBHSHA1.cre~ ~override/WIBHSHA1.cre~
 	SAY NAME1 @6264
@@ -1375,51 +1397,52 @@ COPY ~Blackhearts/CRE/WIOGRE02.cre~ ~override/WIOGRE02.cre~
 
 COPY ~Blackhearts/CRE/WICYNTHA.cre~ ~override/WICYNTHA.cre~
 ADD_CRE_ITEM ~WIMISC13~ #0 #0 #0 ~IDENTIFIED~ ~INV~
-WRITE_ASCII DIALOG ~WICYNTHA~
-WRITE_ASCII DEATHVAR ~WICYNTHA~
-WRITE_ASCII SCRIPT_CLASS ~WICYNTH~
+WRITE_ASCII DIALOG ~WICYNTHA~ (8)
+WRITE_ASCII DEATHVAR ~WICYNTHA~ (32)
+WRITE_ASCII SCRIPT_CLASS ~WICYNTH~ (8)
 
 COPY ~Blackhearts/CRE/WICYNTH2.cre~ ~override/WICYNTH2.cre~
 ADD_CRE_ITEM ~WIMISC13~ #0 #0 #0 ~IDENTIFIED~ ~INV~
-WRITE_ASCII DIALOG ~WICYNTHA~
-WRITE_ASCII DEATHVAR ~WICYNTHA~
-WRITE_ASCII SCRIPT_OVERRIDE ~WICYNTH~
+WRITE_ASCII DIALOG ~WICYNTHA~ (8)
+WRITE_ASCII DEATHVAR ~WICYNTHA~ (32)
+WRITE_ASCII SCRIPT_OVERRIDE ~WICYNTH~ (8)
 
 COPY ~Blackhearts/CRE/WISPIRIT.cre~ ~override/WISPIRIT.cre~
 	SAY NAME1 @6472
 	SAY NAME2 @6472
-WRITE_ASCII DIALOG ~WISPIRIT~
+WRITE_ASCII DIALOG ~WISPIRIT~ (8)
 
 COPY ~Blackhearts/CRE/WISAREV.cre~ ~override/WISAREV.cre~
 	SAY NAME1 @6484
 	SAY NAME2 @6484
 WRITE_ASCII SCRIPT_OVERRIDE ~WISAREV~
-WRITE_ASCII DIALOG ~WISAREV~
-WRITE_ASCII DEATHVAR ~WISAREV~
+WRITE_ASCII DIALOG ~WISAREV~ (8)
+WRITE_ASCII DEATHVAR ~WISAREV~ (32)
 
 COPY ~Blackhearts/CRE/WIREDWOM.cre~ ~override/WIREDWOM.cre~
 	SAY NAME1 @6485
 	SAY NAME2 @6485
-WRITE_ASCII SCRIPT_OVERRIDE ~WIREDWOM~
-WRITE_ASCII DIALOG ~WIREDWOM~
-WRITE_ASCII DEATHVAR ~WIREDWOM~
+WRITE_ASCII SCRIPT_OVERRIDE ~WIREDWOM~ (8)
+WRITE_ASCII DIALOG ~WIREDWOM~ (8)
+WRITE_ASCII DEATHVAR ~WIREDWOM~ (32)
 
 COPY ~Blackhearts/CRE/WIREDWO2.cre~ ~override/WIREDWO2.cre~
 	SAY NAME1 @6485
 	SAY NAME2 @6485
-WRITE_ASCII SCRIPT_OVERRIDE ~WIREDWOM~
-WRITE_ASCII DIALOG ~WIREDWOM~
-WRITE_ASCII DEATHVAR ~WIREDWOM~
+WRITE_ASCII SCRIPT_OVERRIDE ~WIREDWOM~ (8)
+WRITE_ASCII DIALOG ~WIREDWOM~ (8)
+WRITE_ASCII DEATHVAR ~WIREDWOM~ (32)
 
 COPY ~Blackhearts/CRE/WICULT1.cre~ ~override/WICULT1.cre~
 	SAY NAME1 @6507
 	SAY NAME2 @6507
-WRITE_ASCII SCRIPT_OVERRIDE ~WICULT1~
-WRITE_ASCII DEATHVAR ~WICULT1~
+WRITE_ASCII SCRIPT_OVERRIDE ~WICULT1~ (8)
+WRITE_ASCII DEATHVAR ~WICULT1~ (32)
 
 COPY ~Blackhearts/CRE/WIOOZE.cre~ ~override/WIOOZE.cre~
 	SAY NAME1 @6508
 	SAY NAME2 @6508
+REMOVE_CRE_ITEM ~BDMISC04~ ~inv1~
 
 COPY ~Blackhearts/CRE/WITREANT.cre~ ~override/WITREANT.cre~
 	SAY NAME1 @6530
@@ -1429,23 +1452,23 @@ ADD_CRE_ITEM ~WISTAF02~ #0 #0 #0 ~none~ ~INV~
 COPY ~Blackhearts/CRE/WISLAYER.cre~ ~override/WISLAYER.cre~
 	SAY NAME1 @6538
 	SAY NAME2 @6538
-WRITE_ASCII DIALOG ~WISLAYER~
-WRITE_ASCII SCRIPT_OVERRIDE ~WISLAYER~
-WRITE_ASCII DEATHVAR ~WISLAYER~
+WRITE_ASCII DIALOG ~WISLAYER~ (8)
+WRITE_ASCII SCRIPT_OVERRIDE ~WISLAYER~ (8)
+WRITE_ASCII DEATHVAR ~WISLAYER~ (32)
 
 COPY ~Blackhearts/CRE/WISLAYD.cre~ ~override/WISLAYD.cre~
 
 COPY ~Blackhearts/CRE/WICONSC1.cre~ ~override/WICONSC1.cre~
 	SAY NAME1 @6701
 	SAY NAME2 @6701
-WRITE_ASCII DIALOG ~WICONSC1~
-WRITE_ASCII SCRIPT_OVERRIDE ~WICONSC~
+WRITE_ASCII DIALOG ~WICONSC1~ (8)
+WRITE_ASCII SCRIPT_OVERRIDE ~WICONSC~ (8)
 
 COPY ~Blackhearts/CRE/WICONSC2.cre~ ~override/WICONSC2.cre~
 	SAY NAME1 @6701
 	SAY NAME2 @6701
-WRITE_ASCII DIALOG ~WICONSC2~
-WRITE_ASCII SCRIPT_OVERRIDE ~WICONSC~
+WRITE_ASCII DIALOG ~WICONSC2~ (8)
+WRITE_ASCII SCRIPT_OVERRIDE ~WICONSC~ (8)
 
 COPY ~Blackhearts/CRE/WICONSC3.cre~ ~override/WICONSC3.cre~
 	SAY NAME1 @7139
@@ -1454,7 +1477,7 @@ COPY ~Blackhearts/CRE/WICONSC3.cre~ ~override/WICONSC3.cre~
 COPY ~Blackhearts/CRE/WIHARSP1.CRE~ ~override/WIHARSP1.CRE~
 	SAY NAME1 @6806
 	SAY NAME2 @6806
-WRITE_ASCII DIALOG ~WIHARSP1~
+WRITE_ASCII DIALOG ~WIHARSP1~ (8)
 
 COPY ~Blackhearts/CRE/WIHARSP2.CRE~ ~override/WIHARSP2.CRE~
 	SAY NAME1 @6806
@@ -1462,11 +1485,11 @@ COPY ~Blackhearts/CRE/WIHARSP2.CRE~ ~override/WIHARSP2.CRE~
 
 COPY ~Blackhearts/Areas/SODAREAS~ ~override~
 
-EXTEND_TOP ~BD0109.bcs~ ~Blackhearts/Scripts/BD0109.baf~ 
-EXTEND_BOTTOM ~BD7100.bcs~ ~Blackhearts/Scripts/BD7100.baf~ 
+EXTEND_TOP ~BD0109.bcs~ ~Blackhearts/Scripts/BD0109.baf~
+EXTEND_BOTTOM ~BD7100.bcs~ ~Blackhearts/Scripts/BD7100.baf~
 EXTEND_TOP ~WIBH12.bcs~ ~Blackhearts/Scripts/WIBH12.baf~
-EXTEND_TOP ~BD3000.bcs~ ~Blackhearts/Scripts/BD3000.baf~ 
-EXTEND_TOP ~WIBH13.bcs~ ~Blackhearts/Scripts/WIBH13.baf~ 
+EXTEND_TOP ~BD3000.bcs~ ~Blackhearts/Scripts/BD3000.baf~
+EXTEND_TOP ~WIBH13.bcs~ ~Blackhearts/Scripts/WIBH13.baf~
 EXTEND_TOP ~WIBH17.bcs~ ~Blackhearts/Scripts/WIBH17.baf~
 EXTEND_TOP ~WIBH14.bcs~ ~Blackhearts/Scripts/WIBH14.baf~
 EXTEND_TOP ~WIBH15.bcs~ ~Blackhearts/Scripts/WIBH15.baf~
@@ -1477,13 +1500,13 @@ ADD_MAP_NOTE #1369 #943 ~red~ @6263
 
   LPF fj_are_structure
     INT_VAR
-    fj_type         = 2   
+    fj_type         = 2
     fj_box_left     = 1358
     fj_box_top      = 992
     fj_box_right    = 1461
     fj_box_bottom   = 1059
     fj_cursor_idx   = 42
-    fj_vertex_0     = 1358 + (992 << 16) 
+    fj_vertex_0     = 1358 + (992 << 16)
     fj_vertex_1     = 1461 + (992 << 16)
     fj_vertex_2     = 1461 + (1059 << 16)
     fj_vertex_3     = 1358 + (1059 << 16)
@@ -1493,17 +1516,17 @@ ADD_MAP_NOTE #1369 #943 ~red~ @6263
     fj_destination_area = WIBH11
     fj_destination_name = Entrance1
   END
- 
+
    LPF fj_are_structure
     INT_VAR
-    fj_loc_x       = 1503 
-    fj_loc_y       = 1056 
-    fj_orientation = 0  
+    fj_loc_x       = 1503
+    fj_loc_y       = 1056
+    fj_orientation = 0
     STR_VAR
     fj_structure_type = entrance
     fj_name           = EXITBH11
   END
-  
+
    LPF fj_are_structure
     INT_VAR
     fj_loc_x       = 1344
@@ -1514,14 +1537,14 @@ ADD_MAP_NOTE #1369 #943 ~red~ @6263
     fj_structure_type = animation
     fj_name           = WIBHD1
     fj_bam_resref     = WIBHD1
-  END	
+  END
 
 APPEND ~mastarea.2da~
 ~WIBH13  value~
 
 APPEND ~mastarea.2da~
 ~WIBH15  value~
-		
+
 COPY_EXISTING ~WIBH13.are~ ~override~
 		LPF ALTER_AREA_REGION
 			INT_VAR
@@ -1554,7 +1577,7 @@ PRINT ~Icons added to SoD map.
 			OUTER_SPRINT "game_worldmap" "sodmap"
 
 		INCLUDE ~%MOD_FOLDER%/lib/add_map_icons.tpa~ // sodmap.wmp isn't a v2 bam file so using oBG version.
-		
+
 	LAF ADD_MAP_ICONS
       INT_VAR
         icon_index = 0 // sequence (cycle) number of your first icon in your .bam, indexed from 0
@@ -1584,7 +1607,7 @@ PRINT ~Icons added to SoD map.
 			path_to_trans = EVAL ~%MOD_FOLDER%/tra/%LANGUAGE%/BHBG1worldmap.tra~
 			worldmap = EVAL ~%game_worldmap%~
 		END
-		
+
 END
 
 ACTION_IF GAME_IS ~eet~ THEN BEGIN
@@ -1595,7 +1618,7 @@ PRINT ~Icons added to EET map.
 			OUTER_SPRINT "game_worldmap" "worldmap"
 
 		INCLUDE ~%MOD_FOLDER%/lib/add_map_icons_ee.tpa~
-		
+
 	LAF ADD_MAP_ICONS_EE
       INT_VAR
         icon_index = 0 // sequence (cycle) number of your first icon in your .bam, indexed from 0
@@ -1614,7 +1637,7 @@ PRINT ~Icons added to EET map.
       END
 
 		INCLUDE ~%MOD_FOLDER%/lib/add_worldmap_tbl.tpa~
-		
+
 		LAF ADD_WORLDMAP_TBL
 			INT_VAR
 				verbose = 1
@@ -1636,7 +1659,7 @@ PRINT ~Icons assets in case BP-BGT-Worldmap will be installed.
 ~
 
 	ACTION_IF FILE_EXISTS ~Worldmap/map_mods_areas.tbl~ THEN BEGIN
-  
+
 		COPY ~Worldmap/map_mods_areas.tbl~		~Worldmap~
 			APPEND_FILE ~Blackhearts/Worldmap/areas.tbl~
 
@@ -1649,7 +1672,7 @@ PRINT ~Icons assets in case BP-BGT-Worldmap will be installed.
 	END ELSE BEGIN
 
 		MKDIR ~Worldmap~
-	
+
 		COPY ~Blackhearts/Worldmap/areas.tbl~							~Worldmap/map_mods_areas.tbl~
 
 		COPY ~Blackhearts/Worldmap/links.tbl~							~Worldmap/map_mods_links.tbl~

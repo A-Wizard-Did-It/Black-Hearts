@@ -1,4 +1,33 @@
 IF
+	Allegiance("Marl",ENEMY)
+	!Dead("Marl")
+	AreaCheck("%Beregost_FeldepostsInn_L1%")
+	IsActive(Myself)
+THEN
+	RESPONSE #100
+		DisplayStringHead(Myself,~I'm not getting involved in petty fights.~)
+		ApplySpell(Myself,WIZARD_INVISIBILITY)  // SPWI206.SPL (Invisibility)
+		Wait(1)
+		Deactivate(Myself)
+END
+
+IF
+	OR(4)
+		!Allegiance("Marl",ENEMY)
+		Dead("Marl")
+		!InMyArea("Marl")
+		!Exists("Marl")
+	AreaCheck("%Beregost_FeldepostsInn_L1%")
+	!IsActive(Myself)
+THEN
+	RESPONSE #100
+		Activate(Myself)
+		Wait(1)
+		ApplySpell(Myself,CLERIC_INVISIBILITY_PURGE)
+		DisplayStringHead(Myself,~At last, it's settled.~)
+END
+
+IF
 	Global("Chapter","GLOBAL",7)
 	Global("BHBG1Quest","GLOBAL",16)
 	Global("IllaseraCellerBuff","LOCALS",0)
@@ -30,6 +59,7 @@ IF
 	HPPercentLT(Myself,10)
 	!Dead("Sarevok")
 	!StateCheck("WIILLASE",CD_STATE_NOTVALID)
+	See(Player1)
 THEN
 	RESPONSE #100	
 		SetGlobal("BHBG1QuestFinal","%Undercity_TempleofBhaal%",2)
@@ -43,10 +73,10 @@ IF
 	Global("BHBG1QuestFinal","%Undercity_TempleofBhaal%",1)
 	Dead("Sarevok")
 	!StateCheck("WIILLASE",CD_STATE_NOTVALID)
+	See(Player1)
 THEN
 	RESPONSE #100	
 		SetGlobal("BHBG1QuestFinal","%Undercity_TempleofBhaal%",2)
-		MoveToObject(Player1)
 		ChangeEnemyAlly(Myself,NEUTRAL)
 		DisplayStringHead(Myself,@5032)
 		SmallWait(3)

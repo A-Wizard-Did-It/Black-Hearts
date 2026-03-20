@@ -356,7 +356,7 @@ END
 		++ @3072 + ne22.3
 
 CHAIN WInerys ne22.3
-	@3074 DO ~GiveItemCreate("WIBOOK06",Player1,0,0,0)~ EXTERN WInerys ne22.4
+	@3074 DO ~GiveItemCreate("WIBOOK06",Player1,0,0,0) SetGlobal("WIHarperBook","GLOBAL",3)~ EXTERN WInerys ne22.4
 
 CHAIN WInerys ne22.4
 	@3075

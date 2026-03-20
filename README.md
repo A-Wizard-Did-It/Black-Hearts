@@ -2,12 +2,29 @@
 ## Black Hearts Part 1 and Part 2
 *****************************************
 
+[![Release](https://img.shields.io/github/v/release/A-Wizard-Did-It/Black-Hearts?include_prereleases&color=41788a)](https://github.com/A-Wizard-Did-It/Black-Hearts/releases)
+[![Published](https://img.shields.io/github/release-date-pre/A-Wizard-Did-It/Black-Hearts?display_date=published_at&label=published&color=014a69)](https://github.com/A-Wizard-Did-It/Black-Hearts/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/A-Wizard-Did-It/Black-Hearts/total?color=41788a)](https://github.com/A-Wizard-Did-It/Black-Hearts/releases)
+
+[![Language](https://img.shields.io/badge/language-English%20%7C%20Chinese%20%7C%20Portugues-014a69)](https://github.com/A-Wizard-Did-It/Black-Hearts/releases)
+[![Games](https://img.shields.io/badge/games-BGT%20%a0%20BG%3AEE%20%a0%20EET-41788a)](https://github.com/A-Wizard-Did-It/Black-Hearts/releases)
+
+<!--
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FA-Wizard-Did-It%2FBlack-Hearts&countColor=41788a&style=flat)
+
+[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-014a69)](https://github.com/A-Wizard-Did-It/Black-Hearts/releases)
+-->
+
 #### A mod for BGEE, SoD, BG2EE and EET!
 
 
 ### Compatibility :
 
-- Black Hearts need to be installed before [Brandock the Mage](https://github.com/Gitjas/Brandock_the_Mage?tab=readme-ov-file)
+- Black Hearts need to be installed before : 
+  - [Brandock the Mage](https://github.com/Gitjas/Brandock_the_Mage?tab=readme-ov-file)
+  - [Finch NPC](https://github.com/Pocket-Plane-Group/Finch_NPC)
+  - [BP-BGT-Worldmap](https://github.com/Spellhold-Studios/BP-BGT-Worldmap)
 
 
 ### Introduction :
@@ -213,7 +230,7 @@ For any issues had with the mod, make a report through github or contact me at m
 	- Addition of a few more quest journal entries for added clarity when pursuing the Night Knives. 
 
 - Version 2.01
-  	- Update Cythandria's script to correctly set her active variable after death
+  	- Update Cythandria's script to correctly set her active variable after death.
 
 - Version 2.02
   	- Fix to harper manor info points.
@@ -221,8 +238,28 @@ For any issues had with the mod, make a report through github or contact me at m
 - Version 2.03
   	- Chinese translation for SOD by Lzw104522773
   	- Add different BG game icons to SoDMap for Black-Hearts areas.
-  	- Fix to issue causing added spells to appear in divine spell book
+  	- Fix to issue causing added spells to appear in divine spell book.
   	- Small change to quest flow for narrative improvement.
+
+- Version 2.04
+  	- Brazilian Portuguese translation by DarthNihilus530.
+  	- Make Astral Gemstones critical Items.
+  	- Blane.d and bran.d rewrite.
+  	- Tamoko move for EET.
+	- WIRIEZEN edge cases.
+	- Irrelevant cursors icons for traps.
+	- Misplaced tra reference for WISTAF03.itm
+	- Remove duplicated `@6295` for `@6296` in WICYNTHA.d.
+	- `@6357` tam3.10 edit.
+	- Safana / Illasera banters fix.
+	- Nerys leave Elfsong tavern in SoD.
+	- Make sure night mask leave central BG.
+	- Missing %IMOEN_DV%.
+	- Remove BDMISC04.it from WIOOZE.cre.
+	- Lenght for DIALOG / SCRIPT_ / DEATHVAR.
+	- Rename setup-Blackhearts.tp2 to Blackhearts.tp2.
+	- WeiduModPackager.
+	- Jarl Adventure Pack (Marl) compatibility.
 
 
 **Special thanks for reporting issues and helping :**
@@ -235,4 +272,6 @@ For any issues had with the mod, make a report through github or contact me at m
 - Sour  
 - Leith
 - Basicals
-- Many other people from the Beamdog thread  
+- SonnePw
+- Jastey
+- Many others

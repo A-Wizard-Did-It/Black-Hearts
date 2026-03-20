@@ -4,10 +4,9 @@ IF
 	Global("BHTamokoState","GLOBAL",1)
 
 THEN
-RESPONSE #100
-	SetGlobal("BHSODNPC1spawn","BD7100",1)
-	CreateCreature("WIBH2TAM",[934.2664],SW) 
-	
+	RESPONSE #100
+		SetGlobal("BHSODNPC1spawn","BD7100",1)
+		CreateCreature("WIBH2TAM",[934.2664],SW) 
 END
 
 IF
@@ -17,8 +16,17 @@ IF
 	Global("BHTamokoState","GLOBAL",0)
 
 THEN
-RESPONSE #100
-	SetGlobal("BHSODNPC1spawn","BD7100",1)
-	CreateCreature("WIBH2WIN",[934.2664],SW) 
-	
+	RESPONSE #100
+		SetGlobal("BHSODNPC1spawn","BD7100",1)
+		CreateCreature("WIBH2WIN",[934.2664],SW) 
+END
+
+IF
+	GlobalGT("Chapter","GLOBAL",9)
+	GlobalGT("BH2Quest","GLOBAL",1)
+	Global("BH_TamokoLeave","MYAREA",0)
+THEN
+	RESPONSE #100
+		SetGlobal("BH_TamokoLeave","MYAREA",1)
+		ActionOverride("WIBH2TAM",DestroySelf())
 END

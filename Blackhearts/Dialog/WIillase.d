@@ -578,7 +578,7 @@ CHAIN IF ~IsGabber("Safana") GlobalGT("BHBG1Quest","GLOBAL",6) Global("IllaSafan
 	== %IMOEN_JOINED% IF ~InParty("%IMOEN_DV%") InMyArea("%IMOEN_DV%") !StateCheck("%IMOEN_DV%",CD_STATE_NOTVALID)~ THEN @1079
 	== SAFANJ @1080 DO ~StartCutSceneEx("WIcuts26",TRUE) StartCutSceneMode()~ EXIT
 
-CHAIN IF ~InMyArea("Safana") GlobalGT("BHBG1Quest","GLOBAL",6) Global("IllaSafanaBanter","GLOBAL",2)~ THEN WIillase ilSa3
+CHAIN IF ~IsGabber("Safana") GlobalGT("BHBG1Quest","GLOBAL",6) Global("IllaSafanaBanter","GLOBAL",2)~ THEN WIillase ilSa3
 	@1081
 	== SAFANJ @1082
 	== WIillase @1083
@@ -588,7 +588,7 @@ CHAIN IF ~InMyArea("Safana") GlobalGT("BHBG1Quest","GLOBAL",6) Global("IllaSafan
 	== SAFANJ @1087
 	== WIillase @1088 DO ~SetGlobal("IllaSafanaBanter","GLOBAL",3)~ EXIT
 
-CHAIN IF ~InMyArea("Safana") GlobalGT("BHBG1Quest","GLOBAL",16) Global("IllaSafanaBanter","GLOBAL",4)~ THEN WIillase ilSa4
+CHAIN IF ~IsGabber("Safana") GlobalGT("BHBG1Quest","GLOBAL",16) Global("IllaSafanaBanter","GLOBAL",4)~ THEN WIillase ilSa4
 	@1089
 	== SAFANJ @1090
 	== WIillase @1091

@@ -311,23 +311,23 @@ END
 
 // Firebeard Interjections
 
-EXTEND_TOP FIREBE 2
+EXTEND_BOTTOM FIREBE 2
 +~Global("BHBG1Quest","GLOBAL",4) Global("KnowEroBook","GLOBAL",1) !PartyHasItem("WIBOOK02")~ + @2768 + WIFireb1
 END
 
-EXTEND_TOP FIREBE 4
+EXTEND_BOTTOM FIREBE 4
 +~Global("BHBG1Quest","GLOBAL",4) Global("KnowEroBook","GLOBAL",1) !PartyHasItem("WIBOOK02")~ + @2768 + WIFireb1
 END
 
-EXTEND_TOP FIREBE 3
+EXTEND_BOTTOM FIREBE 3
 +~Global("BHBG1Quest","GLOBAL",4) Global("KnowEroBook","GLOBAL",1) !PartyHasItem("WIBOOK02")~ + @2768 + WIFireb1
 END
 
-EXTEND_TOP FIREBE 5
+EXTEND_BOTTOM FIREBE 5
 +~Global("BHBG1Quest","GLOBAL",4) Global("KnowEroBook","GLOBAL",1) !PartyHasItem("WIBOOK02")~ + @2768 + WIFireb1
 END
 
-EXTEND_TOP FIREBE 6
+EXTEND_BOTTOM FIREBE 6
 +~Global("BHBG1Quest","GLOBAL",4) Global("KnowEroBook","GLOBAL",1) !PartyHasItem("WIBOOK02")~ + @2768 + WIFireb1
 END
 
@@ -386,7 +386,7 @@ EXTEND_BOTTOM ALATOS 17
 IF ~~ THEN EXIT
 END
 
-EXTEND_TOP ALATOS 20
+EXTEND_BOTTOM ALATOS 20
 + ~Global("BHBG1Quest","GLOBAL",13) Global("BHBG1QuestTHF","GLOBAL",0)~ + @2781 + WIALATOS2
 + ~Global("BHBG1Quest","GLOBAL",13) Global("BHBG1QuestTHF","GLOBAL",1) PartyHasItem("WIAMUL02")~ + @2782 + WIALATOS12
 END

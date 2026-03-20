@@ -370,7 +370,7 @@ END
 		++ @6356 + tam3.10 // Go on then.
 
 CHAIN WIBH2TAM tam3.10
-	@6357 // To become a Deathbringer required Bhaal's own tainted blood, drinking from a spilled vein from his Avatar-form. For one of Bhaal's spawn, they were considered doubly blessed, and the greatest of all Deathbringers, but an imbibing of black blood was still necessary. It also required one to be a kin-killer, to have slain their sibling, parent, or child. Finally, the rite would be conducted by a High Deathstalker, who sharpened the essence of death inside them to become its instrument.
+	@6357 // To become a Deathbringer required Bhaal's own tainted blood, drinking from a spilled vein from his Avatar-form. For one of Bhaal's progeny, they were considered doubly blessed, and the greatest of all Deathbringers, but an imbibing of black blood was still necessary. It also required one to be a kin-killer, to have slain their sibling, parent, or child. Finally, the rite would be conducted by a High Deathstalker, who sharpened the essence of death inside them to become its instrument. // Ending different in tra
 END
 		++ @6358 + tam3.11 // His progeny? How many progeny did Bhaal have?
 		++ @6359 + tam3.12 // How could Sarevok have obtained that blood?

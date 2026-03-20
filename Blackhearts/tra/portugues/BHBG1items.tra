@@ -1,0 +1,746 @@
+@16=~Elmo~
+@17=~Este tipo de elmo de baveta aberta, feito de couro reforçado ou metal, cobre a maior parte da cabeça, exceto o rosto e o pescoço. Esses elmos normalmente oferecem proteção para o nariz.
+
+ESTATÍSTICAS:
+
+Habilidades ao equipar:
+– Protege contra acertos críticos
+
+Peso: 2~
+
+@18=~Elmo dos Golpes Duros~
+@19=~Este elmo não possui nenhum encantamento, mas parece ser reforçado com peles habilmente posicionadas, concedendo ao usuário um pouco mais de proteção contra pancadas na cabeça. Infelizmente, ele exala um forte cheiro de cerveja velha, e você suspeita que nenhuma quantidade de lavagem será capaz de removê-lo por completo.
+
+ESTATÍSTICAS:
+
+Habilidades ao equipar:
+- Pontos de Vida: +3
+– Protege contra acertos críticos
+
+Peso: 2~
+
+@22=~Espada Bastarda Caçadoras de Humanos~
+@23=~Também conhecida como espada de mão-e-meia, a espada bastarda recebe esse nome por ficar entre a espada longa e a espada de duas mãos.
+
+Esta espada velha e maltratada recebeu um encantamento de perdição, tornando-a particularmente eficaz em abater humanos. O sangue parece manchar permanentemente sua lâmina lascada. Apenas empunhar uma arma como essa costuma ser visto como sinal da perversidade de seu portador, mas praticidade e virtude raramente caminham juntas.
+
+ESTATÍSTICAS:
+
+-2 Carisma
+
+THAC0: +1
+Dano: 2d4+1, +3 contra humanos
+Fator de Velocidade: 7
+Tipo de Proficiência: Espada Bastarda
+Tipo: Uma mão
+Requer:
+ Força 11
+
+Peso: 9~
+
+@26=~Livro de Magias de Sazazir~
+@27=~Este tomo pesado contém os feitiços e escritos de Sazazir. A maior parte é indecifrável, embora você tenha conseguido extrair algumas páginas com magias que puderam ser copiadas. Pelo que é possível perceber, o restante do livro é composto, em grande parte, pelos delírios de um homem louco; aterrorizado por algum tipo de contador de um antigo culto, que estaria decidido a assassiná-lo. Há também várias passagens sobre como ele frequentemente era tomado por um medo quase paralisante ao pensar que o próprio esqueleto seria o próximo a traí-lo.
+
+ESTATÍSTICAS:
+
+Peso: 6~
+
+@31=~Bolsa que Comporta uma Quantidade Normal de Coisas~
+@32=~Outrora uma lendária bolsa de contenção, parece que o encantamento que fazia a bolsa se abrir para uma dimensão de bolso foi interrompido. Agora ela é apenas uma bolsa comum e mundana em todos os aspectos, e portanto bastante inútil.
+
+ESTATÍSTICAS:
+
+Peso: 1~
+
+@33=~Cópia do Liberus Optimae Erositica~
+@34=~Embora não seja o genuíno Liberus Optimae Erositica, este volume copiado parece ser uma reprodução fiel da obra original. Ao examinar a capa bastante sugestiva, você fica tentado a abri-lo para folhear o conteúdo lascivo do livro, mas os olhares julgadores de seus companheiros rapidamente reprimem esse impulso. Pelo menos, até que você encontre algum tempo em particular.
+
+ESTATÍSTICAS:
+
+Peso: 10~
+
+@35=~Tomo de Manuscritos~
+@36=~Este tomo contém os manuscritos da dramaturga (e suposta Harpista) Salena Fairsky, incluindo peças populares como “O Enigma de Merryweather” e “Sussurre os Seis”.
+
+As peças de Salena são bem conhecidas por serem belamente escritas, com personagens que exploram temas cíclicos da natureza humanoide. Os críticos, no entanto, frequentemente desaprovaram sua obra por ser excessivamente melodramática e por depender de finais em estilo deus ex machina para resolver os conflitos centrais das peças.
+
+As últimas páginas contêm a última peça inacabada de Salena, intitulada “Coração Negro”. Ela narra a história de uma mulher chamada a “Cardeal”, que corteja “O Homem Pálido”, o mesmo que assassinou sua família quando ela ainda era criança. Ao que tudo indica, ao conquistar sua confiança, ela pretendia usar o relacionamento para destruí-lo. O clímax da peça gira em torno de suas tentativas de colocar os filhos do Homem Pálido uns contra os outros, destruindo sua família assim como a dela fora destruída. Na cena final, ela permanece triunfante, mas sua pele começa a assumir a palidez mortífera do Homem Cinzento, e ela percebe que se tornou ele — e, ao fazê-lo, tornou-se escrava de um ciclo eterno.~
+
+@37=~Anel de Resistência Mágica Menor~
+@38=~Anéis de Resistência Mágica são um acessório comum entre os guerreiros de Rashemen, usados para protegê-los de seus odiados rivais, os Magos Vermelhos de Thay. Mais de uma vez, um Mago Vermelho lançou uma bola de fogo sobre um grupo de guerreiros de Rashemen, apenas para encontrá-los ilesos pelas chamas e avançando diretamente contra ele.
+
+ESTATÍSTICAS:
+
+Habilidades ao equipar:
+- 10% de Resistência Mágica
+
+Peso: 0~
+
+@42=~Vidro da Eternidade Maculado~
+@43=~Você encontrou este item com um grupo de aventureiros enlouquecidos que o atacaram enquanto uivavam de forma absolutamente sobrenatural. Embora este objeto supostamente seja uma Lente da Visão Verdadeira, sua superfície apresenta várias imperfeições e, quando você olha brevemente para o reflexo, vê uma presença sombria pairando atrás de você. Você rapidamente envolveu o item em um pano para cobri-lo, na esperança de que isso iniba a magia vil que o impregnou.~
+
+@62=~Lâmina Sangrante~
+@63=~Esta katana de tonalidade carmesim foi imbuída com um encantamento que faz com que aqueles atingidos por ela continuem sangrando lentamente. A história exata da lâmina está envolta em mistério, embora se saiba que ela já foi empunhada por muitos assassinos. Alguns até suspeitam que ela tenha passado pelas mãos de vários Caça-Mortes, sendo responsável pelo fim horrível de diversos nobres e figuras políticas ao longo dos anos.
+
+ESTATÍSTICAS:
+
+Habilidades de combate:
+- 2 pontos de dano extra por sangramento a cada rodada até totalizar 10 pontos de dano
+
+THAC0: +1
+Dano: 1d10+1 (cortante)
+Fator de Velocidade: 3
+Tipo de Proficiência: Katana
+Tipo: Uma mão
+Requer:
+ Força 6
+ 
+Peso: 5~
+
+@59=~Vidro da Eternidade Quebrado~
+@60=~Embora supostamente tenha sido um item mágico poderoso, o Vidro da Eternidade agora está quebrado e arruinado, com sua armação torta e danificada, e o vidro que teria sido encantado com visão verdadeira simplesmente desaparecido sem deixar vestígios. Você não imagina que isso valha alguma coisa para quem quer que seja.~
+
+@66=~Carta~
+@67=~MARCADOR DE LUGAR~
+
+@71=~Este era um dos filhotes de aranha que explodiram para fora do corpo do homem dentro da Taverna Elfsong, crescendo instantaneamente de tamanho ao emergir. Há algo de especialmente repulsivo em carregar o corpo dessa aranha depois que ela esteve rastejando dentro do corpo de um homem. Fragmentos de suas vísceras ainda se agarram às pernas de bordas antinaturais da criatura.~
+
+@80=~Peitoral do Aracnídeo~
+@81=~Esta armadura de couro é revestida com fios sedosos de teias de aranha, que fornecem excelente proteção e também um curioso efeito secundário: quando o usuário da armadura é atingido, as teias se projetam sobre o agressor, prendendo-o em teias por um curto período. Isso funciona mesmo quando o ataque vem à distância. Essas armaduras são comuns no Subterrâneo, usadas por druidas exilados que cuidam de bosques de cogumelos ou das muitas criaturas estranhas desses reinos sombrios.
+
+ESTATÍSTICAS:
+
+Habilidades ao equipar:
+– 30% de chance de prender atacantes conforme a magia Teia, a menos que obtenham sucesso em um teste de resistência.
+
+Classe de Armadura: 7 (9 contra perfuração e projéteis)
+Requer:
+ Força 4
+
+Peso: 10~
+
+@82=~Presente de Sendai~
+@83=~Você recuperou este colar espinhoso do Harpista renegado Riezen Darkeyes. Ele possui um fraco encantamento protetor, concedendo um pequeno bônus à Classe de Armadura e aos testes de resistência. No colar há uma mensagem inscrita na língua drow.
+
+“Para meu amante tocado pelo sol. Realize suas grandes obras pensando em meus lábios sombrios.”
+
+ESTATÍSTICAS:
+
+Habilidades ao equipar:
+– Classe de Armadura: +1
+– Testes de Resistência: +1
+
+Peso: 1~
+
+@84=~Diário Codificado de Riezen Darkeyes~
+@85=~Você recuperou este diário do Harpista renegado, Riezen Darkeyes. No entanto, a escrita contida nele está codificada em um código elaborado impossível de decifrar. Ao folhear as páginas, você suspeita que levaria meses, senão anos, para um especialista em criptografia conseguir decifrá-lo por completo.
+
+Peso: 5~
+
+@89=~Colar de Brilla~
+
+@90=~Carta Inacabada~
+@91=~Krollir,
+
+Relatório de Status — Continuamos monitorando de perto a situação em Baldur's Gate. Acredito que suas suspeitas sobre algo grande estar acontecendo aqui não eram infundadas. O Trono de Ferro continua a manipular a região e a consolidar seu poder. Seria prudente estabelecer uma parceria com eles agora; parecem ser o tipo que pagaria muito bem por nossos serviços.
+
+Também espionamos um enclave de Magos Vermelhos no meio da cidade. Acreditamos que eles estejam alinhados com o Trono de Ferro, embora, como você disse, as informações indiquem que não há uma relação formalizada entre as duas entidades. De nossas próprias investigações, os Magos Vermelhos daqui são liderados por uma mulher chamada Cherise, alguém com um histórico curioso segundo nossas descobertas. Ela faz parte da antiga ordem de cultistas, como muitos daqueles que fomos instruídos a eliminar por nosso cliente na região. Pode ser complicado se nos pedirem para assassiná-la, e naturalmente deixarei a seu critério decidir se devemos prosseguir ou não.
+
+Como complemento a este relatório de status, agora mantemos sob nossa custódia uma agente Harpista que fomos informados estar investigando a área. É frustrante termos sido instruídos a mantê-la em boas condições, quando extrair seus segredos Harpistas poderia ser muito mais divertido. Posso dizer que não gosto de trabalhar para um cliente que guarda mais segredos do que nós. Dito isso, estamos próximos de um avanço nisso também. Em breve teremos a ident-
+
+*A carta parece terminar aqui, provavelmente interrompida pelo seu ataque contra as Facas Noturnas*~
+
+@92=~Fortuna Emprestada~
+@93=~Loyle Nosbrun era um apostador prodigioso, um homem que nunca saía de casa sem fazer uma aposta e nunca retornava sem fazer mais duas. Embora tal estilo de vida seja certamente um caminho para o desastre para a maioria, Loyle sempre encontrava uma saída ou uma reviravolta inesperada da sorte que quitava suas dívidas, permitindo-lhe viver para apostar mais um dia. Alguns atribuíam essa sorte antinatural à espada chamativa que ele carregava na cintura, da qual nunca parecia se separar.
+
+No entanto, até mesmo a boa sorte de Loyle acabou se esgotando quando ele se viu em um covil de criminosos, acumulando uma dívida que saiu completamente do controle. Ao falar com o Lorde do Crime no centro do esquema, Loyle fez uma última aposta: um único lançamento de dado desfavorável que ou limparia suas dívidas, ou o escravizaria para sempre aos caprichos do Lorde do Crime. Empunhando sua espada e depositando um beijo em sua lâmina, ele rolou o dado, que improbavelmente caiu a seu favor. Com um suspiro de alívio, Loyle deixou o covil criminoso. Momentos depois de sair, ele foi, de forma igualmente improvável, esmagado por uma vaca que havia se soltado das garras de um wyvern voando bem acima.
+
+Ao pegar a lâmina, você sente sua sorte melhorar consideravelmente. No entanto, também sente um leve subcorrente de temor, percebendo que essa melhora não está sendo concedida, mas apenas emprestada do futuro. Todas as fortunas se equilibram com o tempo.
+
+ESTATÍSTICAS:
+
++1 Sorte
+1% de chance ao acertar para que... algo aconteça
+
+THAC0: +2
+Dano: 1d6+2 (perfuração)
+Fator de Velocidade: 1
+Tipo de Proficiência: Espada Curta
+Tipo: Uma mão
+Requer:
+ Força 4
+
+Peso: 2~
+
+@94=~Anel de Conhecimento Arcano~
+@95=~Enquanto usa este anel, sua mente recupera fatos e detalhes com muito mais facilidade, expandindo significativamente a memória de longo prazo. Anéis como este são comuns entre os Magos Vermelhos de Thay, embora nenhum deles jamais admita usar tal muleta em sua busca pelo domínio arcano.
+
+ESTATÍSTICAS:
+
++2 Inteligência
+
+Peso: 0~
+
+@103=~Tomo Esfarrapado~
+@104=~*Este tomo parece positivamente antigo, com centenas de anos — talvez mais de mil. Você só consegue decifrar alguns poucos trechos escritos em seu interior.*
+
+“...abençoados sejamos por termos recebido o ovo... imagine, um dragão infundido com a própria essência sombria de nosso Senhor. Que devastação gloriosa... recebi uma premonição de nosso senhor sombrio. Esta será uma de muitas sementes semeadas ao longo dos anos. Para carregar sua essência, caso... escondemos nosso enclave de forma engenhosa, mas... perigoso demais. Seus inimigos notaram nossa presença. Devemos abandonar este santuário... rumo ao leste, para o deserto de Anauroch. Lá criaremos o filhote de dragão em segredo, por séculos se necessário, até que o tempo da profecia chegue... Um dia ele se erguerá para tomar seu lugar de direito ao lado do Senhor.”~
+
+@108=~Pedra Ioun Laranja Brilhante~
+@109=~Esta pedra ioun brilha com um tom laranja intenso que faz os pelos do seu corpo se arrepiarem. Você sente um fluxo palpável de energia emanando dela. Pedras ioun desse tipo fortalecem o poder dos magos que as utilizam e são altamente cobiçadas por todos os Reinos.
+
+ESTATÍSTICAS: 
+
+Habilidades ao equipar:
+- Nível de Conjurador (Mago): +1
+
+Peso: 0~
+
+@110=~Gema Estranha~
+@111=~Esta gema cintilante é estranhamente leve ao toque e projeta uma aura de outro mundo. Você não tem certeza para que serve, mas sente que talvez seja melhor guardá-la até poder entregá-la a alguém que saiba utilizá-la.~
+
+@112=~Carta~
+@113=~Cherise,
+Recebi seu inventário de criaturas e considero a menagerie sob seu comando uma força impressionante. Você foi sábia em me apoiar em minha ascensão ao poder. Os Zulkirs tremerão de medo quando você retornar a Thay, fortalecida por meu apoio. Devo reiterar que eu, Winski, Cythandria ou meus tenentes Semaj e Angelo seremos seus únicos contatos. Somente eles conhecem a real extensão de meus planos, incluindo detalhes que o restante da organização do Trono de Ferro pode considerar desagradáveis. Partirei de Baldur's Gate em breve para uma missão. Quando eu retornar, nos reuniremos novamente, e a próxima etapa de meus planos lhe será revelada.
+
+— S~
+
+@116=~Maça do Mímico~
+@117=~Você encontrou esta maça nos restos de um mímico, corroída por seu ácido e coberta por seu icor pegajoso, mas ainda assim notavelmente intacta. É difícil dizer qual era o encantamento original colocado na maça, porém o tempo passado no sistema digestivo do mímico parece tê-la imbuído com propriedades da própria criatura. Quando usada contra um inimigo, esta maça tem chance de prendê-lo no icor adesivo do mímico ou de encharcá-lo com seus fluidos digestivos ácidos. Embora seja uma arma poderosa, as propriedades da Maça do Mímico também a tornam extremamente difícil de largar depois de empunhada, cobrindo a mão do portador com sua substância pegajosa. Seria necessário um feitiço de Remover Maldição para desfazer esse efeito.
+
+ESTATÍSTICAS:
+
+– Só pode ser removida com um feitiço de Remover Maldição
+- 5% de chance de paralisar o alvo por 5 rodadas (teste de resistência contra sopro)
+- 5% de chance de causar 3d12 de dano ácido ao alvo
+
+THAC0: +2
+Dano: 1d6+3 (esmagamento)
+Fator de Velocidade: 5
+Tipo de Proficiência: Maça
+Tipo: Uma mão
+Requer:
+ Força 10
+
+Peso: 7~
+
+@118=~Espada Bastarda~
+@119=~Espada Bastarda +2~
+@120=~Também conhecida como espada de uma mão e meia, a espada bastarda deriva seu nome do fato de ficar entre a espada de duas mãos e a espada longa. A espada bastarda possui lâmina de dois gumes e um cabo longo, que pode acomodar ambas as mãos, se desejado. O comprimento total de uma espada bastarda varia entre cerca de um metro e vinte centímetros e um metro e quarenta e cinco centímetros.
+
+ESTATÍSTICAS:
+
+Dano: 2d4 (cortante)
+Fator de Velocidade: 8
+Tipo de Proficiência: Espada Bastarda
+Tipo: Uma mão
+Requer:
+ Força 11
+
+Peso: 10~
+
+@121=~Não apenas um ferreiro tornou esta espada melhor balanceada e mais durável do que uma lâmina comum, como também poderosos encantamentos foram aplicados a ela. Ela é mais rápida, mais precisa e causa muito mais dano do que o padrão de sua categoria.
+
+ESTATÍSTICAS:
+
+THAC0: +2
+Dano: 2d4+2 (cortante)
+Fator de Velocidade: 6
+Tipo de Proficiência: Espada Bastarda
+Tipo: Uma mão
+Requer:
+ Força 11
+
+Peso: 7~
+
+@125=~Gema Astral Branca~
+@126=~Esta gema cintilante parece possuir uma aura levemente mágica. Você imediatamente suspeita que reuni-las será a chave para desfazer as proteções que defendem Cherise dentro de seu domínio astral.~
+
+@127=~Gema Astral Verde~
+@128=~Esta gema cintilante parece possuir uma aura levemente mágica. Você imediatamente suspeita que reuni-las será a chave para desfazer as proteções que defendem Cherise dentro de seu domínio astral.~
+
+@129=~Gema Astral Negra~
+@130=~Esta gema cintilante parece possuir uma aura levemente mágica. Você imediatamente suspeita que reuni-las será a chave para desfazer as proteções que defendem Cherise dentro de seu domínio astral.~
+
+@131=~Gema Astral Azul~
+@132=~Esta gema cintilante parece possuir uma aura levemente mágica. Você imediatamente suspeita que reuni-las será a chave para desfazer as proteções que defendem Cherise dentro de seu domínio astral.~
+
+@135=~Pedra de Proteção Vinculadora das Chamas~
+@136=~Esta gema brilhante é quente ao toque e sua superfície parece borbulhar e se mover como um líquido oleoso em constante agitação. É provável que uma gema como esta possa ser usada como um poderoso foco para um ritual de vinculação relacionado ao elemento fogo.~
+
+@137=~Escamas Carbonizadas~
+@138=~Uma armadura obtida na Cidade de Bronze, este conjunto de cota de malha parece estar perpetuamente coberto por uma camada de substância oleosa. Quando a armadura é atingida, as correntes esfregam umas nas outras, produzindo faíscas que incendeiam essa camada oleosa e fazem uma labareda de fogo ser lançada na direção do atacante. O encantamento entrelaçado na armadura também concede proteção limitada contra fogo.
+
+ESTATÍSTICAS:
+
+30% de chance de conjurar Mãos Flamejantes no alvo quando atingido
+40% de Resistência ao Fogo
+
+Classe de Armadura: 3 (1 contra cortante, 5 contra esmagamento)
+Requer:
+ Força 8
+
+Peso: 10~
+
+@139=~Lança Glacial~
+@140=~A ponta desta lança é composta de gelo glacial retirado dos recessos mais frios do plano elemental da água. O frio é tão intenso que sibila no ar, e nem mesmo a chama mais ardente poderia derretê-lo. Além de causar dano extra de frio, esta lança tem chance de infligir frio congelante nos alvos atingidos, retardando cada um de seus movimentos.
+
+ESTATÍSTICAS:
+
+Causa +1 de Dano de Frio ao acertar
+30% de chance de conjurar Lentidão no alvo ao acertar
+
+THAC0: +2
+Dano: 1d6+2 (perfuração)
+Fator de Velocidade: 4
+Tipo de Proficiência: Lança
+Tipo: Duas mãos
+Requer:
+ Força 5
+
+Peso: 3~
+
+@141=~Cajado do Coração de Carvalho~
+@142=~Nas profundezas da Floresta de Lethyr, a Rainha Dríade Fariquoir governa um reino secreto de Fey, desconhecido além das bordas da floresta. De forma incomum entre dríades, o harém de Fariquoir é composto por homens e mulheres druidas de livre-arbítrio, que não são enfeitiçados por seus encantos, mas que servem como conselheiros por amor e respeito à Rainha. Com o conselho deles, ela governa em paz e harmonia com as civilizações que cercam a floresta desde antes de qualquer registro da humanidade.
+
+Aos seus consortes mais estimados, ela concede um cajado composto por galhos caídos de sua própria Árvore do Coração, um grande carvalho no centro de Lethyr. Este cajado concede a eles a proteção da Árvore do Coração mesmo à distância, além de uma conexão maior com o mundo natural.
+
+ESTATÍSTICAS:
+
++2 ao Nível de Magias Divinas
+Memoriza 1 Magia Adicional de cada Nível
+
+THAC0: +2
+Dano: 1d6+2 (esmagamento)
+Fator de Velocidade: 4
+Tipo de Proficiência: Cajado
+Tipo: Duas mãos
+Requer:
+ Força 5
+
+Peso: 4
+
+Usável por:
+Druida
+Xamã~
+
+@146=~Dádiva do Silêncio~
+@147=~A história de Canção e Silêncio é contada com frequência nas tavernas da distante Kara-Tur. A história começa com dois irmãos gêmeos, nascidos na fronteira entre duas terras, uma de Luz e outra de Sombra. Cada irmão nasceu com uma curiosa aflição. Um só conseguia falar em versos e canções, e cada passo ou som que fazia parecia acompanhar uma estranha melodia. O outro foi amaldiçoado ao silêncio, incapaz de falar, e cujos passos pareciam sempre abafados e distantes.
+
+Líderes dos mosteiros predominantes de ambas as terras foram até a família dos irmãos destinados. Lá, concordaram em levar um irmão cada: o Irmão da Canção para o Mosteiro da Luz e o Irmão do Silêncio para o Mosteiro da Sombra. Ali, cada irmão foi criado de acordo com os preceitos de seu mosteiro, tornando-se um Monge de sua ordem associada.
+
+Os irmãos só se encontraram novamente durante um grande torneio de artes marciais, quando ambos entraram como representantes de seus mosteiros e se enfrentaram. As histórias sobre o que ocorreu divergem bastante. Algumas descrevem os irmãos lutando até um impasse e então se abraçando. Outras dizem que ambos desferiram golpes mortais um no outro e morreram juntos, como um só.
+
+O Irmão do Silêncio teve este Ninjatō especial forjado por sua ordem, imbuído de suas virtudes. Quando empunhada, a arma envolve seu portador em silêncio, tornando-o mudo e abafando todo e qualquer som que ele produza. Aqueles que ela atinge são envoltos pelo mesmo silêncio.
+
+ESTATÍSTICAS:
+
+Silencia o portador ao equipar
++30% em Mover-se em Silêncio
+25% de chance de silenciar por 30 segundos ao acertar (teste de resistência contra magia)
+
+THAC0: +2
+Dano: 1d8+2 (cortante)
+Fator de Velocidade: 2
+Tipo de Proficiência: Cimitarra/Wakizashi/Ninjatō
+Tipo: Uma mão
+Requer:
+ Força 6
+
+Peso: 3~
+
+@148=~Dádiva da Canção~
+@149=~A história de Canção e Silêncio é contada com frequência nas tavernas da distante Kara-Tur. A história começa com dois irmãos gêmeos, nascidos na fronteira entre duas terras, uma de Luz e outra de Sombra. Cada irmão nasceu com uma curiosa aflição. Um só conseguia falar em versos e canções, e cada passo ou som que fazia parecia acompanhar uma estranha melodia. O outro foi amaldiçoado ao silêncio, incapaz de falar, e cujos passos pareciam sempre abafados e distantes.
+
+Líderes dos mosteiros predominantes de ambas as terras foram até a família dos irmãos destinados. Lá, concordaram em levar um irmão cada: o Irmão da Canção para o Mosteiro da Luz e o Irmão do Silêncio para o Mosteiro da Sombra. Ali, cada irmão foi criado de acordo com os preceitos de seu mosteiro, tornando-se um Monge de sua ordem associada.
+
+Os irmãos só se encontraram novamente durante um grande torneio de artes marciais, quando ambos entraram como representantes de seus mosteiros e se enfrentaram. As histórias sobre o que ocorreu divergem bastante. Algumas descrevem os irmãos lutando até um impasse e então se abraçando. Outras dizem que ambos desferiram golpes mortais um no outro e morreram juntos, como um só.
+
+O Irmão da Canção teve esta Wakizashi especial forjado por sua ordem, imbuído de suas virtudes. Quando empunhada, a arma canta com o som de seu Hino Divino, inspirando os aliados do portador a maior bravura em combate. Porém, para quem empunha a lâmina cantante, isso pode se mostrar uma distração inebriante durante a luta.
+
+ESTATÍSTICAS:
+Efeito de Canção de Bardo no grupo ao acertar com sucesso
++1 Carisma
+–2 de penalidade na Classe de Armadura
+
+THAC0: +2 (afeta ambas as armas ao usar duas armas)
+Dano: 1d8+2 (perfuração)
+Fator de Velocidade: 1
+Tipo de Proficiência: Cimitarra/Wakizashi/Ninjatō
+Tipo: Uma mão
+Requer:
+ Força 5
+
+Peso: 1~
+
+@150=~Vestes de Mercúrio~
+@151=~Por mais que você tente, não faz a menor ideia de que material essas vestes são feitas ou como poderiam sequer existir. O material é um turbilhão de prata e azul que se move como um líquido metálico e, quando vestidas, elas não parecem totalmente sólidas, lembrando um tipo de líquido semi-rígido, o que pode ser desconcertante. Ainda assim, mantêm sua forma como vestes e não parecem correr o risco de derreter do seu corpo. Além disso, quem as veste sente sempre um leve formigamento nas pontas dos dedos, e os pelos finos do corpo permanecem arrepiados.
+
+Por mais estranha que seja sua composição, mais estranho ainda é o efeito que elas produzem quando usadas. As vestes possuem um poderoso campo magnético ao seu redor. Esse efeito repele todos os ataques com armas, especialmente projéteis. O material das vestes parece deslizar pelo ar como se não houvesse qualquer resistência. Por fim, a aura magnética também parece amplificar os efeitos da eletricidade ao redor. Isso é uma faca de dois gumes: magias elétricas conjuradas pelo portador são amplificadas, mas o portador também sofre uma vulnerabilidade maior a essas mesmas magias.
+
+ESTATÍSTICAS:
+
+Habilidades Equipadas:
+Classe de Armadura: 6
+Classe de Armadura vs. Projéteis: 3
+Taxa de Movimento Aumentada
++20% de dano causado por Magias de Eletricidade
+-30% de Resistência à Eletricidade
+
+Peso: 6
+
+Usável por:
+Magos
+Druida
+Xamã~
+
+@153=~Símbolo Profano de Bhaal~
+@154=~Uma representação do deus morto Bhaal. Este símbolo está rachado e gasto pelo tempo.~
+
+@155=~Botas do Viajante Robusto~
+@156=~Estas botas de pele parecem muito gastas e até um pouco surradas, mas é impossível negar o quão aconchegantes os pés ficam dentro delas. A lenda diz que foram usadas por um anão viajante que percorreu Faerûn de cima a baixo, nunca permanecendo mais do que alguns dias em um só lugar antes de seguir viagem novamente. Se isso for verdade, esses calçados suportaram uma vida inteira de uso intenso, e ainda assim parecem prontos para levar seu portador a viagens ainda mais longas.
+
+ESTATÍSTICAS:
+
+Habilidades Equipadas:
++1 Constituição
+
+Peso: 4~
+
+@163=~Broquel da Tempestade~
+@164=~O Broquel da Tempestade é a criação de uma sacerdotisa de Tempus que se sentia desprezada pela forma como os escudos frequentemente permitiam que seus usuários se escondessem atrás deles em combate. Embora respeitasse o papel do escudo como um meio de defesa no arsenal de um guerreiro, ela sabia que tal comportamento covarde jamais conquistaria o favor de seu deus. Buscando unir ataque e defesa, ela criou a fusão perfeita entre ambos: um escudo que oferece excelente proteção enquanto impulsiona o usuário à ofensiva. Diferente de outros escudos que favorecem uma abordagem mais lenta em batalha, o Broquel da Tempestade foi feito para ser empunhado quase como uma arma na mão secundária, repelindo ataques em um momento e golpeando inimigos no outro. O efeito é muito semelhante ao de empunhar duas armas, embora com a proteção adicional de um escudo na mão secundária.
+
+ESTATÍSTICAS:
+
+Habilidades Equipadas:
+– 1 Ataque Extra por Rodada
+– 2 THAC0
+– Classe de Armadura: +3
+– Nenhuma proteção contra ataques de projéteis
+
+Requer:
+ 4 de Força
+
+Peso: 2~
+
+@165=~Diário Decodificado de Riezen Darkeyes~
+@10001=~*Nota do Tradutor: Analisei e transcrevi as entradas mais importantes deste volume. Espero que isso ajude, ou que ao menos você o ache interessante.
+
+Entrada 1 – A liderança dos Harpistas se reuniu e me designou à perseguição de uma mulher que foi vista na companhia de vários Bhaalspawn conhecidos. É uma missão extremamente confidencial. Não devo falar sobre isso com ninguém, e sequer deveria estar mantendo um registro escrito da minha tarefa. Só o faço usando o código mais cuidadosamente elaborado, que apenas eu ou outros Harpistas de alta patente deveriam ser capazes de decifrar, no pior dos casos, se eu não conseguir completar minha missão ou relatar meu sucesso.
+
+Entrada 6 – Localizei meu alvo e comecei a segui-la. Ela ainda não sabe que estou em seu encalço. No entanto, ela seguiu para o Subterrâneo por algum motivo que não consigo imaginar. Isso é preocupante, mas continuarei minha missão e a seguirei abaixo da terra. Só espero não encontrar ali meus bastardos parentes de pele escura.
+
+Entrada 9 – Segui meu alvo por dias sob a terra. Ou... talvez semanas? O tempo me escapa aqui. Seu destino finalmente se revelou. Ela chegou a um pequeno santuário, afastado das grandes cidades drow. Contudo, o santuário é mantido por outros drow. O complexo traz as marcas de Bhaal... provavelmente eles se escondem dos drow devotos de Lolth, que destruiriam um santuário dedicado a qualquer divindade da superfície, mesmo uma tão vil quanto a deles. Ela permanece no santuário cuidando de uma jovem drow, acredito que a esteja educando. Ela não deve levar muito tempo para atingir a idade adulta. Ela é... bastante bela, apesar de sua herança sombria.
+
+Entrada 13 – Reivindiquei uma grande caverna no Subterrâneo como minha residência enquanto observo meu alvo e sua obscura protegida. Os cogumelos que cultivo e a vida selvagem local são suficientes para me sustentar. Sinto falta do sol, mas não de forma tão intensa quanto alguns de meus parentes sentiriam. Sempre senti uma atração pelas sombras das profundezas subterrâneas. Ao cuidar de meus jardins de cogumelos, comecei a desenvolver um novo respeito por meus parentes sombrios.
+
+Entrada 18 – Cometi um erro terrível. Enquanto cuidava de meus cultivos, fui surpreendido por uma intrusão. Mas, embora temesse que os vis drow tivessem me descoberto, era apenas a jovem drow que meu alvo vinha instruindo. Agora sei o motivo. Ela é uma filha do deus sombrio. Uma Bhaalspawn. É dever dos Harpistas proteger tais seres? Ela é tão bela e curiosa. Ela não me odiou quando me encontrou. Queria conversar. Chegou até a prometer que não revelaria minha presença a seus parentes.
+
+Entrada 19 – Ela começou a me visitar regularmente. Seu nome é Sendai. Acho que a amo.
+
+Entrada 22 – Meu alvo deixou o enclave há algum tempo, mas não a segui. Não consigo seguir. Talvez isso seja uma abdicação da minha missão, mas sinto que devo permanecer aqui com Sendai. Ela me fala de seus planos, das coisas que nasceu para realizar. Isso me assusta, pois cada vez mais acredito que ela fale a verdade. Desejo a ela o destino que descreve.
+
+Entrada 29 – Esta será minha última entrada. Jurei meu coração a Sendai. Ela me envia agora para uma missão na superfície... devo destruir um inimigo dela. Um Bhaalspawn como ela, que poderia ascender antes que seus próprios planos se concretizem. Ninguém pode roubar essa herança do amor da minha vida. Que se danem os Harpistas.~
+@3323=~Wakizashi~
+@3324=~O wakizashi, ou espada companheira, é extremamente importante para o samurai. Ele é usado o tempo todo, mesmo em ambientes internos, e permanece próximo ao samurai quando ele dorme. Tão bem forjado quanto a katana, o wakizashi é uma espada mais curta, com comprimento entre trinta e sessenta centímetros, e é uma arma mortal nas mãos de um usuário habilidoso.
+
+ESTATÍSTICAS:
+
+Dano: 1d8 (perfurante)
+Fator de Velocidade: 3
+Tipo de Proficiência: Cimitarra/Wakizashi/Ninjatō
+Tipo: Uma mão
+Requer:
+ 5 de Força
+
+Peso: 3~
+
+@3325=~Ninja-Tō~
+@3326=~A espada do ninja, o ninjatō, é de qualidade inferior a outras lâminas de Kara-Tur, como a katana. O ninjatō é curto e possui lâmina reta, o que o torna ideal para subterfúgio. Ele também é mais adequado para combates em locais fechados, às vezes dando ao ninja uma vantagem sobre as lâminas mais longas usadas pelos samurais.
+
+ESTATÍSTICAS:
+
+Dano: 1d8 (cortante)
+Fator de Velocidade: 4
+Tipo de Proficiência: Cimitarra/Wakizashi/Ninjatō
+Tipo: Uma mão
+Requer:
+ 6 de Força
+
+Peso: 5~
+
+@3327=~Carta~
+@3328=~Chefe,
+
+A gente tem feito muita matança boa pros lados de Beregost. Bons despojos das caravanas. Dinheiro fácil, o mais fácil desde os tempos em que a gente fazia guarda-costas pra aqueles cultistas da morte. Droga, aquilo era um trabalho chato demais, ficar protegendo aqueles padres sinistros. Só de pensar nisso já me dá vontade de atacar outra caravana.
+
+Meus Redwaters vão ficar por aqui mais um tempo, garantir que a gente fique bem recheado de saque. Voltamos até a próxima lua cheia.
+
+Sempre leal,
+-Perthag~
+
+@6089=~Carta de Nerys~
+@6090=~<CHARNAME>
+
+Espero que esta mensagem o encontre, embora, se você estiver perseguindo a Cruzada como imagino que esteja, meu mensageiro provavelmente só precise ficar parado no caminho de guerra e esperar.
+
+É uma sorte você estar vindo por esta direção. Perto de onde Bhaal foi morto, na Ponte de Boareskyr, existe um complexo dos Harpistas que abriga, até onde sei, o maior repositório de conhecimento sobre ele e seu legado. Normalmente os Harpistas não permitem que estranhos vasculhem seus registros, mas convenci algumas pessoas a fecharem os olhos por um tempo. Tenho certeza de que você tem todo tipo de pergunta sobre sua herança ou o que ela significa, e talvez encontre algo ali que ajude. Se puder se desviar um dia de caminhada a partir de Dragonspear, na borda da Floresta Trollbark, você encontrará a Mansão Besequein. Junto desta carta estão instruções mais detalhadas, bem como um convite que você pode apresentar aos guardas.
+
+Estarei esperando por você lá. Viaje com cuidado.
+
+-Nerys~
+
+@6266=~Tomo da Ascensão Profana~
+@6267=~Você recuperou este tomo de dentro de um ossuário bhaalista sombrio. Em suas páginas mofadas estão os ritos mais secretos dedicados a Bhaal, incluindo métodos de vivissecção e sacrifício ritual considerados os que melhor honram o Senhor do Assassinato. Você percebe que, embora tal livro tivesse uma presença profana no passado, a morte de Bhaal o deixou em um estado enfraquecido, não mais vil do que o texto e os diagramas que contém.
+
+Uma rápida folheada revela que muitas das páginas mais ao fundo do livro parecem estranhas. Há manchas de sangue por todas elas, mas não contêm texto algum visível. Ainda assim, parecem importantes. Talvez alguém mais familiarizado com os ritos de Bhaal saiba o que fazer com elas.~
+
+@6268=~Lâmina do Vivisseccionista~
+@6269=~Embora muitos dos cultistas de Bhaal acreditassem que seu senhor pouco se importava com o sofrimento antes da morte, contanto que o momento final honrasse o deus, outros acreditavam que Bhaal admirava a arte de prolongar esses últimos instantes em um sofrimento requintado. A Lâmina do Vivisseccionista era uma ferramenta carregada pelos altos sacerdotes de Bhaal devotados a essa filosofia, seu formato afiado sendo moldado especificamente não para matar rápido, mas para esfolar partes de suas vítimas pouco a pouco. O resultado é uma arma temível mesmo longe da mesa de vivissecção.
+
+ESTATÍSTICAS:
+
+25% de chance ao acertar de deixar o alvo aleijado pela dor, atordoando-o por 6 segundos, a menos que ele seja bem-sucedido em um teste de resistência contra morte.
+
+THAC0: +2
+Dano: 1d6+2 (perfurante)
+Fator de Velocidade: 1
+Tipo de Proficiência: Espada Curta
+Tipo: Uma mão
+Requer:
+ 5 de Força
+
+Peso: 2~
+
+@6271=~Bilhete de Cythandria~
+@6272=~Para aquele que me matou,
+
+Você provavelmente está lendo isto procurando ver se eu lhe deixei um resumo simples e agradável dos meus pensamentos e sentimentos, talvez o que me trouxe até este ponto. Talvez isso pudesse ser útil para você, ou talvez você só quisesse se gabar de como me deteve.
+
+Eu me recuso a lhe dar essa satisfação. Meu ódio por você continuará além da minha morte. Estarei presente em cada fracasso seu, em cada infortúnio e perda. E estarei rindo de você.
+
+Eu te amaldiçoo. Que seus membros definhem e seus sentidos se esvaiam. Que você seja abandonado por todos que um dia lhe foram queridos e seja deixado para viver como uma casca esquecida e não amada. Você não merece coisa melhor. Eu não merecia, e você merece ainda menos.
+
+Bastardo. Você acha que sou mesquinha? Talvez eu seja. Não me importo. Nada importa, nada disso importa.
+
+PS: Se você não for quem me matou, bem… quero dizer isso pra você também de qualquer forma.~
+
+@6531=~Estilete da Luz Mutável~
+@6532=~A luz nunca parece refletir corretamente na lâmina desta adaga, sendo sempre capturada e dobrada em ângulos estranhos. Isso faz com que quaisquer reflexos que venham dela pareçam distorcidos e retorcidos. Tais adagas são mais comuns entre assassinos ilusionistas que usam seus feitiços para se aproximar de um alvo e atacar, usando então a confusão causada por suas magias para escapar.
+
+Esta adaga em particular entrelaça uma combinação de dois desses feitiços que se ativam ao atingir um inimigo. O primeiro faz com que a luz refratada ao redor do portador forme uma cópia ilusória idêntica nas proximidades, enquanto o segundo o torna invisível à visão.
+
+ESTATÍSTICAS:
+
+25% de chance ao acertar de conjurar Imagem Refletida e Invisibilidade no portador.
+
+THAC0: +2
+Dano: 1d4+2 (perfurante)
+Fator de Velocidade: 0
+Tipo de Proficiência: Adaga
+Tipo: Uma mão
+Requer:
+ 3 de Força
+
+Peso: 1~
+
+@6533=~Recordação~
+@6534=~Este cajado metálico é encimado por uma grande gema de safira que brilha em um pequeno raio ao seu redor. Ele foi criado por um mago estranhamente esquecido, que ficava frustrado ao perceber que, na manhã seguinte, não conseguia se lembrar dos mesmos feitiços que havia estudado a noite inteira. Poucos questionavam por que o mago tinha uma memória tão falha, já que ele tinha o hábito de bater na própria cabeça com o cajado durante momentos de frustração. Pelo menos seu encantamento permitia que esses impulsos autopenitentes causassem tanto bem quanto mal, embora frequentemente o deixassem esquecendo um feitiço enquanto se lembrava de outro.
+
+Eventualmente, ele passou o cajado para uma sacerdotisa de Tempus, uma amiga querida em seus últimos anos. Ela descobriu que usar o cajado para acertar a cabeça de monstros funcionava muito melhor do que bater na própria.
+
+ESTATÍSTICAS:
+
+Ao acertar: Restaura um feitiço gasto de nível 2 ou inferior.
+
+THAC0: +1
+Dano: 1d6+1 (esmagamento)
+Fator de Velocidade: 3
+Tipo de Proficiência: Cajado
+Tipo: Duas mãos
+Requer:
+ 5 de Força
+
+Peso: 4~
+
+@6732=~Livros e Anotações Diversas~
+@6733=~Este conjunto de tomos históricos e cartas descreve incidentes locais e assuntos de interesse para a célula dos Harpistas daqui. Essa literatura reunida cobre áreas desde o leste até o Pântano Alto, ao sul até Baldur's Gate e ao norte até Daggerford. É evidente que os Harpistas têm grande interesse investido na região. Embora organizações criminosas locais e outros grupos políticos que disputam o controle da área provavelmente achassem muito valor nesse material, ele tem pouca utilidade para você.~
+@6734=~Tempo das Perturbações – A Ruína dos Assassinos~
+@6735=~Eleasis 13, 1358 DR
+
+Bane e Myrkul prepararam um ataque à cidade de Tantras, onde o deus Torm guardava uma das Tábuas do Destino com seus mais valorosos seguidores. Enquanto as forças de Zhentil Keep marchavam em direção à cidade costeira no Estreito do Dragão, Bane e Myrkul arquitetaram um plano terrível. Nas proximidades estava escondido um grande golem de vidro negro, forjado nos próprios Infernos, chamado o Irmão Negro. Bane o havia ocultado em tempos antigos, pois suas conspirações atravessavam eras, e ele sabia que um dia Tantras seria uma conquista crucial. Por meio de um ritual ancestral, o golem poderia ser animado e habitado pelo Avatar de Bane, e com seu poder terrível ele poderia destruir a cidade e seus guardiões, incluindo o próprio Torm, e recuperar a Tábua do Destino.
+
+No entanto, para energizar o golem era necessário um imenso reservatório de almas, almas de trevas alinhadas com o mal de Bane. Por acaso, Bane tinha à disposição uma fonte pronta dessas almas. Nas proximidades, os sacerdotes sombrios de Myrkul prepararam um feitiço de morte em escala massiva, talvez o maior já concebido. Por meios desconhecidos, Bane e Myrkul haviam obtido os Nomes Verdadeiros de todos os assassinos de Faerûn. Conhecer seus Nomes Verdadeiros permitiu que Myrkul executasse um feitiço de morte em massa que matou todos os assassinos, enquanto os próprios sacerdotes de Bane realizavam um ritual chamado Roubo das Almas para canalizar sua força vital para o Irmão Negro. Bane ergueu-se com um poder terrível, e sua batalha subsequente com Torm permanece talvez como o confronto mais notável de todo o Tempo das Perturbações.
+
+Um aspecto menos comentado desse incidente foi como a morte de tantos assassinos enfraqueceu diretamente o poder de Bhaal em Faerûn. Como deus do assassinato e do homicídio, esse evento resultou na extinção da maioria dos seguidores de Bhaal. O avatar de Bhaal tornou-se uma casca vazia do poder que um dia possuíra, um poder tão facilmente despachado por Cyric, o mortal, com sua espada Godsbane.~
+@6736=~Relatório de Missão: Incursão no Templo~
+@6737=~Senhor,
+
+Relato que a missão foi um sucesso. Invadimos o templo rapidamente, eliminando os guardas em silêncio durante a noite. Ao que tudo indica, nossas informações estavam corretas. Encontramos as crianças reunidas em cercados, como gado pronto para o abate. Podiam ser crianças de herança sombria, mas ainda assim eram inocentes. Avançamos para salvar todas que pudemos.
+
+O combate que se seguiu foi caótico, mas a emboscada estava bem preparada, e caímos sobre os cultistas, cortando-os como a luz de Selûne rasgando a escuridão. Conseguimos derrotar a maior parte da ordem sem muitas perdas do nosso lado, porém lamento informar que Arryn e Pearla foram baixas na batalha. Alguns outros ficaram feridos, mas irão se recuperar.
+
+O caos permitiu que as crianças fugissem. Isso se mostrou uma lâmina de dois gumes. Embora não estejam mais em perigo imediato, não conseguimos localizar a maioria delas. Retornaremos em breve com aquelas que conseguimos resgatar. Precisamos convocar nossos batedores para encontrar as demais o quanto antes; temo o que pode acontecer se caírem em mãos erradas.~
+@6738=~Relatório Ecológico: Águas Serpenteantes~
+@6739=~Após muitos testes, parece que as Águas Serpenteantes podem estar irremediavelmente contaminadas pelo sangue do deus sombrio. Os efeitos se mostraram sutis, porém perceptíveis às seitas druídicas ao redor do rio. A água corre mais escura que o normal. Animais geralmente se recusam a bebê-la, e as plantas que crescem nas proximidades o fazem em forma de espinheiros retorcidos. Embora tenhamos constatado que a água não é imediatamente tóxica para beber, em grandes quantidades ela causa doença e, eventualmente, a morte. Vários Talonitas foram encontrados experimentando com essas águas, sem dúvida tentando criar venenos ainda mais perversos a partir da contaminação.
+
+Diversos druidas estão fazendo o que podem para purificar as águas, mas espera-se que esse trabalho leve anos, talvez gerações. Há ainda outro detalhe curioso a ser notado… aqueles raros cultistas de Bhaal que ainda existem parecem extrair algum poder divino das próprias águas. Talvez algum resquício da divindade de Bhaal ainda exista dentro do rio.
+
+*Nota: Foi testado que o resíduo divino contido nas águas se estende apenas até meia jornada de viagem a cavalo. No entanto, teorizo que uma concentração maior da contaminação na água poderia ser transportada para fora e talvez fornecesse um vínculo direto de volta à fonte.*~
+@6740=~Cajado de Guerra~
+@6741=~Cajados de Guerra diferem de um cajado comum por serem feitos de metal e possuírem peso em ambas as extremidades. Eles são projetados para serem empunhados pelo centro, permitindo que ambas as pontas sejam usadas para atacar rapidamente os alvos, ao mesmo tempo em que possibilitam ao usuário desviar golpes recebidos.
+
+ESTATÍSTICAS:
+
+Dano: 1d6 (esmagamento)
+Fator de Velocidade: 4
+Tipo de Proficiência: Cajado
+Tipo: Duas mãos
+Requer:
+ 7 de Força
+
+Peso: 6~
+@6742=~Cajado de Guerra Monástico +2~
+@6743=~Os cajados de guerra diferem de um cajado comum por geralmente serem feitos de metal ou madeira extremamente densa, sendo balanceados com peso em ambas as extremidades. São empunhados pelo centro, permitindo golpes rápidos com as duas pontas.
+
+Este cajado se origina de um enclave oculto da Antiga Ordem e foi encantado para ser usado pelos maiores guerreiros da Ordem.
+
+Monges podem utilizar este cajado e são sempre proficientes com ele.
+
+ESTATÍSTICAS:
+
+Habilidades ao Equipar:
+- Classe de Armadura: +2
+- +1 Ataque por Rodada
+- Usável por Monges
+
+THAC0: +2
+Dano: 1d6+2 (esmagamento)
+Fator de Velocidade: 4
+Tipo de Proficiência: Cajado
+Tipo: Duas mãos
+Requer:
+ 7 de Força
+
+Peso: 6~
+
+@6744=~Memorando sobre Bhaalspawn Conhecidos~
+@6745=~Tentamos rastrear os Bhaalspawn que pudemos, mas esses esforços têm se mostrado difíceis. Essa dificuldade é, naturalmente, agravada pela necessidade de sigilo dentro da nossa própria organização. Lembre-se de que os Bhaalspawn representam um perigo singular, e por isso tudo tem sido feito para obscurecer seus paradeiros. Mesmo dentro de nossa liderança, apenas alguns poucos Harpistas têm conhecimento de mais de um ou dois deles. Aqueles que eram conhecidos foram arranjados para viver vidas comuns e sem importância, de modo a ficarem abaixo do radar daqueles que poderiam tentar usá-los em algum estratagema para trazer de volta seu Senhor Pai. Vivendo vidas normais e entediantes, talvez escapem do destino caótico que a profecia lhes reservou.
+
+Devemos nos comprometer com a mitigação da profecia de Alaundo por quaisquer meios possíveis. Embora alguns acreditem que devemos assumir um papel mais ativo, Elminster insiste que agir na ignorância é pior do que não agir. Ainda sabemos muito pouco. Se você tomar conhecimento da identidade de qualquer Bhaalspawn, não a revele a mais ninguém e não arrisque chamar atenção para eles tentando fazer contato. Nós, Harpistas, devemos sempre exercer discrição sobre quando cantar e quando permanecer em silêncio.~
+
+@6746=~A Ascensão do Sol Negro~
+@6747=~Foi uma providência verdadeiramente ruinosa que o mortal Cyric tenha ascendido tomando não apenas um, mas todos os três portfólios dos Três Mortos. Ele não descansou sobre seus louros. Aqueles que antes cultuavam Bane, Bhaal e Myrkul correram para jurar lealdade ao Sol Negro, pois como poderiam resistir ao poder desse novo deus, que encarnava tudo o que seus antigos mestres representavam e muito mais? Aqueles que permaneceram obstinados em suas antigas lealdades, previsivelmente, não receberam misericórdia, sendo exterminados em suas antigas casas de adoração.
+
+Desde então, Cyric tem sido proativo em erradicar os remanescentes dos antigos deuses de seus domínios. Mausoléus dedicados a Myrkul foram profanados e ícones do Sol Negro colocados em seu lugar. As antigas edificações de ferro do domínio de Bane foram derrubadas e transformadas em manicômios. Naqueles altares ocultos de sacrifícios sangrentos, as adagas serrilhadas de Bhaal foram substituídas por lâminas curtas adornadas com caveiras, mais adequadas a Cyric.
+
+E quanto à progênie de Bane e Bhaal que ainda permanece?
+
+Cyric tem sido curiosamente contido em relação a ambos. Iyachtu Xvim continua desaparecido, e talvez Cyric esteja por trás de qualquer banimento ao qual a progênie de Bane esteja submetida. Cyric também se mostra desinteressado nos Bhaalspawn, não dando qualquer direção a seus seguidores a respeito deles. Não desejaria ele que esses últimos remanescentes fossem eliminados com o mesmo fervor que os cultos e templos de Bhaal? Até agora, a resposta parece ser não. Talvez ele apenas observe de longe, esperando para ver como seu desenvolvimento pode ser transformado em vantagem própria.~
+
+@6748=~Uma Reavaliação da Profecia de Alaundo~
+@6749=~Houve muitas interpretações da profecia de Alaundo sobre os Bhaalspawn ao longo dos anos. A maioria dos estudiosos concorda que as grandes maquinações de Bhaal tinham a intenção de que sua prole gerasse sua ressurreição, algo confirmado por outros profetas menos eminentes. À luz de novas informações, devemos reexaminar a profecia e decifrar qual seria exatamente o mecanismo do retorno de Bhaal.
+
+A resposta parece óbvia à primeira vista. O renascimento do Senhor do Assassinato certamente se daria por meio do assassinato em si. No entanto, isso levanta uma questão: seus filhos estavam destinados a ser assassinados para trazer seu retorno, ou estavam destinados a acumular assassinatos próprios que emulassem seu pai? Ou ambos?
+
+Em nossa recente incursão ao templo, parecia que os cultistas de Bhaal pretendiam passar todos os Bhaalspawn que haviam reunido pela lâmina assim que Bhaal fosse destruído. Isso, porém, parece contrastar com a profecia, que afirma que os filhos de Bhaal seriam a fonte do caos, e que este surgiria de sua passagem. Teria o culto agido cedo demais? Curiosamente, entre todos os sacerdotes de Bhaal que interrogamos, nenhum parecia ter conhecimento completo do mecanismo exato que traria o retorno de seu Senhor. Foi revelado que apenas o Alto Portador da Morte detinha o conhecimento dos rituais necessários. Talvez a morte de seu deus, na ausência de qualquer autoridade que os guiasse, tenha feito com que agissem de forma precipitada — a esperança de um rebanho confuso, cada um correndo em uma direção diferente.
+
+Devemos assumir que a profecia de Alaundo foi escrita no próprio tecido do destino, ou era apenas um aviso sobre o que poderia ser? Que variáveis ainda desconhecidas estão faltando? Continuarei meus estudos em Candlekeep. Isso proporcionará uma vida pacífica para aqueles sob meus cuidados.
+
+– Gorion~
+
+@6750=~Dossiê: Amelyssan, a Desalmada~
+@6751=~Raça: Humana
+Nascimento: Estimado em 1330
+Pele: Clara
+Cabelo: Ruivo, frequentemente tingido de vermelho mais intenso
+Olhos: Azuis
+Outras Características Distintivas: Observada usando penas de pomba manchadas de sangue.
+Posto: Alto Portador da Morte
+Morte: 1357 (registrada)
+
+Há pouquíssimas informações disponíveis sobre a Última Alta Portadora da Morte de Bhaal, conhecida como Amelyssan, a Desalmada. Seu envolvimento com o Culto de Bhaal deve ter começado muito cedo em sua vida, pois ela ascendeu ao posto de Alta Portadora da Morte em uma idade notavelmente jovem. Enquanto a maioria dos seguidores de Bhaal acreditava que seu Senhor preferia demonstrações óbvias e sangrentas de suas vítimas, Amelyssan era conhecida por seu cálculo frio e talento para manipulação e intriga. Pouquíssimos assassinatos diretos foram associados a ela, mas sua presença foi observada nos eventos que antecederam o Interregno Tethyriano, e suspeita-se que ela tenha sido a principal mente por trás do caos que levou aos Dez Dias Negros de Eleint, um dos períodos mais sangrentos da história de Faerûn. Seu envolvimento em outros incidentes de extrema agitação civil e derramamento de sangue é suspeito, mas não confirmado.
+
+Sabe-se apenas que ela era altamente favorecida por seu deus, e que sua palavra comandava qualquer assassino que ela contemplasse que já tivesse feito sequer uma prece ao Senhor do Assassinato. Por sua ordem, até mesmo o assassino mais desleal e egoísta cairia sobre a própria lâmina.
+
+Amelyssan foi vista pela última vez operando na região do Dragon Reach durante o Tempo das Perturbações. Ela foi rastreada até uma reunião com servos de Bane e Myrkul, sendo essa a última ocasião em que foi identificada com vida. Posteriormente, um corpo que correspondia aproximadamente à sua descrição, e que carregava pertences atribuídos a um sacerdote de seu escalão, foi localizado não muito longe da cidade. O corpo havia sido drenado da mesma forma que todos os outros assassinos no incidente do Roubo de Almas. Seu dossiê foi encerrado e arquivado.~
+
+@6752=~Relatório – Movimento dos Bhaalspawn~
+@6753=~Meu Senhor,
+
+Eu sei que deveríamos manter uma postura distante no monitoramento dos Bhaalspawn, mas juro que algo está acontecendo e é da mais profunda preocupação. Entrei em contato separadamente com vários colegas, e todos relatam que os Bhaalspawn dos quais tinham conhecimento começaram a migrar para o sul e para o oeste. Dois desses colegas agora estão desaparecidos após decidirem investigar mais a fundo e falar diretamente com aqueles sob sua vigilância.
+
+Eu lhe digo: alguma força está compelindo os Bhaalspawn a se reunirem, e qualquer um que se aprofunde demais acaba encontrando um destino macabro. Seria este o sinal? Estamos à beira do caos que Alaundo profetizou? Podemos realmente nos dar ao luxo de permanecer tão inativos quando o perigo se aproxima tanto?~
+
+@7014=~Tradução da Profecia~
+@6754=~Durante os Dias dos Avatares, o Senhor do Assassinato gerará uma vintena de descendentes mortais. Esses filhos serão alinhados tanto ao bem quanto ao mal, mas o caos fluirá por todos eles. Quando os filhos bastardos da Besta atingirem a maturidade, eles trarão devastação às terras da Costa da Espada. Um desses filhos deverá se erguer acima dos demais e reivindicar o legado de seu pai. Esse herdeiro moldará a história da Costa da Espada por séculos vindouros.
+
+*Uma nota abaixo diz*
+Uma das interpretações mais verificáveis das profecias de Alaundo que encontrei nos salões de Candlekeep. Forneci esta cópia para que seja adicionada ao nosso arquivo e estudada.
+– Gorion~
+
+@7015=~Conjectura da Profecia~
+@6755=~Os descendentes do Senhor do Assassinato estão fadados a alcançar sua herança por meio de derramamento de sangue e miséria. É o desejo de seu pai que apenas um permaneça vivo para herdar seu legado. Prevejo que os filhos de Bhaal matarão uns aos outros em um massacre sangrento.
+
+*Uma nota abaixo diz*
+Outra das traduções sombrias que considero, infelizmente, bastante convincente a respeito dos Bhaalspawn. Forneci esta cópia para que seja adicionada ao nosso arquivo e estudada.
+– Gorion~
+
+@6875=~Relatório de Exploração – Estranha Estátua na Floresta Trollbark~
+@6876=~Estávamos seguindo um par do que pareciam ser gêmeos idênticos pela Floresta Trollbark. Eles prosseguiram em uma estranha marcha funerária que acabou nos deixando para trás, porém, uma hora depois, encontramos um deles dentro de uma clareira inquietante. No centro da clareira havia uma estátua de duas figuras sem traços definidos: uma com uma lâmina ou bastão erguido, prestes a golpear a outra, que se encolhia em medo.
+
+O gêmeo que encontramos estava morto ao pé da estátua, com o crânio provavelmente esmagado contra ela. Uma verificação em seus pertences revelou iconografia que o identificava como um adepto de Bhaal. Suspeitamos que algum ritual tenha sido realizado para emular a cena representada na estátua. Contudo, a própria estátua não continha qualquer indicação de ter sido feita para fins rituais dedicados a Bhaal. Não… isso me parece algo muito mais antigo e primal.
+
+*um conjunto de direções abaixo parece estar parcialmente borrado por tinta derramada*
+
+*Relatório Adicional: Entre todas as culturas, desde as tribos bárbaras da Espinha do Mundo até os xamãs espirituais de Rashemen, existe a história do primeiro assassinato entre irmãos — o momento em que um irmão ergue sua arma contra o outro e comete o fratricídio. Talvez esta estátua seja uma recriação dessa história de um tempo mais antigo.*~
+
+@7131=~Quebradores de Ponto de Estresse~
+@7132=~Essas braçadeiras ampliam os sentidos do usuário para detectar pequenas fraturas e pontos de estresse em objetos ou pessoas à sua frente, permitindo que ele os quebre com maior facilidade. As braçadeiras só funcionam para alguém com sabedoria suficiente para tirar proveito dessa percepção.
+
+Sabedoria Necessária: 16
+
+ESTATÍSTICAS:
+
+Habilidades ao Equipar:
+– Dano: +4
+
+Peso: 1~
+
+@7134=~Sapatos de Dândi~
+@7135=~Diferentemente do equipamento típico de aventureiros, estes sapatos são projetados priorizando o conforto. Eles são forrados com a pele e a lã mais macias, fazendo com que os pés do usuário pareçam pisar em nuvens. Um conforto requintado até mesmo para o dândi mais exigente. Embora tais sapatos devessem se desfazer em uma longa jornada, um encantamento engenhoso os mantém em bom estado, e eles até parecem se limpar sozinhos durante a noite.
+
+Ainda mais valiosos, porém, são dois encantamentos gêmeos que mantêm seu usuário a salvo: um para velocidade e outro para proteção. Eles garantem que o portador viva para desfrutar de mais uma noite tranquila junto à fogueira, com os pés erguidos, apreciando o conforto de seus sapatos.
+
+Entretanto, a sofisticação do encantamento também se estende a rejeitar aqueles cujos pés sejam ásperos demais e “rústicos” demais para apreciá-los. Assim, indivíduos de inclinação mais marcial podem achá-los apenas um par de sapatos confortáveis, ainda que opinativos.
+
+Usável por: Bardo, Mago, Mago-Ladino
+
+ESTATÍSTICAS:
+
+Habilidades ao Equipar:
+- Pequeno aumento na velocidade de movimento
+- 25% de chance de ativar Escudo no usuário ao ser atingido
+
+Peso: 4~
+
+@7136=~Nota Úmida~
+@7137=~<CHARNAME>,
+
+Isso não deve ser uma grande surpresa. A verdade é que o ferimento que sofri de Sarevok sempre foi fatal; eu apenas havia comprado mais alguns meses de tempo. Mas esse tempo acabou. Esta clareira parece um lugar pacífico o suficiente para partir. Eu aprecio o silêncio. Já ingeri a pílula de veneno. Esta é minha última mensagem para você.
+
+O ritual do Portador da Morte é uma farsa. Ou… um ardil perpetuado pelos sacerdotes de Bhaal para controlar aqueles que se provaram as armas mais eficientes. Mas agora percebo que Sarevok nunca completou o ritual. Ele sempre foi dono de si mesmo. Eu buscava uma verdade que explicasse facilmente nossa queda, mas a verdade se mostrou ao mesmo tempo evasiva e clara como o dia.
+
+Fomos derrotados porque você simplesmente era melhor do que nós.
+
+Exulte, se quiser. Eu reconheço sua vitória, absoluta. Inclusive deixei para você meu melhor par de sapatos como recompensa. Que bondoso da minha parte, não?
+
+Não se deixe guiar por aqueles que desejam usá-lo.
+
+– Winski Perorate~
+
+
+
+
+
+

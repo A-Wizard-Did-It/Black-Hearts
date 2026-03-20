@@ -21,3 +21,29 @@ THEN
 		CreateCreature("WICOMM2",[639.885],S)  // Commoner
 		CreateCreature("WICOMM3",[850.806],S)  // Commoner
 END
+
+IF
+	Global("BHBG1Quest","GLOBAL",9)
+	Dead("WIRIEZEN")
+THEN
+	RESPONSE #100
+		SetGlobal("BHBG1Quest","GLOBAL",10)
+		ClearAllActions()
+		StartCutSceneMode()
+	DisplayStringHead("WIRIEZEN",~Sendai, witness me!~)
+	SmallWait(5)
+	Weather(RAIN)
+	Wait(1)
+	ActionOverride("WICOMM03",ReallyForceSpell("WICOMM03",CLERIC_CALL_LIGHTNING))
+	ActionOverride("WICOMM03",Kill(Myself))
+	Wait(1)
+	ActionOverride("WICOMM02",ReallyForceSpell("WICOMM02",CLERIC_CALL_LIGHTNING))
+	ActionOverride("WICOMM02",Kill(Myself))
+	CreateCreature("WISPID01",[639.885],S)
+	CreateCreature("WISPID01",[640.885],S)
+	CreateCreature("WISPID01",[638.885],S)
+	CreateCreature("WISPID03",[850.806],S)
+	CreateCreature("WISPID01",[641.885],S)
+	CreateCreature("WISPID01",[637.885],S)
+	EndCutSceneMode()	
+END

@@ -53,3 +53,11 @@ THEN
 		ActionOverride("WIILLASE",DestroySelf())
 		Continue()
 END
+
+IF
+	Global("BHBG1Quest","GLOBAL",21)
+THEN
+	RESPONSE #100
+		ActionOverride("WINERYS",EscapeArea())
+		Continue()
+END
