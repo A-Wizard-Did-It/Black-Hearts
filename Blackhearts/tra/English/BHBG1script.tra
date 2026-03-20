@@ -1098,7 +1098,7 @@
 @1211=~I didn't mean to. He forced my hand. Gods, if only he would have listened.~
 @1212=~Just doing my part to rid the world of one more ignorant yokel.~
 @1213=~I'm not proud of my actions here, but you should not make light of the man's death.~
-@1214=~Yes? If you don't have business with me, I suggest you move on. I've little interest in indulging a group of ragtag farmers playing at being adventures.~ 
+@1214=~Yes? If you don't have business with me, I suggest you move on. I've little interest in indulging a group of ragtag farmers playing at being adventurers.~ 
 @1215=~Well isn't she just a bright ray of sunshine. I thought these small towns would be friendlier.~
 @1216=~And aren't you so... pink.~
 @1217=~Forgive me. You just looked interesting. It's rare to find someone with gear as fine as yours in such a small town.~
@@ -1533,7 +1533,7 @@
 @1646=~I see. That's interesting, but not unexpected. So long as they are dead though, and you have the mirror. Let me see it, then. I can suppress the cursed aura of it and dispose of it properly.~
 @1647=~Dispose of it, or unlock its secrets for your own?~
 @1648=~Not all of us are so hungry for power that we'd tempt fate by dealing in cursed objects, Blackguard.~
-@1649=~Hmm yes, it's best that this be destroyed. I doubt the collector will feel overly distraught for not receiving it. You are owned full payment, regardless of the state of the mirror.~
+@1649=~Hmm yes, it's best that this be destroyed. I doubt the collector will feel overly distraught for not receiving it. You are owed full payment, regardless of the state of the mirror.~
 @1650=~I am. But their fates are tied to that mirror. I can only assume that if you disposed of them, the mirror would follow naturally.~
 @1651=~Alright, well the Happy Companions are no more and I retrieved the mirror that they had stolen. Go ahead and take it.~
 @1652=~They were disposed of. But the mirror you sent me to retrieve is likely what drove them to madness. I would take care with handling it, but here you are.~
@@ -1545,7 +1545,7 @@
 @1658=~I am. But their fates are tied to that mirror. I can only assume that if you disposed of them, the mirror would follow naturally.~
 @1659=~Cursed, you absolute moron. Just carrying this could have driven you mad and...~
 @1660=~Mpmh. Forgive my harsh words there. Don't you worry about it, pup. I'll just take this off your hands.~
-@1661=~This will need to be properly disposed of. I doubt the collector will feel overly distraught for not receiving it. You are owned full payment, regardless of the state of the mirror.~
+@1661=~This will need to be properly disposed of. I doubt the collector will feel overly distraught for not receiving it. You are owed full payment, regardless of the state of the mirror.~
 @1662=~Tsch. Aren't you a mouthy little pup today? Fine, I'll have to choose to believe that you just trusted my magical acumen enough that you thought it not worth mentioning.~
 @1663=~And yet, I think I will make good on the offer I made to you for this. Nine hundred and sixty gold. Take it. You deserve it, regardless of the outcome.~
 @1664=~Oh, <CHARNAME>. I know I may be harsh, but do you believe me unreasonable? This outcome would have been no different than if I had done the job myself.~
@@ -1846,8 +1846,8 @@
 @1956=~How about you? What was your first?~
 @1957=~I guess it's just something I'll have to come to terms with.~
 @1958=~Candlekeep seems like a perfectly dull place to have a childhood. How did you come out of that place with a personality to speak of?~
-@1959=~You'd be surprised at the circus of characters there. Forgetful Phlydia or surly old Reevor. One of Keepers, Hull, would always get into drunken antics on the walls. Then there was the innkeeper, Winthrop who was always full of ribs and jests. And Imoen, of course. Her antics got us through a lot of boring days.~
-@1960=~You'd be surprised at the circus of characters there. Forgetful Phlydia or surly old Reevor. One of Keepers, Hull, would always get into drunk antics. Then there was the innkeeper, Winthrop who was always full of ribs and jests. And Imoen, most importantly of all. Her antics got us through a lot of boring days. She's still with me even now.~
+@1959=~You'd be surprised at the circus of characters there. Forgetful Phlydia or surly old Reevor. One of the Keepers, Hull, would always get into drunken antics on the walls. Then there was the innkeeper, Winthrop who was always full of ribs and jests. And Imoen, of course. Her antics got us through a lot of boring days.~
+@1960=~You'd be surprised at the circus of characters there. Forgetful Phlydia or surly old Reevor. One of the Keepers, Hull, would always get into drunken antics. Then there was the innkeeper, Winthrop who was always full of ribs and jests. And Imoen, most importantly of all. Her antics got us through a lot of boring days. She's still with me even now.~
 @1961=~The Watchers instilled our personality in us with long lectures and rigorous classwork.~
 @1962=~Mostly by raising hells at every chance I could get. They'd have ironed it out of me at an early age, no doubt, if I didn't bash a few heads now and again.~
 @1963=~What personality? Illasera, I am just a person-shaped golem. Your concept of 'humor' confuses and enrages me.~
@@ -2544,9 +2544,9 @@
 @2639=~A projected image? Clever. That is not an easy spell to master.~
 @2640=~What's this? Are you here or...?~
 @2641=~I would have come to the gates to greet you personally, but I'm entertaining a glass of wine and a guest right now. If you have the time, I'd like you to come and meet him. I believe he may have some information you would find valuable. You can find me at the Elfsong tavern, in this district.~
-@2642=~I understand you may have some important business in the city, but you should come quickly. I cannot guarantee they will be able to remain with me much longer. Besides that, my wine glass is nearly empty.~
+@2642=~I understand you may have some important business in the city, but you should come quickly. I cannot guarantee they will be able to remain with me much longer. Besides, my wine glass is nearly empty.~
 @2643=~I am no novice mage. I would have come to the gates to greet you personally, but I'm entertaining a glass of wine and a guest right now. If you have the time, I'd like you to come and meet him. I believe he may have some information you would find valuable. You can find me at the Elfsong tavern, in this district.~
-@2644=~I understand you may have some important business in the city, but you should come quickly. I cannot guarantee they will be able to remain with me much longer. Besides that, my wine glass is nearly empty.~
+@2644=~I understand you may have some important business in the city, but you should come quickly. I cannot guarantee they will be able to remain with me much longer. Besides, my wine glass is nearly empty.~
 @2645=~<CHARNAME>, I found something.~
 @2646=~Nerys, I assume? Were you able to find out where Riezen is hiding?~
 @2647=~Nerys, this is Illasera. Sort of. Nerys informed us there was an old gorge Harpers used to use as a hideout somewhere outside the city. We're not sure where it is though.~
