@@ -3263,7 +3263,7 @@
 @5008=~You had to know I would come again for you, <CHARNAME>. For too long, you've counted yourself as that rarest of creature. A target that has escaped me.~
 @5009=~Not all of us have been wandering Faerûn like witless cattle, like you and pathetic Imoen and so many others of Bhaal's blood. Some of us have far greater aspirations.~ [ILLASE09]
 @5010=~The time of Alaundo's prophecy has come, <CHARNAME>. These rhyming ghosts here should have told you that much. Great things are afoot... and your contribution will be your death.~ [ILLASE10]
-@5011=~I haven't sat idle between my time up north and now, Illasera. You'll find me more challenging foe than any you've fought.~
+@5011=~I haven't sat idle between my time up north and now, Illasera. You'll find me more a challenging foe than any you've fought.~ /* or 'more challenging a foe' */
 @5012=~You disappoint me Illasera. I had thought you of all people wouldn't bow to 'destiny'.~
 @5013=~Who put you up to this, Illasera? Someone is leading you down this path and I'd know who.~
 @5014=~I'm done talking. This ends now.~
