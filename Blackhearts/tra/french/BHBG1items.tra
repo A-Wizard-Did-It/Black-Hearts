@@ -1,0 +1,743 @@
+@16=~Casque~
+@17=~Ce type de casque ouvert, fait de cuir renforcé ou de métal, couvre la majeure partie de la tête à l'exception du visage et du cou. Ces casques offrent généralement une protection au niveau du nez.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+– Protège contre les coups critiques
+
+Poids : 2~
+
+@18=~Casque des coups durs~
+@19=~Ce casque ne renferme aucun enchantement, mais il semble avoir été renforcé avec quelques fourrures astucieusement placées qui offrent à son porteur une protection légèrement accrue contre les coups à la tête. Malheureusement, il empeste aussi la bière éventée, et vous soupçonnez qu'aucun lavage ne parviendra jamais vraiment à faire disparaître l'odeur.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Points de vie : +3
+– Protège contre les coups critiques
+
+Poids : 2~
+
+@22=~Épée bâtarde Fléau-des-Humains~
+@23=~Également appelée épée à une main et demie, l'épée bâtarde doit son nom à sa taille intermédiaire entre l'épée à deux mains et l'épée longue.
+
+Cette vieille épée cabossée a reçu un enchantement de fléau qui la rend particulièrement meurtrière contre les humains. Du sang semble avoir taché à jamais sa lame ébréchée. Le simple fait de porter une telle arme est souvent considéré comme un signe de noirceur morale, mais sens pratique et vertu font rarement bon ménage.
+
+CARACTÉRISTIQUES :
+
+Charisme : -2
+
+TAC0 : +1
+Dégâts : 2d4+1, +3 contre les humains
+Facteur de vitesse : 7
+Type de maîtrise : Épée bâtarde
+Type : À une main
+Nécessite :
+ 11 en Force
+
+Poids : 9~
+
+@26=~Livre de sorts de Sazazir~
+@27=~Ce lourd volume contient les sorts et les écrits de Sazazir. L'essentiel est indéchiffrable, mais vous avez pu en arracher quelques pages contenant des sorts susceptibles d'être copiés. Pour autant que vous puissiez en juger, le reste de l'ouvrage se compose surtout des divagations d'un fou terrorisé par une sorte de comptable appartenant à un ancien culte dont il faisait partie et qui semblait déterminé à l'assassiner. Plusieurs passages expliquent également qu'il était souvent presque paralysé de peur à l'idée que son propre squelette puisse être le prochain à le trahir.
+
+CARACTÉRISTIQUES :
+
+Poids : 6~
+
+@31=~Sac pouvant contenir une quantité tout à fait normale de choses~
+@32=~Autrefois légendaire sac sans fond, cet objet a manifestement perdu l'enchantement qui ouvrait son intérieur sur une dimension de poche. Ce n'est désormais plus qu'un sac ordinaire en tous points, et donc parfaitement inutile.
+
+CARACTÉRISTIQUES :
+
+Poids : 1~
+
+@33=~Copie du Liberus Optimae Erositica~
+@34=~Sans être l'authentique Liberus Optimae Erositica, ce volume copié paraît reproduire fidèlement l'ouvrage original. En examinant sa couverture plutôt suggestive, vous êtes tenté de l'ouvrir pour parcourir le contenu salace du librum, mais les regards réprobateurs de vos compagnons étouffent vite cette impulsion. Du moins jusqu'à ce que vous puissiez trouver un moment d'intimité.
+
+CARACTÉRISTIQUES :
+
+Poids : 10~
+
+@35=~Recueil de manuscrits~
+@36=~Ce volume renferme les manuscrits de la dramaturge Salena Fairsky, que la rumeur dit membre des Ménestrels, notamment des pièces populaires telles que « L'Énigme de Merryweather » et « Murmure à six ».
+
+Les pièces de Salena sont réputées pour la beauté de leur écriture et pour leurs personnages explorant les thèmes cycliques de la nature humanoïde. Les critiques leur reprochent cependant souvent d'être excessivement chargées et de recourir à des dénouements deus ex machina pour résoudre leurs conflits principaux.
+
+Les dernières pages contiennent son ultime pièce inachevée, intitulée « Cœur noir ». Elle met en scène une femme appelée la « Cardinale » qui courtise « l'Homme pâle », meurtrier de sa famille alors qu'elle n'était qu'une enfant. En gagnant sa confiance, elle semble vouloir se servir de leur relation pour le détruire. Le point culminant de la pièce tourne autour de ses efforts pour retourner les enfants de l'Homme pâle contre lui et les uns contre les autres, détruisant sa famille comme il avait détruit la sienne. Dans la dernière scène, elle se tient victorieuse, mais sa peau commence à prendre la pâleur mortelle de l'Homme gris ; elle comprend alors qu'elle est devenue semblable à lui et, ce faisant, l'esclave d'un cycle éternel.~
+
+@37=~Anneau de résistance magique mineure~
+@38=~Les anneaux de résistance à la magie sont des accessoires courants chez les guerriers de Rashéménie, qui s'en servent pour se protéger de leurs ennemis jurés, les Magiciens Rouges de Thay. Plus d'un Magicien Rouge a lancé une boule de feu sur une bande de guerriers rashémi avant de les voir émerger des flammes sans une brûlure et foncer droit sur lui.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Résistance à la magie : +10 %
+
+Poids : 0~
+
+@42=~Verre d'Éternité corrompu~
+@43=~Vous avez récupéré cet objet sur un groupe d'aventuriers déments qui vous ont attaqué en poussant des hurlements proprement surnaturels. Bien qu'il soit censé s'agir d'une Lentille de vision véritable, sa surface est ternie et, lorsque vous observez brièvement votre reflet, vous distinguez une sombre présence qui se dresse derrière vous. Vous avez rapidement enveloppé l'objet dans un tissu, dans l'espoir d'entraver la magie infâme qui l'imprègne.~
+
+@62=~Lame de saignée~
+@63=~Ce katana teinté de pourpre est imprégné d'un enchantement qui fait saigner lentement et durablement ceux qu'il frappe. Son histoire exacte reste entourée de mystère, bien qu'il ait été manié par de nombreux assassins. Certains soupçonnent même qu'il soit passé entre les mains de plusieurs Traqueurs de la Mort et qu'il soit responsable de la fin atroce de plusieurs nobles et personnalités politiques au fil des ans.
+
+CARACTÉRISTIQUES :
+
+Capacités de combat :
+- Inflige 2 points de dégâts de saignement supplémentaires par round, jusqu'à un total de 10 points de dégâts
+
+TAC0 : +1
+Dégâts : 1d10+1 (tranchants)
+Facteur de vitesse : 3
+Type de maîtrise : Katana
+Type : À une main
+Nécessite :
+ 6 en Force
+
+Poids : 5~
+
+@59=~Verre d'Éternité brisé~
+@60=~Bien qu'il ait jadis été un puissant objet magique, le Verre d'Éternité est désormais brisé et inutilisable : sa monture est tordue et abîmée, et le verre autrefois doté de vision véritable a tout simplement disparu sans laisser de trace. Vous doutez que cet objet puisse encore valoir quoi que ce soit.~
+
+@66=~Lettre~
+@67=~PLACEHOLDER~
+
+@71=~Il s'agit de l'une des petites araignées qui ont jailli du corps de l'homme dans l'auberge du Chant de l'Elfe, grandissant instantanément en émergeant. Il y a quelque chose de particulièrement répugnant à transporter le cadavre de cette araignée après qu'elle a rampé dans le corps d'un homme. Des morceaux de viscères restent encore accrochés à ses pattes aux arêtes anormalement tranchantes.~
+
+@80=~Cuirasse de l'arachnide~
+@81=~Cette armure de cuir est doublée de fils de toile d'araignée qui offrent à la fois une excellente protection et un étrange effet secondaire : lorsque le porteur est frappé, les toiles jaillissent sur l'assaillant et l'emprisonnent brièvement. L'effet se déclenche même contre les attaquants à distance. Ces armures sont courantes en Ombreterre, où elles sont portées par des druides marginaux qui entretiennent des bosquets de champignons ou prennent soin des nombreuses créatures étranges de ces royaumes obscurs.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+– 30 % de chances d'emprisonner les attaquants comme avec le sort Toile d'araignée, sauf jet de sauvegarde réussi
+
+Classe d'armure : 7 (9 contre les dégâts perforants et les projectiles)
+Nécessite :
+ 4 en Force
+
+Poids : 10~
+
+@82=~Don de Sendaï~
+@83=~Vous avez récupéré ce collier hérissé de ronces sur Riezen Darkeyes, le Ménestrel renégat. Il porte un léger enchantement protecteur qui améliore modestement la classe d'armure et les jets de sauvegarde. Un message en langue drow est gravé sur le collier.
+
+« À mon amant touché par le soleil. Accomplis tes grandes œuvres en songeant à mes lèvres sombres. »
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+– Classe d'armure : +1
+– Jets de sauvegarde : +1
+
+Poids : 1~
+
+@84=~Journal codé de Riezen Darkeyes~
+@85=~Vous avez récupéré ce journal sur Riezen Darkeyes, le Ménestrel renégat. Son contenu est cependant chiffré à l'aide d'un code extrêmement élaboré qu'il vous est impossible de déchiffrer. En parcourant les pages, vous soupçonnez qu'il faudrait des mois, voire des années, à un expert en décryptage pour tout reconstituer.
+
+Poids : 5~
+
+@89=~Collier de Brilla~
+
+@90=~Lettre inachevée~
+@91=~Krollir,
+
+Rapport de situation — Nous continuons à surveiller de près ce qui se passe à la Porte de Baldur. Je crois que tes soupçons quant à l'imminence d'un événement majeur n'étaient pas infondés. Le Trône de Fer continue de manipuler la région et de consolider son pouvoir. Il serait sage d'établir dès maintenant un partenariat avec eux ; ils semblent du genre à payer grassement pour nos services.
+
+Nous avons également repéré une enclave de Magiciens Rouges au cœur de la ville. Nous pensons qu'ils sont alliés au Trône de Fer, même si, comme tu l'as signalé, nos renseignements n'indiquent aucune relation officielle entre les deux organisations. D'après nos propres recherches, les Magiciens Rouges d'ici sont dirigés par une certaine Cherise, une femme dont le passé nous intrigue. Elle fait partie de l'ancien ordre des cultistes, comme nombre de ceux que notre client de la région nous a ordonné d'éliminer. Les choses pourraient se compliquer si l'on nous demande de l'assassiner ; je m'en remettrai bien entendu à ton jugement quant à la marche à suivre.
+
+Autre point de ce rapport : nous détenons désormais l'agente ménestrel dont on nous avait prévenus qu'elle fouinerait dans les parages. Il est frustrant qu'on nous ait ordonné de la garder en bonne santé alors qu'arracher ses secrets aux Ménestrels aurait pu être tellement plus amusant. Je te l'avoue, je n'aime pas travailler pour un client qui possède plus de secrets que nous. Cela dit, nous sommes également proches d'une percée de ce côté-là. Bientôt, nous aurons leur ident-
+
+*La lettre s'arrête ici, probablement interrompue par votre attaque contre les Couteaux de la Nuit*~
+
+@92=~Fortune empruntée~
+@93=~Loyle Nosbrun était un joueur invétéré, un homme qui ne quittait jamais sa maison sans prendre un pari et n'y revenait jamais sans en avoir pris deux de plus. Si un tel mode de vie conduit généralement au désastre, Loyle trouvait toujours une échappatoire ou bénéficiait d'un retournement de fortune inattendu qui réglait ses dettes et lui permettait de jouer un jour de plus. Certains attribuaient cette chance surnaturelle à l'épée criarde qu'il portait à la hanche et dont il ne semblait jamais se séparer.
+
+Mais même la chance de Loyle finit par s'épuiser lorsqu'il se retrouva dans un repaire criminel avec une dette devenue incontrôlable. Face au seigneur du crime qui dirigeait les lieux, Loyle proposa un dernier pari : un seul jet de dé, largement en sa défaveur, qui effacerait toutes ses dettes ou le condamnerait à servir à jamais les caprices du criminel. Il saisit son épée, embrassa sa lame et lança le dé, qui, contre toute attente, lui donna raison. Soulagé, Loyle quitta le repaire. Quelques instants plus tard, il fut, de manière tout aussi improbable, écrasé par une vache qu'une wyverne avait laissée échapper de ses serres très haut dans le ciel.
+
+Lorsque vous ramassez la lame, vous sentez votre chance s'améliorer considérablement. Mais une légère appréhension vous gagne également : cette fortune ne semble pas vous être donnée, seulement empruntée à l'avenir. Avec le temps, toute chance finit par s'équilibrer.
+
+CARACTÉRISTIQUES :
+
+Chance : +1
+1 % de chances à chaque coup que... quelque chose se produise
+
+TAC0 : +2
+Dégâts : 1d6+2 (perforants)
+Facteur de vitesse : 1
+Type de maîtrise : Épée courte
+Type : À une main
+Nécessite :
+ 4 en Force
+
+Poids : 2~
+
+@94=~Anneau de savoir arcanique~
+@95=~Lorsque vous portez cet anneau, les faits et les détails vous reviennent plus facilement à l'esprit, améliorant considérablement votre mémoire à long terme. De tels anneaux sont courants chez les Magiciens Rouges de Thay, même si aucun d'entre eux n'oserait jamais admettre recourir à une telle béquille dans sa quête de maîtrise des arcanes.
+
+CARACTÉRISTIQUES :
+
+Intelligence : +2
+
+Poids : 0~
+
+@103=~Tome en lambeaux~
+@104=~*Ce tome paraît incroyablement ancien, vieux de plusieurs centaines d'années, peut-être même d'un millénaire. Vous ne parvenez à en déchiffrer que quelques griffonnages.*
+
+« ...bénis sommes-nous d'avoir reçu l'œuf... imaginez, un dragon imprégné de l'essence obscure de notre Seigneur lui-même. Quelle glorieuse dévastation... reçu une prémonition de notre sombre seigneur. Ceci doit être l'une des nombreuses graines semées au fil des années. Pour préserver son essence au cas où... dissimulé notre enclave avec soin mais... trop dangereux. Ses ennemis ont remarqué notre présence. Nous devons abandonner ce sanctuaire... vers l'est, jusqu'au désert d'Anauroch. Là, nous élèverons le dragonnet en secret, pendant des siècles s'il le faut, jusqu'à l'heure de la prophétie... Un jour, il se dressera pour prendre la place qui lui revient aux côtés du Seigneur. »~
+
+@108=~Pierre ioun orange vif~
+@109=~Cette pierre ioun brille d'une vive teinte orange qui vous fait dresser les cheveux sur la tête. Vous sentez une énergie presque tangible la parcourir. Les pierres ioun de ce type accroissent la puissance des mages qui les portent et sont très recherchées dans tous les Royaumes.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Niveau de lanceur de sorts de mage : +1
+
+Poids : 0~
+
+@110=~Gemme étrange~
+@111=~Cette gemme scintillante paraît étrangement légère dans votre main et dégage une aura surnaturelle. Vous ignorez à quoi elle sert, mais il semble préférable de la conserver jusqu'à ce que vous puissiez la confier à quelqu'un capable d'en faire usage.~
+
+@112=~Lettre~
+@113=~Cherise,
+J'ai reçu l'inventaire de tes créatures et la ménagerie placée sous tes ordres constitue une force impressionnante. Tu as raison de me soutenir dans mon ascension. Les zulkirs trembleront de peur lorsque tu retourneras à Thay, forte de mon appui. Je dois répéter que seuls moi-même, Winski, Cythandria ou mes lieutenants Semaj et Angelo devons être tes contacts. Eux seuls connaissent toute l'étendue de mes plans, notamment certains détails que le reste du Trône de Fer pourrait juger contestables. Je quitterai bientôt la Porte de Baldur pour une mission. À mon retour, nous nous réunirons de nouveau et la prochaine étape de mes plans te sera révélée.
+
+-S~
+
+@116=~Masse du mimique~
+@117=~Vous avez découvert cette masse dans les restes d'un mimique. Corrodée par son acide et couverte de son ichor gluant, elle est pourtant remarquablement intacte. Il est difficile de savoir quel enchantement elle portait à l'origine, mais son séjour dans le système digestif du mimique semble lui avoir transmis certaines propriétés de la créature. Lorsqu'elle frappe un ennemi, la masse peut l'emprisonner dans l'ichor adhésif du mimique ou l'asperger de ses fluides digestifs acides. Malgré sa puissance, ses propriétés la rendent également extrêmement difficile à lâcher une fois en main, car le revêtement gluant colle à la paume de son porteur. Seul un sort de Délivrance de la malédiction peut annuler cet effet.
+
+CARACTÉRISTIQUES :
+
+– Ne peut être retirée qu'avec un sort de Délivrance de la malédiction
+- 5 % de chances de paralyser la cible pendant 5 rounds (jet de sauvegarde contre le souffle)
+- 5 % de chances d'infliger 3d12 points de dégâts d'acide à la cible
+
+TAC0 : +2
+Dégâts : 1d6+3 (contondants)
+Facteur de vitesse : 5
+Type de maîtrise : Masse
+Type : À une main
+Nécessite :
+ 10 en Force
+
+Poids : 7~
+
+@118=~Épée bâtarde~
+@119=~Épée bâtarde +2~
+@120=~Également appelée épée à une main et demie, l'épée bâtarde doit son nom à sa taille intermédiaire entre l'épée à deux mains et l'épée longue. Elle possède une lame à double tranchant et une longue poignée qui permet, si on le souhaite, de la tenir à deux mains. Sa longueur totale varie entre quatre pieds et quatre pieds dix pouces.
+
+CARACTÉRISTIQUES :
+
+Dégâts : 2d4 (tranchants)
+Facteur de vitesse : 8
+Type de maîtrise : Épée bâtarde
+Type : À une main
+Nécessite :
+ 11 en Force
+
+Poids : 10~
+@121=~Un forgeron a non seulement conçu cette épée pour qu'elle soit mieux équilibrée et plus résistante qu'une lame ordinaire, mais de puissants enchantements lui ont également été conférés. Elle est plus rapide, plus précise et inflige bien davantage de dégâts qu'une arme standard de ce type.
+
+CARACTÉRISTIQUES :
+
+TAC0 : +2
+Dégâts : 2d4+2 (tranchants)
+Facteur de vitesse : 6
+Type de maîtrise : Épée bâtarde
+Type : À une main
+Nécessite :
+ 11 en Force
+
+Poids : 7~
+
+@125=~Gemme astrale blanche~
+@126=~Cette gemme scintillante dégage une légère aura magique. Vous soupçonnez aussitôt que les réunir permettra de lever les protections qui défendent Cherise dans son domaine astral.~
+
+@127=~Gemme astrale verte~
+@128=~Cette gemme scintillante dégage une légère aura magique. Vous soupçonnez aussitôt que les réunir permettra de lever les protections qui défendent Cherise dans son domaine astral.~
+
+@129=~Gemme astrale noire~
+@130=~Cette gemme scintillante dégage une légère aura magique. Vous soupçonnez aussitôt que les réunir permettra de lever les protections qui défendent Cherise dans son domaine astral.~
+
+@131=~Gemme astrale bleue~
+@132=~Cette gemme scintillante dégage une légère aura magique. Vous soupçonnez aussitôt que les réunir permettra de lever les protections qui défendent Cherise dans son domaine astral.~
+
+@135=~Pierre de garde d'entrave des flammes~
+@136=~Cette gemme éclatante est chaude au toucher, et sa surface semble onduler et se déplacer comme une pellicule huileuse. Une telle gemme pourrait vraisemblablement servir de puissant focalisateur pour un rituel d'entrave lié à l'élément du feu.~
+
+@137=~Écailles calcinées~
+@138=~Procurée dans la Cité d'Airain, cette cotte de mailles semble perpétuellement recouverte d'une fine substance huileuse. Lorsqu'elle est frappée, les mailles frottent les unes contre les autres, produisant des étincelles qui embrasent cette couche huileuse et projettent une gerbe de feu vers l'assaillant. L'enchantement tissé dans l'armure offre également une protection limitée contre le feu.
+
+CARACTÉRISTIQUES :
+
+30 % de chances de lancer Mains brûlantes sur l'assaillant lorsque le porteur est touché
+Résistance au feu : +40 %
+
+Classe d'armure : 3 (1 contre les dégâts tranchants, 5 contre les dégâts contondants)
+Nécessite :
+ 8 en Force
+
+Poids : 10~
+
+@139=~Lance glaciaire~
+@140=~La pointe de cette lance est faite de glace glaciaire prélevée dans les recoins les plus froids du Plan élémentaire de l'Eau. Le froid y est si mordant que l'air crépite à son contact et que même la flamme la plus brûlante ne pourrait espérer la faire fondre. En plus d'infliger des dégâts de froid supplémentaires, cette lance peut soumettre ses victimes à un froid paralysant qui ralentit tous leurs mouvements.
+
+CARACTÉRISTIQUES :
+
+Inflige +1 point de dégâts de froid à chaque coup
+30 % de chances de lancer Lenteur sur la cible à chaque coup
+
+TAC0 : +2
+Dégâts : 1d6+2 (perforants)
+Facteur de vitesse : 4
+Type de maîtrise : Lance
+Type : À deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 3~
+
+@141=~Bâton du Cœur de chêne~
+@142=~Dans les profondeurs de la forêt de Lethyr, la reine dryade Fariquoir règne sur un royaume secret de fées, inconnu au-delà des lisières. Fait inhabituel chez les dryades, le harem de Fariquoir se compose de druides, hommes et femmes, libres de leur volonté et nullement ensorcelés par ses charmes. Ils la servent plutôt comme conseillers, par amour et respect pour leur reine. Grâce à leurs conseils, elle gouverne en paix et en harmonie avec les civilisations qui entourent la forêt depuis avant toute mémoire humaine.
+
+À ses consorts les plus estimés, elle offre un bâton façonné à partir de branches tombées de son propre Arbre-Cœur, un grand chêne qui se dresse au centre de Lethyr. Ce bâton leur accorde la protection de l'Arbre-Cœur même au loin, ainsi qu'un lien plus profond avec le monde naturel.
+
+CARACTÉRISTIQUES :
+
+Niveau des sorts divins : +2
+Mémorise 1 sort supplémentaire de chaque niveau
+
+TAC0 : +2
+Dégâts : 1d6+2 (contondants)
+Facteur de vitesse : 4
+Type de maîtrise : Bâton
+Type : À deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 4
+
+Utilisable par :
+Druide
+Chaman~
+
+@146=~Don du Silence~
+@147=~L'histoire du Chant et du Silence est souvent racontée dans les tavernes du lointain Kara-Tur. Elle commence avec deux frères jumeaux, nés à la frontière de deux terres, l'une de Lumière et l'autre d'Ombre. Chacun naquit affligé d'une étrange malédiction. L'un ne pouvait s'exprimer qu'en vers et en chansons, et chacun de ses pas ou de ses gestes semblait accompagné d'une étrange mélodie. L'autre était condamné au silence, incapable de parler, et le moindre de ses pas paraissait étouffé et distant.
+
+Les dirigeants des principaux monastères de chacune des deux terres vinrent trouver la famille des frères promis à un grand destin. Ils convinrent chacun d'emmener l'un des enfants : le Frère du Chant au Monastère de la Lumière et le Frère du Silence au Monastère de l'Ombre. Chacun fut élevé selon les préceptes de son monastère et devint moine de l'ordre correspondant.
+
+Les deux frères ne se retrouvèrent qu'à l'occasion d'un grand tournoi d'arts martiaux où tous deux représentaient leur monastère et finirent par s'affronter. Les récits de ce qui se produisit alors divergent fortement. Certains racontent qu'ils combattirent jusqu'à l'épuisement avant de tomber dans les bras l'un de l'autre. D'autres prétendent qu'ils se portèrent mutuellement un coup mortel et moururent ensemble.
+
+L'ordre du Frère du Silence forgea pour lui ce ninjatō spécial, imprégné de ses vertus. Lorsqu'elle est maniée, l'arme enveloppe son porteur de silence, le rendant muet et étouffant chacun des sons qu'il produit. Ceux qu'elle frappe sont enveloppés du même silence.
+
+CARACTÉRISTIQUES :
+
+Réduit le porteur au silence lorsqu'elle est équipée
+Déplacement silencieux : +30 %
+25 % de chances de réduire la cible au silence pendant 30 secondes à chaque coup (jet de sauvegarde contre les sorts)
+
+TAC0 : +2
+Dégâts : 1d8+2 (tranchants)
+Facteur de vitesse : 2
+Type de maîtrise : Cimeterre/Wakizashi/Ninjatō
+Type : À une main
+Nécessite :
+ 6 en Force
+
+Poids : 3~
+
+@148=~Don du Chant~
+@149=~L'histoire du Chant et du Silence est souvent racontée dans les tavernes du lointain Kara-Tur. Elle commence avec deux frères jumeaux, nés à la frontière de deux terres, l'une de Lumière et l'autre d'Ombre. Chacun naquit affligé d'une étrange malédiction. L'un ne pouvait s'exprimer qu'en vers et en chansons, et chacun de ses pas ou de ses gestes semblait accompagné d'une étrange mélodie. L'autre était condamné au silence, incapable de parler, et le moindre de ses pas paraissait étouffé et distant.
+
+Les dirigeants des principaux monastères de chacune des deux terres vinrent trouver la famille des frères promis à un grand destin. Ils convinrent chacun d'emmener l'un des enfants : le Frère du Chant au Monastère de la Lumière et le Frère du Silence au Monastère de l'Ombre. Chacun fut élevé selon les préceptes de son monastère et devint moine de l'ordre correspondant.
+
+Les deux frères ne se retrouvèrent qu'à l'occasion d'un grand tournoi d'arts martiaux où tous deux représentaient leur monastère et finirent par s'affronter. Les récits de ce qui se produisit alors divergent fortement. Certains racontent qu'ils combattirent jusqu'à l'épuisement avant de tomber dans les bras l'un de l'autre. D'autres prétendent qu'ils se portèrent mutuellement un coup mortel et moururent ensemble.
+
+L'ordre du Frère du Chant forgea pour lui ce wakizashi spécial, imprégné de ses vertus. Lorsqu'elle est maniée, l'arme chante avec les accents de son Hymne divin, inspirant aux alliés de son porteur une vaillance accrue au combat. Pour celui qui tient la lame chantante, cependant, cette musique peut devenir une distraction grisante au cœur de la bataille.
+
+CARACTÉRISTIQUES :
+Effet du chant de barde sur le groupe après une attaque réussie
+Charisme : +1
+Pénalité de -2 à la Classe d'armure
+
+TAC0 : +2 (affecte les deux armes en cas de combat à deux armes)
+Dégâts : 1d8+2 (perforants)
+Facteur de vitesse : 1
+Type de maîtrise : Cimeterre/Wakizashi/Ninjatō
+Type : À une main
+Nécessite :
+ 5 en Force
+
+Poids : 1~
+
+@150=~Robe de vif-argent~
+@151=~Vous avez beau chercher, vous n'avez pas la moindre idée de la matière dont cette robe est faite ni même de la façon dont elle peut exister. Sa substance est un tourbillon d'argent et de bleu qui se déplace comme un liquide métallique ; lorsqu'on la porte, elle ne paraît pas tout à fait solide, mais ressemble plutôt à une sorte de liquide semi-rigide, sensation assez déroutante. Elle conserve pourtant parfaitement la forme d'une robe et ne semble nullement menacer de fondre sur votre corps. De plus, son porteur ressent en permanence un picotement au bout des doigts et a toujours les petits poils hérissés.
+
+Aussi étrange que soit sa fabrication, ses effets le sont davantage encore. La robe génère autour d'elle un puissant champ magnétique qui repousse toutes les attaques d'armes, et tout particulièrement les projectiles. Sa matière semble glisser dans l'air sans rencontrer la moindre résistance. Enfin, son aura magnétique amplifie aussi les effets de l'électricité alentour. C'est une arme à double tranchant : les sorts électriques lancés par son porteur sont renforcés, mais celui-ci devient également plus vulnérable à ces mêmes effets.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+Classe d'armure : 6
+Classe d'armure contre les projectiles : 3
+Vitesse de déplacement accrue
+Dégâts des sorts d'électricité : +20 %
+Résistance à l'électricité : -30 %
+
+Poids : 6
+
+Utilisable par :
+Mages
+Druide
+Chaman~
+
+@153=~Symbole impie de Bhaal~
+@154=~Une représentation du dieu défunt Bhaal. Ce symbole est fissuré et usé par le temps.~
+
+@155=~Bottes du voyageur robuste~
+@156=~Ces bottes de fourrure paraissent très usées, presque miteuses, mais il est impossible de nier le confort qu'elles procurent aux pieds de leur porteur. La légende raconte qu'elles appartenaient à un nain voyageur qui parcourait Faerûn de long en large, ne s'arrêtant jamais plus de quelques jours avant de repartir vers une nouvelle destination. Si l'histoire est vraie, ces chaussures ont enduré toute une vie d'usure et semblent pourtant toujours prêtes à entraîner leur porteur vers des voyages plus lointains encore.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+Constitution : +1
+
+Poids : 4~
+
+@163=~Targe de la Tempête~
+@164=~La Targe de la Tempête fut créée par une prêtresse de Tempus qui déplorait de voir tant de guerriers se cacher derrière leur bouclier au combat. Si elle respectait le rôle défensif du bouclier dans l'arsenal d'un combattant, elle savait qu'un comportement aussi lâche ne lui vaudrait jamais la faveur de son dieu. Cherchant à unir attaque et défense, elle créa une fusion parfaite des deux : un bouclier offrant une excellente protection tout en poussant son porteur à l'offensive. Contrairement aux boucliers qui favorisent une approche plus prudente du combat, la Targe de la Tempête est destinée à être maniée comme une arme de la main non directrice, repoussant une attaque à un instant et frappant l'ennemi au suivant. L'effet se rapproche du combat à deux armes, tout en conservant la protection d'un bouclier dans l'autre main.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+– 1 attaque supplémentaire par round
+– TAC0 : -2
+– Classe d'armure : +3
+– Aucune protection contre les projectiles
+
+Nécessite :
+ 4 en Force
+
+Poids : 2~
+
+@165=~Journal déchiffré de Riezen Darkeyes~
+@10001=~*Note de la traductrice : j'ai parcouru le volume et retranscrit les entrées les plus importantes. J'espère que cela vous aidera, ou qu'au moins vous les trouverez intéressantes.
+
+Entrée 1 — La direction des Ménestrels s'est réunie et m'a confié la poursuite d'une femme qui a été aperçue en compagnie de plusieurs enfants de Bhaal connus. La mission est strictement confidentielle. Je ne dois en parler à personne et ne devrais même pas laisser de trace écrite de ma tâche. Je ne le fais qu'au moyen d'un code soigneusement élaboré que seuls moi-même ou d'autres Ménestrels de haut rang devraient pouvoir déchiffrer, au cas où je serais incapable d'accomplir ma mission ou de faire mon rapport.
+
+Entrée 6 — J'ai localisé ma cible et commencé à la suivre. Elle ignore encore que je suis sur ses traces. Elle s'est toutefois enfoncée en Ombreterre pour une raison que je ne parviens pas à deviner. C'est inquiétant, mais je poursuivrai ma mission et la suivrai sous terre. J'espère seulement ne pas rencontrer là-bas mes maudits parents obscurs.
+
+Entrée 9 — Je suis ma cible sous terre depuis des jours. Ou... peut-être des semaines ? Ici, je perds toute notion du temps. Sa destination est enfin apparue. Elle est venue dans un petit sanctuaire, à l'écart des grandes cités drows. D'autres drows entretiennent toutefois le lieu. Le complexe porte les marques de Bhaal... ils se cachent sans doute des drows adorateurs de Lolth, qui détruiraient tout sanctuaire consacré à une divinité de la surface, même aussi infâme que la leur. Elle demeure au sanctuaire auprès d'une jeune drow qu'elle semble instruire. Elle doit à peine être adulte. Elle est... assez belle, malgré son héritage sombre.
+
+Entrée 13 — J'ai fait d'une vaste caverne de l'Ombreterre ma demeure pendant que j'observe ma cible et sa sombre protégée. Les champignons que je cultive et la faune locale suffisent à me nourrir. Le soleil me manque, mais pas autant qu'il manquerait à certains des miens. J'ai toujours ressenti une attirance pour les recoins ombragés du monde souterrain. En entretenant mes bosquets de champignons, je commence à éprouver un respect nouveau pour mes cousins obscurs.
+
+Entrée 18 — J'ai commis une terrible erreur. Alors que je m'occupais de mes cultures, quelqu'un m'a surpris. Je craignais que les abominables drows m'aient découvert, mais ce n'était que la jeune drow que ma cible instruisait. Je sais maintenant pourquoi. C'est une enfant du dieu noir. Une enfant de Bhaal. Est-il de notre devoir, à nous Ménestrels, de protéger de tels êtres ? Elle est si belle, si curieuse. Elle ne m'a pas haï lorsqu'elle m'a découvert. Elle voulait parler. Elle a même promis de ne pas me révéler aux siens.
+
+Entrée 19 — Elle vient désormais me rendre visite régulièrement. Elle s'appelle Sendaï. Je crois que je l'aime.
+
+Entrée 22 — Ma cible a quitté l'enclave il y a quelque temps, mais je ne l'ai pas suivie. Je ne peux pas la suivre. C'est peut-être un abandon de ma mission, mais je sens que je dois rester ici avec Sendaï. Elle me parle de ses projets, de ce qu'elle est née pour accomplir. Cela m'effraie car, de plus en plus, je crois qu'elle dit vrai. Je souhaite pour elle le destin dont elle parle.
+
+Entrée 29 — Ceci sera ma dernière entrée. Je me suis voué à Sendaï de tout mon cœur. Elle m'envoie accomplir une mission à la surface... Je dois détruire l'un de ses ennemis. Un enfant de Bhaal comme elle, qui pourrait s'élever avant que ses propres plans ne soient prêts. Nul ne doit voler cet héritage à mon amour. Les Ménestrels peuvent aller au diable.~
+
+@3323=~Wakizashi~
+@3324=~Le wakizashi, ou sabre compagnon, revêt une importance capitale pour le samouraï. Il est porté en permanence, même à l'intérieur, et demeure près de lui lorsqu'il dort. Aussi finement travaillé qu'un katana, le wakizashi est une épée plus courte, dont la lame mesure entre douze et vingt-quatre pouces, mais reste une arme dangereuse entre les mains d'un combattant expérimenté.
+
+CARACTÉRISTIQUES :
+
+Dégâts : 1d8 (perforants)
+Facteur de vitesse : 3
+Type de maîtrise : Cimeterre/Wakizashi/Ninjatō
+Type : À une main
+Nécessite :
+ 5 en Force
+
+Poids : 3~
+
+@3325=~Ninjatō~
+@3326=~Le sabre du ninja, le ninjatō, est de qualité inférieure aux autres lames kara-turiennes comme le katana. Court et muni d'une lame droite, il est particulièrement adapté aux opérations clandestines. Il convient aussi mieux aux espaces confinés, ce qui peut parfois donner au ninja un avantage sur les sabres plus longs utilisés par les samouraïs.
+
+CARACTÉRISTIQUES :
+
+Dégâts : 1d8 (tranchants)
+Facteur de vitesse : 4
+Type de maîtrise : Cimeterre/Wakizashi/Ninjatō
+Type : À une main
+Nécessite :
+ 6 en Force
+
+Poids : 5~
+
+@3327=~Lettre~
+@3328=~Patron,
+
+On a fait plein de bonnes tueries du côté de Bérégost. De beaux butins dans les caravanes. Jamais gagné de l'or aussi facilement depuis qu'on servait de gardes du corps à ces cultistes de la mort. Bon sang, qu'est-ce que c'était chiant, de surveiller ces prêtres sinistres. Rien que d'y penser, ça me donne envie de fracasser une autre caravane.
+
+Mes Eaux Rouges vont rester encore un peu dans le coin, histoire qu'on soit bien gras de butin. On rentre à la prochaine pleine lune.
+
+Toujours loyal,
+-Perthag~
+
+@6089=~Lettre de Nerys~
+@6090=~<CHARNAME>,
+
+J'espère que ce message vous trouvera, même si, si vous poursuivez la Croisade comme je le suppose, mon messager n'a probablement qu'à se planter au milieu de sa route et attendre.
+
+Vous avez de la chance de remonter par ici. Non loin de l'endroit où Bhaal fut tué, au pont de Boareskyr, se trouve un refuge des Ménestrels qui abrite, à ma connaissance, la plus importante collection d'informations sur lui et son héritage. D'ordinaire, les Ménestrels n'autorisent pas vraiment les étrangers à fouiller dans leurs archives, mais j'ai réussi à convaincre quelques personnes de regarder ailleurs pendant un petit moment. Je suis certaine que vous avez toutes sortes de questions sur votre héritage et ce qu'il signifie, et peut-être trouverez-vous ici quelque chose qui vous aidera. Si vous pouvez vous permettre une journée de marche depuis Vougedragon, vous trouverez le manoir Besequin à la lisière de la forêt de Trollécorce. Cette lettre contient des indications plus précises ainsi qu'une invitation que vous pourrez présenter aux gardes.
+
+Je vous y attendrai. Soyez prudent sur la route.
+
+-Nerys~
+
+@6266=~Tome de l'Ascension profane~
+@6267=~Vous avez récupéré ce tome dans un ossuaire obscur consacré à Bhaal. Ses pages poussiéreuses renferment les rites les plus secrets du Seigneur du Meurtre, notamment des méthodes de vivisection et de sacrifice rituel censées l'honorer au mieux. Vous sentez qu'autrefois un tel livre aurait dégagé une présence impie, mais la mort de Bhaal l'a laissé diminué : il n'est plus malsain que par les textes et les schémas qu'il contient.
+
+Un examen rapide révèle que de nombreuses pages vers la fin de l'ouvrage sont étranges. Elles sont couvertes de taches de sang, mais vous n'y voyez aucun texte. Elles semblent pourtant importantes. Quelqu'un qui connaît mieux les rites de Bhaal saura peut-être quoi en faire.~
+
+@6268=~Lame du vivisecteur~
+@6269=~Si beaucoup de fidèles de Bhaal pensaient que leur seigneur se souciait peu des souffrances précédant la mort et que seul l'instant du trépas l'honorait, d'autres croyaient qu'il admirait l'art de prolonger ces derniers instants jusqu'à une souffrance exquise. La Lame du vivisecteur était un outil porté par les grands prêtres de Bhaal qui adhéraient à cette philosophie. Son tranchant de rasoir était conçu non pour tuer rapidement, mais pour prélever morceau après morceau la chair des victimes sacrificielles. Même loin de la table de vivisection, le résultat est une arme redoutable.
+
+CARACTÉRISTIQUES :
+
+25 % de chances à chaque coup de laisser la cible paralysée par la douleur et étourdie pendant 6 secondes, sauf jet de sauvegarde contre la mort réussi.
+
+TAC0 : +2
+Dégâts : 1d6+2 (perforants)
+Facteur de vitesse : 1
+Type de maîtrise : Épée courte
+Type : À une main
+Nécessite :
+ 5 en Force
+
+Poids : 2~
+
+@6271=~Note de Cythandria~
+@6272=~À celui ou celle qui m'a tuée,
+
+Vous lisez probablement ceci en espérant que je vous aurai laissé un résumé bien propre de mes pensées et de mes sentiments, peut-être une explication de ce qui m'a conduite jusqu'ici. Peut-être cela vous aurait-il été utile, ou peut-être vouliez-vous simplement savourer votre victoire sur moi.
+
+Je refuse de vous donner cette satisfaction. Ma haine pour vous survivra à ma mort. Je serai là à chacun de vos échecs, chacune de vos infortunes, chacune de vos pertes. Et je rirai de vous.
+
+Je vous maudis. Puissent vos membres se flétrir et vos sens vous abandonner. Puissiez-vous être délaissé par tous ceux qui vous furent chers et finir sous la forme d'une carcasse oubliée, seule et sans amour. Vous ne le méritez pas. Moi non plus, et vous le méritez encore moins.
+
+Bâtard. Vous me trouvez mesquine ? Peut-être le suis-je. Je m'en moque. Rien n'a d'importance. Rien du tout.
+
+P.-S. : Si vous n'êtes pas la personne qui m'a tuée, eh bien, tout ceci vaut quand même pour vous.~
+
+@6531=~Stylet de lumière mouvante~
+@6532=~La lumière ne se reflète jamais tout à fait correctement sur la lame de cette dague : elle semble toujours captée puis déviée selon des angles étranges. Les reflets qu'elle produit paraissent ainsi tordus et déformés. Ces dagues sont surtout utilisées par des assassins illusionnistes, qui recourent à leurs sorts pour s'approcher d'une cible et frapper, puis profitent de la confusion créée par leurs illusions pour s'échapper.
+
+Cette dague particulière entrelace deux de ces sorts, qui s'activent lorsqu'elle frappe. Le premier fait prendre à la lumière réfractée autour du porteur la forme d'une copie illusoire identique à proximité, tandis que le second le rend invisible.
+
+CARACTÉRISTIQUES :
+
+25 % de chances à chaque coup de lancer Image miroir et Invisibilité sur le porteur.
+
+TAC0 : +2
+Dégâts : 1d4+2 (perforants)
+Facteur de vitesse : 0
+Type de maîtrise : Dague
+Type : À une main
+Nécessite :
+ 3 en Force
+
+Poids : 1~
+
+@6533=~Souvenir~
+@6534=~Ce bâton métallique est surmonté d'un grand saphir qui éclaire légèrement les environs. Il fut créé par un mage singulièrement distrait qui s'irritait d'oublier, au matin, les sorts mêmes qu'il avait étudiés toute la nuit. Les témoins se demandaient peu pourquoi sa mémoire était si glissante, car il avait tendance à se frapper la tête avec son propre bâton dans ses moments de frustration. Son enchantement permettait au moins à cette habitude punitive d'annuler autant de tort qu'elle en causait, même si cela le conduisait souvent à oublier un sort au moment où il s'en rappelait un autre.
+
+À la fin de sa vie, il transmit son bâton à une prêtresse de Tempus qui lui était chère. Elle découvrit que s'en servir pour matraquer le crâne des monstres fonctionnait bien mieux que de se taper sur la tête soi-même.
+
+CARACTÉRISTIQUES :
+
+À chaque coup : restaure un sort dépensé de niveau 2 ou inférieur.
+
+TAC0 : +1
+Dégâts : 1d6+1 (contondants)
+Facteur de vitesse : 3
+Type de maîtrise : Bâton
+Type : À deux mains
+Nécessite :
+ 5 en Force
+
+Poids : 4~
+
+@6732=~Livres et notes divers~
+@6733=~Cet assortiment de livres d'histoire et de lettres décrit des incidents locaux et des sujets de préoccupation pour la cellule des Ménestrels installée ici. Ces documents couvrent une région allant à l'est jusqu'aux Hautes Landes, au sud jusqu'à la Porte de Baldur et au nord jusqu'à Gué-de-la-Dague. Les Ménestrels ont manifestement beaucoup d'intérêts dans la région. Les organisations criminelles locales et autres groupes politiques cherchant à dominer la région accorderaient sans doute une grande valeur à ces écrits, mais ils ne vous sont guère utiles.~
+
+@6734=~Temps des Troubles — Le Fléau des assassins~
+@6735=~13 Éléasis 1358 CV
+
+Baine et Myrkul préparèrent un assaut contre la cité de Tantras, où le dieu Torm protégeait l'une des Tablettes du Destin aux côtés de ses plus valeureux fidèles. Alors que les forces de Château-Zhentil marchaient vers la ville sur la côte de la Mer de Lune, Baine et Myrkul conçurent un plan terrible. Non loin de là était dissimulé un immense golem de verre noir, forgé dans les Enfers eux-mêmes, appelé le Frère Noir. Baine l'avait caché à une époque reculée, car ses complots s'étendaient sur des siècles et il savait qu'un jour Tantras deviendrait une conquête cruciale. Un rituel ancien pouvait l'animer et permettre à l'avatar de Baine de l'habiter ; avec sa puissance prodigieuse, il pourrait détruire la cité et ses défenseurs, Torm compris, puis reprendre la Tablette du Destin.
+
+Cependant, pour alimenter le golem, il fallait un immense réservoir d'âmes, des âmes suffisamment sombres pour s'accorder au mal de Baine. Il se trouva justement qu'il disposait d'une réserve toute prête. À proximité, les prêtres noirs de Myrkul préparaient un sort de mort à très grande échelle, peut-être le plus immense jamais conçu. Par des moyens inconnus, Baine et Myrkul avaient obtenu les Noms Véritables de tous les assassins de Faerûn. Leur connaissance permit à Myrkul de lancer un sort de mort massive qui tua chacun d'eux, tandis que les prêtres de Baine accomplissaient un rituel appelé le Vol des Âmes afin de capter leur force vitale et de la canaliser dans le Frère Noir. Baine se releva doté d'une puissance effroyable, et la bataille qui s'ensuivit contre Torm demeure peut-être l'un des épisodes les plus remarquables du Temps des Troubles.
+
+On évoque moins souvent la manière dont la mort de tant d'assassins affaiblit directement le pouvoir de Bhaal en Faerûn. En tant que dieu du meurtre et des assassins, Bhaal perdit ainsi la majeure partie de ses fidèles. Son avatar devint une coquille vide de sa puissance passée, si diminuée qu'il fut aisément abattu par le mortel Cyric et son épée Fléau des Dieux.~
+
+@6736=~Rapport de mission : assaut du temple~
+@6737=~Messire,
+
+Je vous informe que la mission fut un succès. Nous avons pénétré dans le temple avec rapidité et éliminé ses gardes sans un bruit, sous le couvert de la nuit. Nos renseignements étaient exacts. Nous avons découvert les enfants rassemblés dans des enclos comme du bétail destiné à l'abattoir. Ils pouvaient être d'ascendance sombre, mais n'en demeuraient pas moins innocents. Nous nous sommes précipités pour en sauver autant que possible.
+
+La mêlée qui suivit fut chaotique, mais notre embuscade avait été bien préparée : nous sommes tombés sur les cultistes et les avons fauchés comme la lumière de Séluné tranche les ténèbres. Nous avons pu abattre la majeure partie de leur ordre sans subir trop de pertes, même si j'ai le regret d'annoncer qu'Arryn et Pearla sont tombés au combat. Quelques autres sont blessés, mais s'en remettront.
+
+Le chaos permit aux enfants de s'enfuir, ce qui fut une arme à double tranchant. Ils ne courent plus de danger immédiat, mais nous n'avons pas réussi à retrouver la plupart d'entre eux. Nous rentrerons bientôt avec ceux que nous avons pu mettre en sécurité. Il nous faut mobiliser nos éclaireurs au plus vite pour retrouver les autres ; je crains ce qui pourrait arriver s'ils tombaient entre de mauvaises mains.~
+
+@6738=~Rapport écologique : Rivière Sinueuse~
+@6739=~Après de nombreux essais, il semble que la Rivière Sinueuse ait été irrémédiablement souillée par le sang du dieu noir. Les effets restent subtils, mais les cercles druidiques proches du fleuve les constatent sans ambiguïté. L'eau elle-même coule plus sombre qu'à l'accoutumée. Les animaux refusent généralement de la boire et les plantes qui poussent alentour prennent la forme de ronces tordues. Nous avons constaté qu'elle n'est pas immédiatement toxique à boire, mais qu'en grande quantité elle provoque maladie, puis mort. Plusieurs talontes ont été surpris à expérimenter avec cette eau, sans doute dans l'espoir de créer des poisons plus abominables encore à partir de sa contamination.
+
+Plusieurs druides font tout leur possible pour purifier le cours d'eau, mais ce travail devrait prendre des années, voire des générations. Un autre phénomène curieux mérite d'être signalé : les rares cultistes de Bhaal qui subsistent semblent tirer une certaine puissance divine de l'eau elle-même. Peut-être une part de la divinité de Bhaal demeure-t-elle dans la rivière.
+
+*Note : il a été établi que le résidu divin contenu dans l'eau ne s'étend pas au-delà d'une demi-journée de voyage à cheval. Je suppose cependant qu'une concentration plus forte de cette souillure dans l'eau pourrait être transportée et fournir ainsi un lien direct avec sa source.*~
+
+@6740=~Bâton de guerre~
+@6741=~Les bâtons de guerre diffèrent des bâtons ordinaires en ce qu'ils sont faits de métal et lestés à leurs deux extrémités. Ils sont destinés à être tenus par le milieu, ce qui permet de frapper rapidement avec chacune des deux extrémités tout en déviant les coups adverses.
+
+CARACTÉRISTIQUES :
+
+Dégâts : 1d6 (contondants)
+Facteur de vitesse : 4
+Type de maîtrise : Bâton
+Type : À deux mains
+Nécessite :
+ 7 en Force
+
+Poids : 6~
+@6742=~Bâton de guerre monastique +2~
+@6743=~Les bâtons de guerre diffèrent des bâtons ordinaires en ce qu'ils sont souvent faits de métal ou de bois extrêmement dense et lestés à leurs deux extrémités. Ils sont destinés à être tenus par le milieu afin de frapper rapidement avec chacune des deux extrémités.
+
+Ce bâton provient d'une enclave secrète de l'Ancien Ordre et a été enchanté pour être manié par les plus grands guerriers de l'Ordre.
+
+Les moines peuvent utiliser ce bâton et sont toujours considérés comme le maîtrisant.
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Classe d'armure : +2
+- 1 attaque supplémentaire par round
+- Utilisable par les moines
+
+TAC0 : +2
+Dégâts : 1d6+2 (contondants)
+Facteur de vitesse : 4
+Type de maîtrise : Bâton
+Type : À deux mains
+Nécessite :
+ 7 en Force
+
+Poids : 6~
+@6744=~Note sur les enfants de Bhaal connus~
+@6745=~Nous avons tenté de suivre la trace des enfants de Bhaal que nous connaissons, mais nos efforts se sont révélés difficiles. Cette difficulté est naturellement aggravée par la nécessité du secret au sein même de notre organisation. N'oubliez pas que les enfants de Bhaal représentent un danger particulier ; tout a donc été fait pour dissimuler leur localisation. Même parmi nos dirigeants, seuls quelques Ménestrels connaissent l'identité de plus d'un ou deux d'entre eux. Ceux qui étaient connus ont été placés dans des vies ordinaires et sans importance, afin de rester sous le regard de ceux qui voudraient se servir d'eux dans quelque manœuvre destinée à ramener leur Père divin. En menant des existences banales et normales, peut-être échapperont-ils au destin chaotique que la prophétie leur réserve.
+
+Nous devons nous employer par tous les moyens à atténuer les effets de la prophétie d'Alaundo. Si certains pensent que nous devrions jouer un rôle plus actif, Elminster insiste sur le fait qu'agir dans l'ignorance est pire que ne pas agir du tout. Nous savons encore si peu de choses. Si vous découvrez l'identité d'un enfant de Bhaal, ne la révélez à personne et ne risquez pas d'attirer l'attention sur lui en tentant de prendre contact. Nous qui jouons de la harpe devons toujours savoir quand chanter et quand garder le silence.~
+
+@6746=~L'Ascension du Soleil Noir~
+@6747=~Ce fut une funeste providence que le mortel Cyric s'élève en tenant non pas un seul portefeuille des Trois Morts, mais les trois. Il ne se reposa pas sur ses lauriers. Ceux qui avaient jadis adoré Baine, Bhaal et Myrkul se précipitèrent pour prêter allégeance au Soleil Noir : comment auraient-ils pu résister au pouvoir de ce dieu nouveau, qui incarnait tout ce que leurs anciens maîtres possédaient et bien davantage ? Ceux qui s'obstinèrent dans leurs anciennes fidélités ne reçurent, comme on pouvait s'y attendre, aucune pitié et furent exterminés dans leurs anciens lieux de culte.
+
+Depuis lors, Cyric s'emploie activement à effacer les vestiges des anciens dieux dont il a hérité les domaines. Les mausolées consacrés à Myrkul ont été profanés et remplacés par les symboles du Soleil Noir. Les vieux édifices de fer qui célébraient le règne de Baine ont été renversés et transformés en asiles. Dans les autels secrets du sacrifice sanglant, les dagues dentelées de Bhaal ont cédé la place à des lames courtes ornées de crânes, plus appropriées à Cyric.
+
+Qu'en est-il alors des descendants de Baine et de Bhaal qui subsistent encore ?
+
+Cyric s'est montré curieusement réservé envers les uns comme les autres. Iyachtu Xvim demeure introuvable, et peut-être Cyric est-il derrière le bannissement dont souffre la descendance de Baine. Il se mêle tout aussi peu des enfants de Bhaal et ne donne à ses fidèles aucune instruction à leur sujet. Ne devrait-il pas vouloir effacer ces derniers vestiges avec la même ferveur que les cultes et temples de Bhaal ? Jusqu'à présent, la réponse semble être non. Peut-être les observe-t-il de loin, attendant de voir comment leur évolution pourra être tournée à son avantage.~
+
+@6748=~Réexamen de la prophétie d'Alaundo~
+@6749=~De nombreuses interprétations de la prophétie d'Alaundo concernant les enfants de Bhaal ont été proposées au fil des années. La plupart des érudits s'accordent à penser que les grandes machinations de Bhaal visaient à faire de sa progéniture un instrument de son retour, ce que confirment d'autres prophètes de moindre renommée. À la lumière des informations nouvelles, nous devons réexaminer la prophétie et déterminer le mécanisme exact par lequel Bhaal entend revenir.
+
+La réponse semble d'abord évidente. La renaissance du Seigneur du Meurtre doit certainement passer par le meurtre lui-même. Mais une question demeure : ses enfants sont-ils destinés à être assassinés afin de provoquer son retour, ou doivent-ils accumuler eux-mêmes les meurtres et imiter ainsi leur père ? Ou les deux ?
+
+Lors de notre récent assaut contre le temple, il semblait que les cultistes de Bhaal aient l'intention de passer au fil de la lame tous les enfants de Bhaal qu'ils avaient rassemblés dès la destruction de leur dieu. Cela paraît toutefois contredire la prophétie, qui affirme que les enfants de Bhaal seront eux-mêmes la source du chaos, que celui-ci naîtra de leur passage. Le culte a-t-il agi trop tôt ? Curieusement, parmi tous les prêtres de Bhaal que nous avons interrogés, aucun ne semble avoir reçu une vision complète du mécanisme précis permettant le retour de leur Seigneur. Il est apparu que seul le Grand Traqueur de la Mort connaissait les rituels nécessaires. Peut-être la mort de leur dieu, en l'absence de toute autorité capable de les guider, les a-t-elle poussés à agir précipitamment. Un troupeau désorienté, chacun courant dans une direction différente.
+
+Devons-nous considérer la prophétie d'Alaundo comme inscrite dans la trame même du destin, ou n'était-elle qu'un avertissement sur ce qui pourrait advenir ? Quelles variables inconnues nous échappent encore ? Je poursuivrai mes recherches à Château-Suif. Mes protégés y mèneront une vie paisible.
+
+-Gorion~
+
+@6750=~Dossier : Amelyssan Cœur-Noir~
+@6751=~Race : Humaine
+Naissance : estimée vers 1330
+Peau : Claire
+Cheveux : Auburn, souvent teints d'un rouge plus sombre
+Yeux : Bleus
+Autres signes distinctifs : vue portant des plumes de colombe striées de sang.
+Rang : Grande Traqueuse de la Mort
+Mort : 1357 (consignée)
+
+On ne dispose que de très peu d'informations sur la dernière Grande Traqueuse de la Mort de Bhaal, connue sous le nom d'Amelyssan Cœur-Noir. Son implication dans le culte de Bhaal doit avoir commencé très tôt, car elle accéda au rang de Grande Traqueuse de la Mort à un âge remarquablement jeune. Si la plupart des fidèles de Bhaal pensent que leur Seigneur préférait les manifestations évidentes et sanglantes de ses victimes, Amelyssan était connue pour sa froide capacité de calcul et son talent pour la manipulation et l'intrigue. Peu de meurtres directs lui ont été attribués, mais sa présence fut observée dans les événements qui précédèrent l'Interrègne téthyrien, et elle est soupçonnée d'avoir été la principale instigatrice du chaos à l'origine des Dix Jours Noirs d'Éleinte, l'une des périodes les plus sanglantes de l'histoire de Faerûn. Son rôle dans d'autres épisodes de troubles civils extrêmes et de carnages est soupçonné, mais non confirmé.
+
+On sait seulement qu'elle jouissait d'une grande faveur auprès de son dieu et que sa parole s'imposait à tout assassin qu'elle rencontrait dès lors qu'il avait un jour adressé ne serait-ce qu'une prière au Seigneur du Meurtre. Sur son ordre, même le plus déloyal et intéressé des assassins se serait jeté sur sa propre lame.
+
+Amelyssan fut signalée pour la dernière fois dans les environs du Bief du Dragon pendant le Temps des Troubles. Elle fut suivie jusqu'à une rencontre avec des serviteurs de Baine et de Myrkul, dernière occasion où elle fut identifiée vivante. Plus tard, un corps correspondant approximativement à sa description et portant des effets associés à une prêtresse de son rang fut retrouvé non loin de la ville. Il avait été vidé de la même manière que tous les autres assassins lors de l'incident du Vol des Âmes. Son dossier a été clos et archivé.~
+
+@6752=~Rapport — Déplacements des enfants de Bhaal~
+@6753=~Monseigneur,
+
+Je sais que nous sommes censés rester en retrait dans notre surveillance des enfants de Bhaal, mais je jure que quelque chose se produit, et cela m'inquiète au plus haut point. J'ai pris contact séparément avec plusieurs collègues, et tous rapportent que les enfants de Bhaal dont ils avaient connaissance ont commencé à migrer vers le sud et l'ouest. Deux de ces collègues ont désormais disparu après avoir décidé d'enquêter plus avant et de parler directement à leurs protégés.
+
+Je vous le dis : une force pousse les enfants de Bhaal à se rassembler, et tous ceux qui creusent trop profondément connaissent une fin atroce. Est-ce le signe ? Sommes-nous à l'aube du chaos annoncé par Alaundo ? Pouvons-nous vraiment nous permettre une telle inaction alors que le danger est si proche ?~
+
+@7014=~Traduction de la prophétie~
+@6754=~Au temps des Avatars, le Seigneur du Meurtre engendrera une vingtaine d'enfants mortels. Parmi cette progéniture se trouveront le bien comme le mal, mais le chaos coulera en chacun d'eux. Lorsque les bâtards de la Bête atteindront l'âge adulte, ils sèmeront la désolation sur les terres de la Côte des Épées. L'un de ces enfants devra s'élever au-dessus des autres et réclamer l'héritage de son père. Cet héritier façonnera l'histoire de la Côte des Épées pour les siècles à venir.
+
+*Une note au-dessous indique :*
+L'une des interprétations les plus vérifiables des prophéties d'Alaundo que j'ai trouvées dans les salles de Château-Suif. J'en fournis cette copie afin qu'elle puisse être ajoutée à nos archives et étudiée.
+-Gorion~
+
+@7015=~Conjecture sur la prophétie~
+@6755=~Les descendants du Seigneur du Meurtre sont destinés à entrer en possession de leur héritage par le sang et la misère. Leur père souhaite qu'un seul d'entre eux demeure en vie afin d'hériter de son legs. Je prévois que les enfants de Bhaal s'entretueront dans un massacre sanglant.
+
+*Une note au-dessous indique :*
+Une autre de ces terribles traductions concernant les enfants de Bhaal que je trouve malheureusement convaincantes. J'en fournis cette copie afin qu'elle puisse être ajoutée à nos archives et étudiée.
+-Gorion~
+
+@6875=~Rapport d'éclaireur — Étrange statue dans la forêt de Trollécorce~
+@6876=~Nous suivions deux individus qui semblaient être des jumeaux parfaitement identiques à travers la forêt de Trollécorce. Ils avançaient dans une étrange marche funèbre qui finit par nous distancer. Une heure plus tard, cependant, nous avons retrouvé l'un d'eux dans une clairière inquiétante. En son centre se dressait une statue représentant deux silhouettes sans visage : l'une levait une lame ou un bâton, prête à frapper l'autre qui se recroquevillait de peur.
+
+Le jumeau que nous avons trouvé gisait mort au pied de la statue, le crâne vraisemblablement fracassé contre elle. L'examen de ses affaires révéla une iconographie l'identifiant comme fidèle de Bhaal. Nous soupçonnons qu'un rituel a été accompli pour reproduire la scène représentée par la statue. Pourtant, rien dans cette dernière n'indique qu'elle ait été créée dans un but rituel lié à Bhaal lui-même. Non, elle me paraît provenir de quelque chose de bien plus ancien et primal.
+
+*un ensemble d'indications au-dessous est en partie masqué par de l'encre renversée*
+
+*Rapport complémentaire : toutes les cultures, des tribus barbares de l'Épine dorsale du Monde aux chamans des esprits de Rashéménie, connaissent l'histoire du premier meurtre entre proches, cet instant où un frère lève son arme contre l'autre et commet le fratricide. Peut-être cette statue recrée-t-elle ce récit venu d'un âge plus ancien.*~
+
+@7131=~Brise-points de tension~
+@7132=~Ces bracelets aiguisent les sens de leur porteur afin qu'il distingue plus facilement les fissures et points de faiblesse dans les objets ou les personnes devant lui, et puisse ainsi mieux les briser. Ils ne fonctionnent que pour celui qui possède assez de sagesse pour exploiter une telle perception.
+
+Sagesse requise : 16
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+– Dégâts : +4
+
+Poids : 1~
+
+@7134=~Mocassins de dandy~
+@7135=~Contrairement aux chaussures habituelles des aventuriers, celles-ci ont été conçues en privilégiant avant tout le confort. Elles sont doublées de la fourrure et de la laine les plus douces, et donnent à leur porteur l'impression de marcher sur des nuages. Un raffinement exquis, même pour le dandy le plus exigeant. De tels mocassins devraient tomber en morceaux après un long voyage, mais un enchantement ingénieux les maintient en parfait état et semble même les nettoyer durant la nuit.
+
+Plus précieux encore, deux enchantements jumelés protègent leur porteur : l'un lui confère de la vitesse, l'autre une protection. Ils veillent ainsi à ce qu'il survive jusqu'à une nouvelle soirée paisible près du feu, les pieds relevés bien haut pour savourer le confort de ses mocassins.
+
+La sophistication de leur magie va toutefois jusqu'à refuser d'être portée par des pieds jugés trop rudes et « paysans » pour les apprécier. Ainsi, les combattants les plus endurcis risquent de n'y trouver qu'une paire de chaussures confortables, quoique particulièrement snobes.
+
+Utilisable par : Barde, Mage, Mage/Voleur
+
+CARACTÉRISTIQUES :
+
+Capacités d'équipement :
+- Légère augmentation de la vitesse de déplacement
+- 25 % de chances de déclencher Bouclier sur le porteur lorsqu'il est touché
+
+Poids : 4~
+
+@7136=~Note humide~
+@7137=~<CHARNAME>,
+
+Cela ne devrait pas beaucoup te surprendre. La vérité, c'est que la blessure que Sarevok m'a infligée a toujours été mortelle ; je n'avais fait qu'acheter quelques mois de sursis. Mais ce temps est écoulé. Cette clairière me semble un lieu assez paisible pour mourir. J'ai déjà avalé la capsule de poison. Ceci est mon dernier message.
+
+Le rituel du Porteur de la Mort est une supercherie. Ou... une ruse entretenue par les prêtres de Bhaal afin de contrôler ceux qui se révélaient être leurs armes les plus efficaces. Pourtant, je comprends maintenant que Sarevok n'a jamais achevé le rituel. Il a toujours été son propre maître. Je cherchais une vérité qui expliquerait aisément notre chute, mais la vérité s'est révélée à la fois insaisissable et parfaitement simple.
+
+Nous avons été vaincus parce que tu étais tout simplement meilleur que nous.
+
+Savoure ta victoire si tu le souhaites ; je la reconnais comme absolue. Je t'ai même laissé ma meilleure paire de chaussures en récompense. Quelle générosité de ma part, n'est-ce pas ?
+
+Ne te laisse pas guider par ceux qui chercheraient à se servir de toi.
+
+-Winski Perorate~
