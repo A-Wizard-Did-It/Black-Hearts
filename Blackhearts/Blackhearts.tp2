@@ -66,6 +66,22 @@ LANGUAGE ~Portugues (translation: DarthNihilus530)~
 ~Blackhearts/tra/portugues/BHBG1items.tra~
 ~Blackhearts/tra/portugues/BHBG1script.tra~
 
+LANGUAGE ~French (translation: Deratiseur)~
+         ~french~
+
+~Blackhearts/tra/English/BHBG1setup.tra~
+~Blackhearts/tra/English/BHBG1names.tra~
+~Blackhearts/tra/English/BHBG1sounds.tra~
+~Blackhearts/tra/English/BHBG1quests.tra~
+~Blackhearts/tra/English/BHBG1items.tra~
+~Blackhearts/tra/English/BHBG1script.tra~
+~Blackhearts/tra/french/BHBG1setup.tra~
+~Blackhearts/tra/french/BHBG1names.tra~
+~Blackhearts/tra/french/BHBG1sounds.tra~
+~Blackhearts/tra/french/BHBG1quests.tra~
+~Blackhearts/tra/french/BHBG1items.tra~
+~Blackhearts/tra/french/BHBG1script.tra~
+
 
 BEGIN @1
 DESIGNATED 1
