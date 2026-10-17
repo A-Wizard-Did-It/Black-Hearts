@@ -262,7 +262,7 @@ For any issues had with the mod, make a report through github or contact me at m
 	- Jarl Adventure Pack (Marl) compatibility.
 
 - Version 2.05
-	- French translation by @Deratiseur
+	- French translation by IA
   	- EXTEND_TOP vs EXTEND_BOTTOM
   	- Correct mistake in previous version
   	- Correct typo for Simplified Chinese by @yoshimo0417
